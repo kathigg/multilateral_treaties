@@ -24,6 +24,12 @@ pip install --upgrade pip
 pip install -r requirements-ocr.txt
 ```
 
+Or use the repo bootstrap script:
+
+```bash
+bash scripts/bootstrap_ocr_env.sh
+```
+
 ## Run The Full `us_data` Batch
 
 ```bash
@@ -34,12 +40,44 @@ python scripts/process_us_data.py \
   --workers 4
 ```
 
+Or use the wrapper script with logging:
+
+```bash
+bash scripts/run_us_data_batch.sh
+```
+
 Useful variants:
 
 ```bash
 python scripts/process_us_data.py --match Kennedy --max-docs 2
 python scripts/process_us_data.py --keep-page-artifacts
 python scripts/process_us_data.py --method ocr
+bash scripts/run_us_data_batch.sh --match Kennedy --max-docs 2
+```
+
+## Remote Workflow
+
+For a new server, the clean path is:
+
+```bash
+ssh kathigg@128.4.20.143
+git clone https://github.com/kathigg/multilateral_treaties.git
+cd multilateral_treaties
+bash scripts/bootstrap_ocr_env.sh
+```
+
+Then start the full run inside `tmux` so it survives disconnects:
+
+```bash
+tmux new -s treaties
+cd ~/multilateral_treaties
+bash scripts/run_us_data_batch.sh
+```
+
+Detach from `tmux` with `Ctrl-b` then `d`, and reattach with:
+
+```bash
+tmux attach -t treaties
 ```
 
 ## Output Layout
