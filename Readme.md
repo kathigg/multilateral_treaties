@@ -1,5 +1,7 @@
 # Multilateral Treaties OCR Pipeline
 
+Note to self: To ssh, use ```ssh kathigg@128.4.20.143```.
+
 This repository now includes a batch pipeline for cleaning every PDF under `us_data`.
 
 The pipeline is designed for CPU-only servers:
