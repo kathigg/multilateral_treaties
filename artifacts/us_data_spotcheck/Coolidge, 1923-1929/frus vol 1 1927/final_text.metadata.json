@@ -1,0 +1,29 @@
+{
+  "source": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Coolidge, 1923-1929/frus vol 1 1927/clean_text.txt",
+  "removed_prefix_lines": 12,
+  "removed_toc_lines": 8,
+  "removed_unwanted_section_lines": 189,
+  "removed_page_number_lines": 658,
+  "removed_link_lines": 0,
+  "removed_imprint_lines": 13,
+  "imprint_lines": [
+    "PAPERS RELATING TO THE",
+    "FOREIGN RELATIONS OF THE",
+    "See PE FLV ao",
+    "",
+    "ear",
+    "",
+    "VOLUME I",
+    "",
+    "(IN THREE VOLUMES}",
+    "",
+    "DEPARTMENT OF STATE",
+    "WASHINGTON",
+    ""
+  ],
+  "removed_source_note_lines": 9,
+  "source_note_blocks": [
+    "1 The records of the Conference are printed in Senate Document No. 55,\n70th Cong., 1st sess., Records of the Conference for the Limitation of Naval\n(Washington, Government Printing Office, 1928).\n[1] The Secretary of State to the Ambassador in France (Herrick)\n[2] The Secretary of State to the Ambassador in France (Herrick)\n[3] The Secretary of State to the Ambassador in Japan (MacVeagh)\n[4] The Secretary of State to the Ambassador in France (Herrick)",
+    "88 For official records of the Conference, see League of Nations,"
+  ]
+}

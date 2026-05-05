@@ -4,3 +4,5 @@ removed_toc_lines=0
 removed_unwanted_section_lines=3505
 removed_page_number_lines=954
 removed_link_lines=0
+removed_imprint_lines=29
+removed_source_note_lines=15

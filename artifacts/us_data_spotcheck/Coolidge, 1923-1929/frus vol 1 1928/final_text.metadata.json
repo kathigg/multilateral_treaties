@@ -1,0 +1,30 @@
+{
+  "source": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Coolidge, 1923-1929/frus vol 1 1928/clean_text.txt",
+  "removed_prefix_lines": 14,
+  "removed_toc_lines": 11,
+  "removed_unwanted_section_lines": 193,
+  "removed_page_number_lines": 1244,
+  "removed_link_lines": 0,
+  "removed_imprint_lines": 12,
+  "imprint_lines": [
+    "PAPERS RELATING TO THE",
+    "FOREIGN RELATIONS OF THE",
+    "See PE FLV ao",
+    "",
+    "",
+    "VOLUME I",
+    "",
+    "(IN THREE VOLUMES}",
+    "",
+    "DEPARTMENT OF STATE",
+    "WASHINGTON",
+    ""
+  ],
+  "removed_source_note_lines": 4,
+  "source_note_blocks": [
+    "32 For records of negotiations, including those with the Italian and Japanese",
+    "7 For official records of this Conference, see League of Nations, Second,",
+    "39 For records of the International Conference for the Revision of the",
+    "34 Reference is to the daily issue, not the bound issue."
+  ]
+}

@@ -1,0 +1,89 @@
+1040  Foreign Relations, 1958–1960, Volume III, Supplement
+Arbitrary 
+Reference 
+Designation
+Initial 
+Operational 
+Capability 
+Datec
+Maximum 
+Effective 
+Altituded 
+(In Feet)
+Maximum 
+Horizontal 
+Range (NM)d
+Operational 
+Accuracye 
+(CEP in Feet)
+Guidance
+Maximum 
+Warhead 
+(Lbs. and 
+Type)f
+Remarks
+Speed Class
+SA–­2
+1957
+60,000 
+(min­
+imum 
+about 
+1,000).
+25 against 
+incoming 
+B–­52’s 
+at high 
+altitudes
+100
+Track-­while-­
+scan 
+radar/
+radio 
+command.
+450–700 
+HE or 
+Nuclear.
+System being widely 
+deployed, typified by 
+Glau site employing 
+Guideline missiles. 
+Suitable for employ­
+ment with field forces 
+and could be adapted 
+for use by surface 
+ships.
+Mach 3.
+SA–­3
+1961. 
+Possibly 
+latter half 
+1960).
+10,000 
+(min­
+imum 
+50).
+25—med. alt.
+20–50
+Semiactive 
+radar hom­
+ing all the 
+way.
+150–250 
+HE or 
+Nuclear
+Static or mobile system 
+primarily for low alti­
+tude defense. Could 
+be adapted for use by 
+surface ships.
+10—low alt.
+Mach 2–3.
+SA–­4
+No longer estimated as a probable development, at least in the near term. Instead, SA–­2 will probably be 
+improved to increase its altitude and range capabilities. Significant improvements to the SA–­2 system could 
+appear in about 1961.
+SA–­5
+1963–1966. Static antiballistic missile system with undetermined capability. Could be used for interception of 
+satellites with relatively low, established orbits.
+SUMMARY TABLE I—Continued

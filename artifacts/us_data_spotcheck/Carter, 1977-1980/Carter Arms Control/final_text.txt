@@ -1,34 +1,3 @@
-FOREIGN
-RELATIONS
-OF THE
-UNITED
-STATES
-VOLUME XXVI
-ARMS
-CONTROL
-AND
-NONPROLIFERATION
-DEPARTMENT
-OF
-STATE
-Washington
-
-Foreign Relations of the
-United States, 1977–1980
-Volume XXVI
-Arms Control
-and
-Nonproliferation
-Editor
-Chris Tudda
-General Editor
-Adam M. Howard
-United States Government Publishing Office
-Washington
-
-DEPARTMENT OF STATE
-Office of the Historian
-Bureau of Public Affairs
 For sale by the Superintendent of Documents, U.S. Government Publishing Office
 Internet: bookstore.gpo.gov
 
@@ -48,7 +17,6 @@ NSDM. I have asked that points of contact be designated by State, De-
 fense and CIA.
 Leon Sloss
 Acting
-1 Source: Carter Library, National Security Affairs, Staff Material, Defense/Secu-
 2 The Ford administration issued National Security Decision Memorandum 345,
 “U.S. Anti-Satellite Capabilities,” on January 18, 1977. It is printed in Foreign Relations,
 
@@ -137,7 +105,6 @@ submit.
 The Secretary thought that was good, because he believed it impor-
 tant that we do this.
 [Omitted here is discussion unrelated to Anti-Satellite Capabilities.]
-1 Source: Department of State, Office of the Secretariat Staff, Special Adviser to the
 Kremlin. Drafted by Krimer on April 2; reviewed by Hyland; and approved by Twaddell
 viet Union, Document 21.
 2 Gromyko and Vance had just briefly discussed a possible international treaty
@@ -180,7 +147,6 @@ constitute a direct threat to US Forces.
 5. (TS) The Joint Chiefs of Staff further believe that the United
 States should not participate in a ban on research, development,
 testing, and deployment of various ASAT systems. Of principal con-
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 22,
 Anti-Satellite Program. Top Secret.
 2 Not found.
 
@@ -257,7 +223,6 @@ proposed a ban only on peacetime use of antisatellite systems since the
 Soviets already have a capability. The U.S. does not. He added that ver-
 ification of a more comprehensive ban would be extremely difficult,
 and that in wartime, arms control would not provide protection.
-1 Source: Carter Library, National Security Council, Institutional Files, Box 41,
 Old Executive Office Building.
 2 Presumably Brown is referring to a briefing memorandum on space policy issues
 which was not found.
@@ -319,7 +284,6 @@ ARMS CONTROL FOR ANTISATELLITE SYSTEMS
 I. INTRODUCTION
 (S) The principal issue for decision is one of basic policy: assuming
 a U.S. initiative with the Soviet Union on anti-satellite (ASAT2) systems,
-1 Source: Carter Library, National Security Council, Institutional Files, Box 41,
 2 The term ASAT will here include any physical or electromagnetic attack on space
 systems (i.e., physical destruction, jamming, laser attack, or command capture. [1 line not
 declassified] [Footnote is in the original.]
@@ -975,7 +939,6 @@ BACKGROUND
 The U.S. has offered to propose ASAT arms limitations to the So-
 viet Union. In developing approaches for the discussions, a funda-
 mental consideration is the need for a U.S. ASAT capability.
-1 Source: Carter Library, National Security Council, Institutional Files, Box 41,
 2 See Document 5.
 3 Attached but not printed.
 4 Top Secret; Talent Keyhole; Comint.
@@ -1267,7 +1230,6 @@ This would attempt to preclude significant arms competition in ASAT
 systems.
 A useful summary comparison of the approaches is provided at
 Tab C in Table 4 including possible provisions and problems.
-1 Source: Carter Library, National Security Council, Institutional Files, Box 41,
 ment 6.
 
 Anti-Satellite (ASAT) Weapons and Talks
@@ -1347,7 +1309,6 @@ meeting prior to final decision on the ASAT issue. I believe the prin-
 cipal point he would want to have discussed at such a meeting is the
 verifiability of comprehensive ASAT prohibitions, taking into account
 the scale of violation necessary to have a significant military capability,
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 82,
 ASAT Arms Control. Top Secret. The salutation is handwritten.
 
 Anti-Satellite (ASAT) Weapons and Talks
@@ -1382,7 +1343,6 @@ approved Approach Four as the desired goal for our negotiations with
 the Soviets. This approach seeks a relatively comprehensive agreement
 which would ban all ASAT capabilities except electronic warfare. The
 ban would prohibit testing in space or against objects in space, deploy-
-1 Source: Carter Library, National Security Council, Institutional Files, Box 41,
 2 See Document 6.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -1409,7 +1369,6 @@ An SCC Working Group including members from ACDA and
 DOD should develop detailed terms of reference and negotiation work
 packages for Special Coordination Committee review.
 Zbigniew Brzezinski
-3 Reference is to the Soviet missile that could be targeted against low-altitude
 targets such as reconnaissance aircraft and, potentially, satellites. See memorandum to
 19, 1971. The text of the memorandum is in the CIA FOIA Electronic Reading Room
 (www.foia.cia.gov).
@@ -1441,7 +1400,6 @@ thoughts and suggestions. The Secretary replied in the affirmative and
 said that this would have a significant bearing on the ratification of the
 SALT agreement.
 [Omitted here is discussion unrelated to anti-satellite capabilities.]
-1 Source: Department of State, Office of the Secretariat Staff, Special Adviser to the
 David Anderson (S/S) on October 31. The meeting took place at the Department of State.
 The memorandum is printed in full in Foreign Relations, 1977–1980, vol. VI, Soviet Union,
 Document 53.
@@ -1546,7 +1504,6 @@ probably move more rapidly toward a space-based laser ASAT capa-
 bility if we were willing to fund a program directed at this purpose. Be-
 fore making such a decision, we should examine its impact carefully—
 particularly in light of our ASAT arms control interests.
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject
 2 Not attached. An undated memorandum from George Heilmeier, the Director of
 the Defense Advanced Research Projects Agency, to Secretary of Defense Brown, which
 was attached to a November 14 memorandum from Under Secretary of Defense William
@@ -1724,7 +1681,6 @@ as a framework for future negotiations:
 —ASAT system testing in space or against objects in space.
 —Use of ASAT systems or readying such systems for operational
 use.
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 82,
 Brown Files—General #1, ASAT Arms Control. Top Secret. The meeting took place in the
 White House Situation Room.
 2 In the right-hand margin, an unknown hand wrote “(Chairman)” after Brzezin-
@@ -1798,7 +1754,6 @@ It is on this latter point that our additional deliberations have
 caused me to recommend a change in tactics. I now have concerns that
 our own prohibition in our directive on U.S. space base testing may in
 fact be counterproductive. No doubt the contents of the restriction in
-1 Source: Carter Library, National Security Council, Institutional Files, Box 20, PD/
 NSC–33. Top Secret. Sent for action. In the upper right-hand corner, Carter wrote “Zbig—
 on something like this always get DOD & State comment. J. p.s. It’s probably o.k.” On
 February 25, Brzezinski forwarded the memorandum to Vance and Brzezinski and added
@@ -1880,7 +1835,6 @@ ASAT flight test demonstration (using MINUTEMAN, as I mentioned
 to you and the President) within about 12 months for about $50 M. This
 effort would be quite different from the program we are now pursu-
 ing. The interceptor would be assembled from available components,
-1 Source: Carter Library, National Security Council, Institutional Files, Box 20, PD/
 NSC–33. Top Secret.
 2 Not found.
 
@@ -1909,7 +1863,6 @@ Brezhnev speeches of last week, and lacks the upbeat suggestion of
 steps to infuse a new dynamism in the relationship.3
 The letter expresses disappointment at the lack of progress in the
 SALT negotiations since the Gromyko visit to Washington last Sep-
-1 Source: Department of State, Office of the Secretariat Staff, Special Adviser to the
 notes are printed in full in Foreign Relations, 1977–1980, vol. VI, Soviet Union, Document
 85.
 2 Omission in the original. Carter’s January 25 letter is printed in Foreign Relations,
@@ -1965,7 +1918,6 @@ when our programs reach the appropriate stage of development, sub-
 ject to further Presidential decision at that time. This would of course
 carry the implication that whether or not we test will depend heavily
 on whether the Soviets continue to test.
-1 Source: Carter Library, National Security Council, Institutional Files, Box 20, PD/
 NSC–33. Top Secret.
 2 Not found.
 22.
@@ -1977,7 +1929,6 @@ U.S. Position Regarding Anti-Satellites (ASAT)
 On my previous memo to you regarding removal of the restriction
 on “operational or space based testing” you called for DoD and State
 comment (Tab A).2
-1 Source: Carter Library, National Security Council, Institutional Files, Box 20, PD/
 NSC–33. Top Secret. Sent for action. Carter initialed the memorandum.
 2 See Document 18.
 
@@ -2038,7 +1989,6 @@ treat this limitation as an understanding between the two of you rather
 than lessen the impact of a very positive statement on testing in the
 more broadly distributed Presidential Directive.
 Zbigniew Brzezinski
-1 Source: Carter Library, National Security Council, Institutional Files, Box 20, PD/
 NSC–33. Top Secret.
 2 See Document 11.
 
@@ -2070,7 +2020,6 @@ clude such a move on our part.
 All other elements of the referenced memorandum remain in effect
 at this time.
 Jimmy Carter
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
 2 See Document 11.
 
 Anti-Satellite (ASAT) Weapons and Talks
@@ -2089,7 +2038,6 @@ capability.
 All other elements of my Arms Control for Anti-Satellite Systems
 memorandum dated September 23, 1977, remain in effect at this time.
 Zbigniew Brzezinski2
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Brzezinski
 Office File, Box 123, Subject Chron File, Vance, Miscellaneous Communication With:
 2 Printed from a copy that bears this typed signature.
 26.
@@ -2101,7 +2049,6 @@ US and Soviet Laser Weapons Capabilities
 Harold Brown has responded to your request for more informa-
 tion on present and potential US and Soviet laser weapons capabilities
 with his memo at Tab A.2
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
 right-hand corner of the memorandum.
 2 Not attached.
 
@@ -2169,7 +2116,6 @@ celestial bodies, or any portion thereof, and rejection of any limitations
 on the fundamental right to acquire data from space. (U)
 d. The space systems of any nation are national property and have
 the right of passage through and operations in space without interfer-
-1 Source: Carter Library, National Security Council, Institutional Files, Box 20,
 Folder 1, PD/NSC–37. Top Secret.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -2516,7 +2462,6 @@ in three possible approaches to the Soviets:
 Approach 1: Propose that the US and Soviets regard intercepts of
 and physical attacks on satellites of the other side as hostile acts, but
 wait to gauge Soviet reactions at Helsinki2 before deciding whether or
-1 Source: Carter Library, National Security Council, Institutional Files, Box 95, SCC
 meeting took place in the White House Situation Room.
 2 The United States and the Soviet Union were scheduled to begin ASAT talks in
 Helsinki, Finland on June 8. See Document 33.
@@ -2600,7 +2545,6 @@ nuclear weapons in space. At this point I noted we both have devel-
 oped manned and unmanned systems for rendezvous in space, and he
 agreed with that. (Neither at this point nor at any other did he once
 mention the Shuttle). In this same context he also added that there were
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 82,
 Brown Files—General #1, ASAT Arms Control. Secret; Exdis. The meeting took place at
 the Soviet Mission. Drafted by York on June 6.
 
@@ -2638,7 +2582,6 @@ SUBJECT
 US/Soviet Meeting on Anti-Satellite Matters
 The SCC met on June 1, 1978, to discuss final preparations for the
 US/Soviet preliminary meeting on ASAT matters at Helsinki, June
-1 Source: Carter Library, National Security Council, Institutional Files, Box 95, SCC
 urgent action. Carter initialed the memorandum.
 
 Anti-Satellite (ASAT) Weapons and Talks
@@ -2760,7 +2703,6 @@ The Chairman, Joint Chiefs of Staff
 The Director of Central Intelligence
 The Administrator, National Aeronautics and Space Administration
 The Director, Office of Science and Technology Policy
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
 transmitted the instructions to the ASAT Delegation in telegram 143176 to Helsinki, June
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -3051,7 +2993,6 @@ reconnaissance satellites; and
 —they have some 300 SS–9 boosters which we expect they would
 want to use in their space program that would have to be verifiably dis-
 mantled. (SL–11s are slightly modified SS–9s.)
-1 Source: Carter Library, National Security Council, Institutional Files, Box 99, Top
 Secret; Ruff; Talent Keyhole; [codewords not declassified]. The meeting took place in the
 White House Situation Room.
 
@@ -3156,7 +3097,6 @@ Evan Hineman Director, Office of
 General David Bradburn Member,
 Weapons Intelligence
 ASAT Delegation
-1 Source: Carter Library, National Security Council, Institutional Files, Box 21, PD/
 NSC–45. Top Secret; Ruff; [codewords not declassified]. The meeting took place in the White
 House Situation Room.
 
@@ -3238,7 +3178,6 @@ ASAT Instructions
 Following up on today’s SCC meeting,2 I have a number of com-
 ments on the relative priorities of the issues which may be useful to you
 in framing these issues for the President.
-1 Source: Carter Library, National Security Council, Institutional Files, Box 100, SCC
 2 See Document 35.
 
 Anti-Satellite (ASAT) Weapons and Talks
@@ -3309,7 +3248,6 @@ struction, and unauthorized displacement but this approach, in addi-
 tion to allowing Soviet testing to continue, may not take full advantage
 of the bargaining capital inherent in the Soviets’ demonstrated concern
 that we might consider displacing some of their satellites with the
-1 Source: Carter Library, National Security Council, Institutional Files, Box 21, PD/
 NSC–45. Top Secret. In the upper right-hand corner, Carter wrote “Zbig. J.”
 2 See Document 35.
 
@@ -3430,7 +3368,6 @@ After discussing these specific issues with the Soviets, you should
 send me your assessment of the Soviets’ interest in negotiating a
 two-part initial agreement consisting of a ban on damage, destruction,
 and unauthorized displacement of each other’s satellites, plus a
-1 Source: Central Intelligence Agency, Office of the Director of Central Intelligence,
 2 See Document 6.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -3629,7 +3566,6 @@ the question of renewal. If we do think it desirable to go ahead with
 MHV testing in mid-1981, we will need to make the case soon as to why
 that is so. Otherwise, we are likely to find that what is formally a
 one-year ban will be continuously extended. Even the prospect of such
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 50,
 ASAT. Top Secret. The memorandum is stamped “SECDEF Has Seen 8 Feb 1979.”
 2 See Document 38.
 
@@ -3914,7 +3850,6 @@ two issues which seem to matter far more to them than us: (1) whose
 satellites would be protected by the agreement; and (2) whether “hos-
 tile” or “illegal” satellites (e.g. direct broadcast satellites) would be pro-
 tected. We have not given the Soviets clear, firm U.S. positions on either
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 50,
 International Security Affairs, Negotiations, ASAT. Secret. A note in the upper-right
 hand corner by an unknown hand reads “dated APPX. 12 Mar 79.”
 2 Carter and Brezhnev were scheduled to meet in Vienna in June.
@@ -4003,7 +3938,6 @@ protected. (S)
 The SCC feels that the Soviet position is not wholly without merit:
 for example, it probably makes no sense to them to protect space ob-
 jects of the PRC, so long as the PRC is not a signatory of the 1967 UN
-1 Source: Carter Library, National Security Council, Institutional Files, Box 102, SCC
 Room.
 2 See Document 41.
 
@@ -4081,7 +4015,6 @@ defense as stated in the U.N. Charter. At the same time we do this we
 would note the statements made by the Soviets in both rounds of ASAT
 talks that their concerns with “illegal” satellites are not a pretext for re-
 taining ASAT capabilities. This should resolve the issue if the Soviets’
-1 Source: Carter Library, National Security Council, Institutional Files, Box 102, SCC
 2 See Document 41.
 3 See Document 43.
 
@@ -4166,7 +4099,6 @@ well: (1) the test suspension will benefit them directly by impeding So-
 viet ASAT development; (2) We can move from an interim agreement
 to negotiations aimed at limiting ASAT systems directly; and (3) We
 can invite others to join the process in the future. We should also seek
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 50,
 ASAT. Top Secret. On April 2, Brzezinski informed the Secretaries that “the President has
 decided that the agreement need only cover satellites the two sides own or share an in-
 terest in with third countries. At the same time, the President notes that his concern with
@@ -4205,7 +4137,6 @@ banning damage, destruction, and unauthorized displacement (change
 of trajectory) of each other’s space objects plus a one-year suspension of
 ASAT interceptor missile testing.2 Except as modified below, the in-
 structions for the first two rounds of ASAT talks remain in force. (S)
-1 Source: Carter Library, National Security Council, Institutional Files, Box 21, PD/
 NSC–45. Top Secret. The Americans and Soviets actually began the third round of talks
 2 On April 17, the Department of State instructed the Mission to NATO to inform
 NATO members that so far, despite the Soviet Union’s “limited anti-satellite capability,”
@@ -4798,8 +4729,6 @@ are to be protected by the Treaty, is now close to resolution by the Dele-
 gations in Vienna.
 A potentially serious problem is a Soviet proposal to exclude from
 coverage satellites which engage in “hostile” or “illegal” acts. Soviet ex-
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
-
 Anti-Satellite (ASAT) Weapons and Talks
 amples of “hostile” satellites have been rather far-fetched (e.g., satel-
 lites which harm the environment, or satellites which swoop down into
@@ -4954,7 +4883,6 @@ However, we do have an interceptor program and, if it is not pos-
 sible to get a test suspension, they can be certain that we will pursue
 this program vigorously with a view toward carrying out necessary
 tests.
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
 randum. The memorandum is stamped “ZB HAS SEEN.”
 2 The joint draft text containing this declaration is available in telegram 5107 from
 
@@ -4989,7 +4917,6 @@ SUBJECT
 Antisatellite Negotiations
 Considerable progress has been made in the ASAT negotiations.
 We recommend that an effort be made this week to push these negotia-
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 50,
 International Security Affairs, Negotiations, ASAT. Secret. A stamped notation reads
 “SECDEF HAS SEEN.” In the upper-right hand margin, Brown wrote “6/9. WS [Walter
 Slocombe]—Doesn’t the Delegation’s proposal give up some of our highly classified pro-
@@ -5198,7 +5125,6 @@ Gromyko felt he had to tell the Secretary that on this question there
 was a substantial difference between the positions of the sides. It did
 not look as if this was something that could result in agreement here
 during the summit. Since this was so, what could they say about it in
-1 Source: Department of State, Office of the Secretariat Staff, Cyrus R. Vance, Secre-
 Drafted by Krimer on June 26. The meeting took place at the Soviet Embassy. Vance was
 in Vienna from June 15–18, accompanying Carter at the U.S.–USSR Summit.
 
@@ -5267,7 +5193,6 @@ The President said we were ready to sign a partial agreement with
 the Soviet Union on anti-satellite systems, an agreement to bar any
 damage or destruction of satellites and announce publicly that neither
 side has plans to test anti-satellite missiles or systems.
-1 Source: Department of State, Office of the Secretariat Staff, Cyrus R. Vance, Secre-
 by Krimer on June 20; and approved by Aaron. The meeting took place at the Soviet Em-
 bassy. The memorandum of conversation is printed in full in Foreign Relations, 1977–1980,
 vol. VI, Soviet Union, Document 203.
@@ -5462,7 +5387,6 @@ round of ASAT negotiations with the Soviets that might lead to making
 some progress. The first question discussed was: Should we consider
 making explicit exceptions in treaty coverage for satellites engaged in
 activities one or both sides might find unacceptable? (TS)
-1 Source: Carter Library, National Security Council, Institutional Files, Box 123, SCC
 Situation Room.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -5534,7 +5458,6 @@ against satellites whose missions they consider inimical to Soviet interests.
 They would probably be willing to alter their positions somewhat on some of
 the remaining unresolved issues in order to obtain an accord. [handling re-
 striction not declassified]
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
 fied]. A note at the bottom of the page reads: “This memorandum was prepared by the Of-
 fice of Political Analysis and the Office of Scientific and Weapons Research. It has been
 coordinated with the Office of Strategic Research, the National Intelligence Officers for
@@ -5764,7 +5687,6 @@ bility of such an initiative at the CCD.)2 At the end of the first round of
 consultations, held in Geneva in August 1976, it was agreed to hold an-
 other round at a later date to be determined.3 During last fall’s UNGA,
 the Soviets inquired at a high level as to US views on resuming the
-1 Source: Carter Library, National Security Council, Institutional Files, Box 44,
 PRM–27 [1]. Confidential.
 2 At the summit, the two sides “reaffirmed their interest in an effective international
 agreement which would exclude from the arsenals of States such dangerous instruments
@@ -5982,7 +5904,6 @@ Assistant Secretary Arthur Hartman
 Mr. William Hyland
 Deputy Assistant Secretary Slocombe
 Mr. William D. Krimer, Interpreter
-1 Source: Department of State, Office of the Secretariat Staff, Special Adviser to the
 12; reviewed in draft by Hyland; and approved by Twaddell on April 12. The meeting
 took place at the Kremlin. The memorandum is printed in full in Foreign Relations,
 
@@ -6079,7 +6000,6 @@ The United States is publicly committed to the objective of a com-
 plete prohibition of chemical weapons. The Biological Weapons Con-
 vention which we signed in 1971 contained a specific commitment to
 continue negotiations toward that end.
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 61,
 Chemical/Biological Weapons. Secret. Sent for action.
 
 Chemical and Biological Weapons
@@ -6152,7 +6072,6 @@ consideration of:
 interests
 —verification and compliance requirements
 —possibilities for successful negotiation
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 61,
 Chemical/Biological Weapons. Secret. Sent for action. Carter wrote “ok, J” in the upper
 right corner of the memorandum. Underneath, Brown wrote “5/20. ISA—Since our mili-
 tary are so concerned about the CW threat, we should look carefully at the possibility re-
@@ -6199,8 +6118,6 @@ argued that this would not set a precedent, since what we insist upon is
 what is necessary for our security in each individual case. Several par-
 ticipants noted that we had accepted the Biological Warfare Conven-
 tion with no verification provisions, because we believed that the risks
-1 Source: Carter Library, National Security Council, Institutional Files, Box 86, SCC
-
 Foreign Relations, 1977–1980, Volume XXVI
 of non-compliance were far outweighed by the benefits of the treaty
 both from the point of view of superpower activities, and to prevent
@@ -6273,7 +6190,6 @@ viets have hinted at possible flexibility in their longstanding position
 that verification be based on national technical means.
 —Domestic Background: Several times Congress has defeated
 budget requests to build a new binary chemical facility. Congress has
-1 Source: Carter Library, National Security Council, Institutional Files, Box 86, SCC
 of the memorandum.
 2 See Document 68.
 3 In July 1974 the Soviets proposed that the “development, production, and stock-
@@ -6356,8 +6272,6 @@ The Secretary of State
 The Secretary of Defense
 The Director, Arms Control and Disarmament Agency
 The Director of Central Intelligence
-1 Source: Carter Library, National Security Council, Institutional Files, Box 86, SCC
-
 Foreign Relations, 1977–1980, Volume XXVI
 SUBJECT
 Chemical Warfare
@@ -6716,7 +6630,6 @@ SUBJECT
 Report on Bilateral Consultations on a Chemical Weapons (CW) Ban (August
 We have recently concluded a further round of discussions with
 the Soviets in Geneva on the question of a treaty prohibiting chemical
-1 Source: Carter Library, National Security Council, Institutional Files, Box 44,
 PRM–27 [1]. Confidential.
 
 Chemical and Biological Weapons
@@ -7241,7 +7154,6 @@ e. Existing overseas stockpiles of chemical weapons can be main-
 tained without additional consultations. If the matter is raised by the
 FRG, we will agree to consultations about the future of stockpiles lo-
 cated in Germany. (S)
-1 Source: Carter Library, National Security Council, Institutional Files, Box 19,
 PD–28. Secret. Carter wrote at the top “ok J.C.”
 2 See Document 70.
 federal-register/executive-orders/1975.html)
@@ -7544,8 +7456,6 @@ appropriate defensive measures.
 • Soviet concern with civil defense against biological and chemical
 weapons continues even after a biological warfare treaty has been
 signed and talks on limiting chemical weapons are under way.
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
-
 Chemical and Biological Weapons
 [Omitted here is the table of contents and the body of the
 assessment.]
@@ -7580,8 +7490,6 @@ possible approaches for resolution.
 current U.S. negotiating instructions.
 —Consideration of extent of implementation of past decrease re-
 garding U.S. CW stocks.
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
-
 Foreign Relations, 1977–1980, Volume XXVI
 decision2 “that U.S. chemical warfare forces be maintained without
 force improvement” including a discussion of possible steps to mod-
@@ -8178,7 +8086,6 @@ Dr. Robert Mikulak, Staff Officer
 JCS
 General David C. Jones, Chairman
 Lt. General William Y. Smith, Assistant to the Chairman
-1 Source: Carter Library, National Security Council, Institutional Files, Box 100, SCC
 Situation Room.
 
 Chemical and Biological Weapons
@@ -8306,7 +8213,6 @@ tive on this issue, based not only on safety which binary munitions re-
 solve in part, but more importantly on even acknowledging that NATO
 is considering the prospect of chemical warfare in Europe. In addition,
 Congressional attitudes are quite hostile to the idea of chemical weap-
-1 Source: Carter Library, National Security Council, Institutional Files, Box 100, SCC
 right-hand corner of the memorandum.
 2 Attached but not printed. See Document 96 for the minutes of the meeting.
 
@@ -8561,7 +8467,6 @@ force improvement, and not to seek funds for the binary munitions
 facility.
 I support these views of the JCS.
 Harold Brown
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 61,
 Chemical/Biological Weapons. Secret. Copy sent to the Chairman of the Joint Chiefs of
 Staff. In a June 30 memorandum to Brown, Brzezinski wrote that the “views of the Joint
 Chiefs of Staff” had “been noted and will be brought to the attention of the President. I
@@ -8639,7 +8544,6 @@ Deputy Foreign Minister G.M. Korniyenko
 Marshal N.V. Ogarkov
 Ambassador A.F. Dobrynin
 Mr. A.M. Aleksandrov-Agentov
-1 Source: Department of State, Office of the Secretariat Staff, Cyrus R. Vance, Secre-
 by Krimer on June 20; and approved by Aaron. The meeting took place at the Soviet Em-
 bassy. The memorandum is printed in full in Foreign Relations, 1977–1980, vol. VI, Soviet
 Union, Document 203.
@@ -8799,7 +8703,6 @@ critical differences. In view of the continuing degradation of our deter-
 rent stockpile and the serious asymmetry of capabilities in this area, I
 directed that the binary chemical munitions facility be included in the
 Department of the Army basic budget submission in the amount of $19
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 61,
 Chemical/Biological Weapons. Secret.
 2 See Document 100.
 
@@ -8830,7 +8733,6 @@ JCS
 General John Pustay (Asst. to the Chairman)
 Ray McCrory (Chief, SALT Staff)
 [name not declassified] (Office of Scientific Intelligence)
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Brzezinski
 took place in the White House Situation Room.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -8948,7 +8850,6 @@ It was decided that in upcoming consultations with key allies and other
 western nations, we will indicate that we are considering a shift if we
 can be assured of strong support to keep the CD’s mandate narrowly
 limited, and in protecting our substantive position. A final decision will
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Brzezinski
 initialed the top of the memorandum.
 2 See Document 104.
 
@@ -9138,7 +9039,6 @@ points in Del’s guidance, as given Ref A, para 5C.
 the use of chemical weapons. (National Archives, RG 59, Central Foreign Policy File,
 D800073–1105) The telegram discussing a chemical weapons working group in the CD
 was not found.
-5 Reference is to the debates within the Carter administration and NATO about
 whether or not to retaliate against the Soviet Union after it invaded Afghanistan. For
 more on this subject, see Foreign Relations, 1977–1980, vol. XII, Afghanistan.
 
@@ -9295,7 +9195,6 @@ after a Party “finds” that any other Party is in violation. We may also
 have to decide what position to take on past compliance in the final
 document of the Review Conference.
 Ralph Earle II3
-1 Source: Carter Library, National Security Council, Institutional Files, Box 110, SCC
 3 Earle signed the memorandum “Ralph.” Under his signature, he wrote “I have
 discussed the substance of this memo with Cy, who agrees and suggests that we have an
 SCC meeting as soon as possible after receipt of the intelligence assessment. RWE.”
@@ -9336,7 +9235,6 @@ West rivalry.
 The strategy consists of seven interrelated parts, setting out a
 number of actions to involve other states and appropriate international
 fora more actively in the issue. Specifically:
-1 Source: Carter Library, National Security Council, Institutional Files, Box 110, SCC
 and the CIA.
 
 Chemical and Biological Weapons
@@ -9412,7 +9310,6 @@ what occurred. Therefore, the Weapon and Space Systems Intelligence
 Committee, with the exception of State Department, concludes that
 there is a high probability that the Soviets still have an active biological
 warfare agent program at this Sverdlovsk facility. (S)
-1 Source: Carter Library, National Security Council, Institutional Files, Box 110, SCC
 sessment to Moscow and the Mission in Geneva in telegram 68653, March 15. (National
 
 Chemical and Biological Weapons
@@ -9463,7 +9360,6 @@ of agent escaped from a military facility long suspected to be a biolog-
 ical warfare facility and subsequently infected people in the local vi-
 cinity of the facility, causing between [numbers not declassified] deaths
 [less than 1 line not declassified] due to anthrax, a known biological war-
-1 Source: Carter Library, National Security Council, Institutional Files, Box 110, SCC
 Situation Room.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -9737,7 +9633,6 @@ was a deliberate plot by the United States. I replied that at this time we
 were awaiting the Soviet reply, considering what we should say in our
 plenary statement at the Review Conference and giving general consid-
 eration to any further steps.
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Country
 Jones, Turner, and Brzezinski.
 2 Senators Frank Church (D-Idaho), Jacob Javits (R-New York), Howard Baker
 (R-Tennessee), and Congressmen and Speaker of the House of Representatives Thomas
@@ -9777,7 +9672,6 @@ the efficacy of the Biological Weapons Convention. The reply was
 given to the acting DCM in the form of an oral statement this morning
 (March 20) by Viktor Komplektov, Chief of the Foreign Ministry USA
 Department, because Komplektov insisted that the appointment take
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Country
 indicates the original was received in the White House Situation Room.
 2 See Document 114.
 3 See Document 113.
@@ -9898,7 +9792,6 @@ tened to their stories, reacted in public and to the UN agency without
 waiting for or giving credence to what the Soviet Union said. The Secre-
 tary pointed out that the essential fact was that there appeared to be ev-
 idence that some material had not been destroyed which should have
-1 Source: Department of State, Office of the Secretariat Staff, Cyrus R. Vance, Secre-
 by Vest; and approved by Vance. The memorandum is printed in full in Foreign Relations,
 
 Chemical and Biological Weapons
@@ -10315,7 +10208,6 @@ question concerning the implementation of the Convention on the Pro-
 hibition of Bacteriological Weapons. Accordingly, there are no bases for
 raising the question of conducting consultations as foreseen by the
 mentioned Convention.
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 82,
 Brown Files—General #1, Biological Weapons. Secret; Immediate; Exdis. Sent for infor-
 mation to the Mission in Geneva and USNATO.
 Ministry of Foreign Affairs had been unable to locate newspapers that covered the Sverd-
@@ -10435,8 +10327,6 @@ Weteye Bombs
 On February 25, 1980, the Department of Defense announced that
 our inventory of 888 Weteye bombs, containing the nerve agent GB,
 would be retained in indefinite storage at Rocky Mountain Arsenal
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
-
 Foreign Relations, 1977–1980, Volume XXVI
 (RMA), Colorado. This decision reversed an announcement by the
 Army in May 1978 that the bombs would be moved to Tooele Army
@@ -10512,8 +10402,6 @@ at the Rocky Mountain Arsenal (RMA) in Denver, Colorado, rather
 than to move them to another location.
 As you remember, the DoD decision was based on strong reaffir-
 mation by the Services and the Joint Staff of the military need for the
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
-
 Foreign Relations, 1977–1980, Volume XXVI
 bombs and the perceived small, but finite, risk to the public associated
 with the movement considering the high media attention that would be
@@ -10803,7 +10691,6 @@ that though there were deaths due to anthrax, they arose through the
 consumption of diseased meat, and denied categorically that the Soviet
 Union was engaged in any activity which was not in compliance with
 the Biological Warfare Convention. (S)
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 82,
 Brown Files—General #1, Biological Weapons. Secret. The meeting took place in the
 White House Situation Room.
 2 See Document 112.
@@ -10930,7 +10817,6 @@ we please tell them.
 The Acting Secretary replied by stressing that Ambassador Earle
 will provide information that will underline the seriousness of our
 concerns.
-1 Source: Carter Library, National Security Affairs, Staff Material, Office Institu-
 In the upper right-hand corner of the memorandum, Brzezinski wrote, “M[arshall]
 B[rement], Next step? ZB.”
 2 See Document 114.
@@ -10976,7 +10862,6 @@ Dobrynin Meeting on BW, July 11.
 1. Secret—Entire text.
 2. Summary: ACDA Director Earle called in Dobrynin to present
 him with a paper expressing our dissatisfaction with Soviet responses
-1 Source: Carter Library, National Security Council, Institutional Files, Box 110,
 the Mission in Geneva, USNATO, London, Bonn, Paris, and the White House. Printed
 from a copy that indicates the original was received in the White House Situation Room.
 
@@ -11197,7 +11082,6 @@ had given US conclusions, not facts. When Dobrynin pressed him to
 give an example, Ambassador Earle suggested that evidence and docu-
 ments might be examined to resolve the disparity over how many
 people had contracted anthrax. Again stressing that the problem was a
-5 Reference is to the Aspin Committee Report, otherwise known as “Report of a
 Subcommittee of the House Permanent Select Committee on Intelligence: Soviet Biolog-
 6 Not found.
 
@@ -11259,7 +11143,6 @@ ponent in a CW environment. Until the United States demonstrates that
 it has an effective CW retaliatory capability, combined with a viable de-
 fense, the Soviets are not likely to be restrained from using chemicals in
 any future conflict. The almost nonexistent US offensive capability,
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 61,
 Biological/Chemical Warfare. Secret. In the upper right margin, Brown wrote “7/15—
 Good argument. Perhaps best handled by supporting [illegible] add-on, without at this
 time changing policy. (since the 3.1M merely puts US in position more to construction of
@@ -11339,7 +11222,6 @@ Oplinger concurs, but believes we can produce a White Paper
 which, without needlessly spilling intelligence sources, can make a
 compelling case that the Soviets are in violation of Article 5, perhaps
 sufficient to get other governments to condemn them on those
-1 Source: Carter Library, National Security Council, Institutional Files, Box 110,
 2 Tab A was not attached.
 3 Tab B is not attached. Reference is to “Toll is Put at 1,000 in Soviet Accident,” New
 York Times, July 16, 1980, which described the Sverdlovsk incident.
@@ -11376,7 +11258,6 @@ Convention Prohibiting Bacteriological Weapons.
 “The Soviet Union, as one of the initiators of and participants in
 the Convention, has always attached the utmost importance to the un-
 deviating fulfillment of all its provisions which represent a major meas-
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Country
 sion in Geneva, USNATO, London, Bonn, Paris, and the White House. Printed from a
 copy that indicates the original was received in the White House Situation Room.
 2 See Document 131
@@ -11492,7 +11373,6 @@ line we have already, at least in the short term until the UNGA in Sep-
 tember. The Soviets are resourceful enough to creatively change their
 line if we put them on notice that this is a very serious matter to us, that
 their stone-walling behavior jeopardizes further arms control agree-
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 82,
 Brown Files—General #1, Biological Weapons. Secret. Copies were sent to Komer, McGif-
 fert, Slocombe, Davis, and Buckley. Prepared by Weakley; and approved by Slocombe. A
 hand-written note under the date reads “Walt—This is a good outcome. Well done—
@@ -11961,7 +11841,6 @@ for Policy Planning
 Thomas Dashiell, Staff Specialist
 [name not declassified]
 for Chemical Technology
-1 Source: Carter Library, National Security Council, Institutional Files, Box 183,
 White House Situation Room.
 
 Chemical and Biological Weapons
@@ -12110,7 +11989,6 @@ The Director, Arms Control and Disarmament Agency
 The Administrator, Energy Research Development Administration
 SUBJECT
 Nuclear Testing
-1 Source: Carter Library, National Security Council, Institutional Files, Box 37,
 randum from Brzezinski which advised Carter to “immediately” sign the PRM in order
 to “show the seriousness of your purpose” to end all nuclear tests. (Ibid.)
 
@@ -12172,7 +12050,6 @@ Dobrynin raised the issue of French and PRC compliance. The Presi-
 dent responded that a CTB might be initialled for a limited time, such
 as 2–4 years. It would be subject to renewal. Both the United States and
 the Soviet Union would attempt to get France and the PRC to comply
-1 Source: Carter Library, National Security Affairs, Staff Material, Office, Outside
 fice. The memorandum is printed in full in Foreign Relations, 1977–1980, vol. VI, Soviet
 Union, Document 3.
 2 For Carter’s Inaugural Address and his remarks to other nations on U.S. foreign
@@ -12255,7 +12132,6 @@ order to undertake whatever internal consultations and adjustments
 they feel are necessary. In short, let us tell them as much as we can as
 early as possible, even if our initial presentations are brief and
 tentative.
-1 Source: National Archives, RG 59, Central Foreign Policy File, reel # N/A. Confi-
 dential; Immediate. Sent for information Immediate to Bonn, London, Paris, Rome,
 Tokyo, USUN, and the Mission in Geneva.
 2 In telegram 24133 to Bonn, Paris, London, Rome, Tokyo, USUN, USNATO, and
@@ -13596,7 +13472,6 @@ nity for Soviet weapon testing and technology acquisition under the
 guise of PNE.
 In the past, the Soviets have made it clear that they are interested in
 a comprehensive test ban which accommodates PNEs. They have
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 82,
 Comprehensive Test Ban Treaty 1977. Secret. Copies were sent to Harold Brown, Vance,
 George Brown, Sloss, and Turner.
 2 See Document 141.
@@ -13781,7 +13656,6 @@ The President agreed that CTB would be a useful topic for a lunch-
 eon discussion by him with the Joint Chiefs, Charles Duncan, you and
 me.
 Harold Brown3
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
 2 No record of this conversation has been found. According to the President’s Daily
 tial Materials)
 3 Brown signed “Harold” at the end of the memorandum.
@@ -13888,7 +13762,6 @@ permitted under this test ban. Second, what kind of verification would
 be required under such an agreement? Third, whether or not the So-
 viets are prepared to enter such an agreement if it is only a bilateral one.
 The Secretary said that, at this point, we have no idea as to how the dis-
-1 Source: Department of State, Office of the Secretariat Staff, Cyrus R. Vance, Secre-
 Drafted by Thayer; and approved in S on April 5. The memorandum is printed in full For-
 2 On February 8, Carter told Huang Chen “We have offered the Soviet Union a com-
 prehensive test ban treaty. This would be a bilateral agreement with the Soviets. If it can
@@ -14009,7 +13882,6 @@ the context of on-site investigation of certain phenomena. This should
 be aimed at providing assurances for all parties to the treaty that obli-
 gations under the treaty were being complied with. Something of this
 kind had been suggested by the Swedes. The Soviets would suggest
-1 Source: Department of State, Office of the Secretariat Staff, Special Adviser to the
 proved by Hyland (in draft), and Twadell on May 9. The meeting took place at the
 Kremlin. The memorandum is printed in full in Foreign Relations, 1977–1980, vol. VI, So-
 viet Union, Document 20. Vance reported on his conversation with Gromkyo to Carter
@@ -14458,7 +14330,6 @@ Mr. Hunter, NSC Staff
 Mr. Dobbins (Notetaker)
 [Omitted here is discussion unrelated to a comprehensive test
 ban.]
-1 Source: Department of State, Office of the Secretariat Staff, Cyrus R. Vance, Secre-
 meeting occurred at 10 Downing Street. The memorandum of conversation is scheduled
 to be printed in full in Foreign Relations, 1977–1980, vol. XXVII, Western Europe.
 
@@ -14857,7 +14728,6 @@ of actual yields in excess of this limit. (Additional details are provided
 at Tab B.)3 We have reviewed this policy and feel that it reduces this
 risk to an acceptably low level while ensuring against asymmetries
 with regard to the Soviet testing program. This issue is peculiar to a
-1 Source: Carter Library, National Security Council, Institutional Files, Box 145,
 the memorandum.
 2 Not attached.
 3 Not attached.
@@ -15057,7 +14927,6 @@ want one.
 We believe you should keep your options open and reach a judg-
 ment on this question in the context of deciding on our overall position.
 Accordingly, the letter to Paul would have him stress the importance of
-1 Source: Carter Library, National Security Council, Institutional Files, Box 20,
 PRM/NSC–38. Secret. Sent for action. In the upper right-hand corner an unknown hand
 wrote “All actions (Presidential annotations) completed per D.A.”
 2 July 13.
@@ -15218,7 +15087,6 @@ At the request of the President, Frank Press will establish an ad hoc
 scientific group to review and evaluate the responses to the above tasks
 prior to their consideration by SCC.
 In addition, the SCC Working Group should:
-1 Source: Carter Library, National Security Affairs, Staff Material, Agency File, Box
 Warnke, George Brown, Turner, and Fri.
 
 Comprehensive Test Ban
@@ -15255,7 +15123,6 @@ ergies to making their case for a PNE exception, and were reluctant to
 deal with other matters in comparable detail. All three Delegations
 presently regard the PNE issue as, by far, the most serious obstacle to
 an agreement. It could also become a critical bottleneck, with the So-
-1 Source: Carter Library, National Security Affairs, Staff Material, Agency File, Box
 2 See Document 159.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -15461,7 +15328,6 @@ bringing the two sides closer together quickly are great enough, in our
 judgment, to warrant the effort. Moreover, such an initiative would, in
 the broadest perspective, be consistent with our basic strategy of stimu-
 lating productive negotiations with the Soviets on an important arms
-1 Source: Carter Library, National Security Affairs, Staff Material, Agency File, Box
 was attached to a September 15 covering memorandum from Brzezinski to Harold
 Brown and Fri which asked for their comments by September 20. In the upper right-hand
 corner of Brzezinski’s memorandum, Brown wrote “9/16. MSH—I think it improper that
@@ -15821,7 +15687,6 @@ test ban. As the President had indicated this morning,2 this was an area
 in which he was very much interested and was desirous of early
 progress. The situation as the Secretary understood it now was that
 there were three main points of difference between us which had to be
-1 Source: Department of State, Office of the Secretariat Staff, Special Adviser to the
 Box 8, Gromyko to US, Sept. 1977. Secret. The meeting took place in the Secretary’s Con-
 ference Room. Drafted by Krimer; and approved by Twaddell. Vance describes the
 meeting with Gromyko in Hard Choices, pp. 60–61.
@@ -15905,7 +15770,6 @@ teria had to do with a limited number/purpose of projects, and a lim-
 ited number of explosions.
 I want to express my grave concerns about such an approach. Such
 explosions, even in limited numbers, and particularly if protracted over
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
 reported that Vance told UN Secretary General Kurt Waldheim that the United States
 was “not totally inflexible” about the Soviet Union’s “demand” that PNEs be excluded
 
@@ -16330,7 +16194,6 @@ end of next week and plan to make formal proposal to that effect on Oct
 and believe that prolonging the talks now would convey a signal of
 weakness in our PNE stand and would play Morokhov’s game by his
 rules.
-3 The SCC meeting, held on September 27, is available in Carter Library, National
 Security Council, Institutional Files, Box 89, SCC 032, CTB, Negotiating Issues and
 Options.
 
@@ -16401,7 +16264,6 @@ moratorium to include PNEs, however it might relate to their proposed
 treaty, would be a significant move on their part. In our public re-
 sponse, we would not want to hail it as a “breakthrough” or greet it
 with a shout of joy: we have to have time to see how they will play it
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
 memorandum.
 2 No record of this telephone conversation was found.
 3 See Document 170.
@@ -16555,7 +16417,6 @@ into force of the treaty without adherence of France and China. On his
 return, on October 26, he said he had new positions to present on all
 subjects, including that of peaceful nuclear explosions. He explained,
 however, that this would have to await a speech by Mr. Brezhnev.
-1 Source: Carter Library, National Security Affairs, Staff Material, Agency File, Box
 corner, Carter wrote “Good. J.” On November 9, Ambassador Toon informed Vance of a
 meeting that he had had that day with Brezhnev, who “wanted to call special attention to
 his Nov. 2 statement of readiness to reach agreement on CTB including a moratorium on
@@ -16627,7 +16488,6 @@ without weapons testing?
 g. What measures constitute adequate verification?
 h. What are the required CTB safeguards, and what added costs
 should be budgeted for them and programmed now?
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 50,
 TS C.T.B. Secret; Restricted Data. A stamped notation in the upper right-hand corner
 reads “30 NOV 1977 SEC DEF HAS SEEN.” Underneath the stamp, Harold Brown wrote
 “11/30 David McG Walt S,—we should take appropriate action to the extent possible
@@ -16711,7 +16571,6 @@ ommended by Paul, and our taking a mandatory on-site verification
 position would require us to split with our British colleagues. In light of
 what I have said above I believe we should stick with our British
 colleagues.
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
 the memorandum, Carter wrote “Cy—I agree. J.” To the right of the subject line, Brzezin-
 ski wrote “resolved Dec. 5th. ZB.”
 2 Not found.
@@ -16747,7 +16606,6 @@ tion that would require some justification for any decision to refuse an
 OSI request. I pointed out that in my view there would be little value in
 such a provision (it is really not a “challenge inspection” but just a right
 to receive an explanation) and suggested that we insist that in addition
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
 hand corner, Carter wrote “Zbig I agree with Paul/Cy—Keep black boxes & ‘right to
 challenge’ strong. J.”
 the Working Paper. (National Archives, RG 383, Records of the Arms Control and Disar-
@@ -16953,7 +16811,6 @@ prepared to consider any form of mandatory OSI, including a quota.
 They said that a U.S. proposal for mandatory OSI would be rejected
 and would be regarded as an attempt to complicate the negotiations at
 a time when the USSR had made several important concessions in
-1 Source: Carter Library, National Security Affairs, Staff Material, Agency File, Box
 corner of the memorandum, Carter wrote “good report. J.”
 3 See Document 181.
 
@@ -17080,7 +16937,6 @@ account of U.S. experience regarding the economic utility of peaceful
 nuclear explosions (PNEs).2
 Immediately thereafter, we began in Washington to prepare such a
 report. In Geneva, Gerry Johnson, who ran our PNE program for sev-
-1 Source: Carter Library, National Security Affairs, Staff Material, Agency File, Box
 2 See Document 168.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -17118,8 +16974,6 @@ plosives. US industry was directly involved, and was relied upon to
 identify promising applications of PNEs. The ultimate determination of
 the economic value of PNEs was made largely by industry. PNEs were
 4 The cover note from Vance is not attached.
-5 No classification marking.
-
 Comprehensive Test Ban
 investigated for use in excavation, natural gas stimulation, shale oil re-
 covery, copper mining, and underground storage cavities. Field testing
@@ -17199,7 +17053,6 @@ American people that effective and reasonable measures have been
 worked out for verifying the treaty. This package is likely to include
 improved national technical means, authenticated data from seismic
 stations in the USSR, and a new challenge OSI approach (described
-1 Source: National Archives, RG 383, Records of the Arms Control and Disarma-
 ment Agency, Office of the Director, Paul C. Warnke Files, December 1974–July 1979, Ac-
 siles, CTB, NPT, and Indian Ocean Arms Control, January–October 1978. Secret. A copy
 was sent to Keeny. Drafted by Robert Einhorn (ACDA/MA).
@@ -17244,8 +17097,6 @@ sufficient depth of burial, careful stemming and emplacement hole con-
 struction). Because of uncertainties in fixing the precise location of sus-
 picious events, OSI visits would, in most cases, be like looking for a
 needle in a haystack. As the study points out, success would not be as-
-4 The Working Group study of OSIs is available in Washington National Records
-
 Foreign Relations, 1977–1980, Volume XXVI
 sured even if the location of a covert test were known within ten
 meters.
@@ -17451,7 +17302,6 @@ tingent on Soviet movement to satisfactory solutions on the duration
 and PNE protocol issues along the lines we have proposed.
 5. You should draw on the working group guidance paper in con-
 tinuing to promote our approach to obtaining timely, useful, and au-
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
 mation Immediate to the White House. Printed from a copy that indicates the original
 was received in the White House Situation Room.
 
@@ -17487,7 +17337,6 @@ Report for the Soviets on US PNE Experience
 In your Fall meeting with Foreign Minister Gromyko,2 you offered
 to provide the Soviet Government with an account of our PNE experi-
 ence. Shortly thereafter, we briefed the Soviet CTB Delegation in Ge-
-1 Source: Carter Library, National Security Affairs, Staff Material, Agency File, Box
 Carter initialed the memorandum.
 2 See Document 168.
 
@@ -18308,7 +18157,6 @@ CTB
 The purpose of the meeting was to discuss the issue of stockpile re-
 liability and whether some continued testing should be permitted
 under a CTB. At the opening of the meeting Dr. Brzezinski explained
-1 Source: Carter Library, National Security Council, Institutional Files, Box 92, SCC
 the White House Situation Room.
 
 Comprehensive Test Ban
@@ -18479,7 +18327,6 @@ convinced that some explosions are necessary. What will be necessary
 is a political decision, and we will have to assess the risks.
 The President: This question has not been brought to me. I know
 that Jim Schlesinger, who heads the Energy Department and is respon-
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
 phone from the Oval Office. The memorandum is scheduled to be printed in full in For-
 eign Relations, 1977–1980, vol. XXVII, Western Europe.
 
@@ -18513,7 +18360,6 @@ As you will recall, the Chiefs pointed out in previous discussions
 with you3 their concern that we may be unable to maintain confidence
 in our nuclear weapons stockpile under a CTB and that the Soviets
 could maintain confidence in their weapons through clandestine
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
 Above Carter’s initial, an unknown hand wrote “Cy sent to Marcum 4/19.”
 2 Not found.
 3 Not found.
@@ -18669,8 +18515,6 @@ three options: a 5-year review procedure, an exemption (i.e. a TTB), and
 one other. We are still on the same course as before, even though it is
 true that State and ACDA are for a CTB with a 5-year review. We will
 be looking at this matter intensively, and the President has been in-
-1 Source: Carter Library, National Security Affairs, Staff Material, Brzezinski Office
-
 Foreign Relations, 1977–1980, Volume XXVI
 formed of the issues. You also indicated that with some of the options,
 there in effect is no treaty—i.e. a CTB; and that we first have to know
@@ -18703,7 +18547,6 @@ last round—nine weeks ending on March 21—it is probable that the tri-
 lateral negotiations will continue through the summer. Because it is ex-
 pected that the product of these negotiations will then be sent to the
 Conference of the Committee on Disarmament in Geneva for its consid-
-1 Source: National Archives, RG 383, Records of the Arms Control and Disarma-
 ment Agency, Office of the Director, Paul C. Warnke Files, December 1974–July 1979, Ac-
 siles, CTB, NPT, and Indian Ocean Arms Control, January–October 1978. Secret. In the
 upper right-hand corner of the memorandum, Carter wrote “I would like to expedite—
@@ -18785,7 +18628,6 @@ testing in order to identify stockpile problems and certify the adequacy
 of fixes. Some level of testing would be required as well to implement
 necessary changes in safety, security, and command/control, and to
 adapt older designs to new delivery systems entering the inventory.
-1 Source: Library of Congress, Manuscript Division, James Schlesinger Papers, Sub-
 ject File, Box 2, Energy Department, Comprehensive Nuclear Test Ban, General, 1978
 May. Secret.
 
@@ -18908,7 +18750,6 @@ essary, and the level of permitted experiments.
 Defense and Energy generally argued in favor of a plan rather than
 option to resume testing. Secretary Brown noted that this would reduce
 problems in retaining laboratory personnel and would be more accept-
-1 Source: Carter Library, National Security Council, Institutional Files, Box 93, SCC
 the White House Situation Room.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -18982,7 +18823,6 @@ near future. The most important issue is whether we should seek a 3 to
 5 KT threshold treaty, as the Chiefs prefer, or a fixed duration CTB. If
 you prefer the latter,4 you will also need to decide whether the duration
 should be 3 or 5 years, the level of experiments that would be per-
-1 Source: Carter Library, National Security Council, Institutional Files, Box 93, SCC
 ialed the memorandum.
 2 See Document 191.
 3 See Document 197.
@@ -19239,7 +19079,6 @@ agreement being negotiated. We would like to see it have a five-year
 term, and then renegotiate the agreement if both sides considered it ad-
 visable to enter into a new agreement. To be perfectly frank, we had
 concerns with our own nuclear arsenal which required3 occasional
-1 Source: Carter Library, National Security Affairs, Staff Material, Office, Outside
 Room at the White House. Drafted by Krimer. Printed from a draft that bears numerous
 handwritten edits. Bartholomew noted on the first page: “ZB: Krimer memcon with RB
 fixes. Reg.” The memorandum is printed in full in Foreign Relations, 1977–1980, vol. VI,
@@ -19323,7 +19162,6 @@ missiles are regularly exercised to demonstrate that they will remain
 operationally ready. For there to be doubt about nuclear weapons reli-
 ability is vastly distressing to the Services. The notion that nuclear
 weapons might degrade over the years, and have attached to them
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
 right-hand corner of the memorandum, Carter wrote “Zbig—You & Jim set up a briefing
 with a lab director & me. a) I don’t know how device works & b) what Soviet position is
 on this issue. J.”
@@ -19617,7 +19455,6 @@ non-nuclear weapon states, especially those that have not joined the
 NPT, to undertake a commitment not to carry out nuclear tests. While
 some states are unlikely to sign the CTB at this time no matter how it is
 negotiated, we believe that in a number of important cases prospects
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
 2 See Document 195.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -19740,7 +19577,6 @@ PD/NSC–382 and that we should focus our attention on the range from
 a few pounds to a few hundred tons. After extensive discussion, it was
 agreed that the Safeguards Plan3 should include several discrete op-
 tions detailing the utility of testing in this range.
-1 Source: Carter Library, National Security Council, Institutional Files, Box 95, SCC
 in the White House Situation Room.
 2 See Document 200.
 3 Not found.
@@ -19779,7 +19615,6 @@ Harold Agnew, Director, Los Alamos Nuclear Laboratory
 Roger Batzel, Director, Livermore Nuclear Laboratory
 Harold Agnew began by saying that he understood that it might be
 good if he or Roger Batzel ran through a brief explanation of how nu-
-1 Source: Carter Library, National Security Council, Institutional Files, Box 95, SCC
 in the White House Cabinet Room.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -20325,7 +20160,6 @@ and permitted experiments. He pointed out that after meeting with the
 laboratory directors, the President continued to rule out kiloton-level
 testing, but had more flexibility in considering a shorter duration with
 very low level permitted experiments.
-1 Source: Carter Library, National Security Council, Institutional Files, Box 95, SCC
 the White House Situation Room. The memorandum was originally dated June 26, and
 an unknown hand wrote “7” over the 6.
 
@@ -20404,7 +20238,6 @@ years. During the third year there would be a review conference to de-
 termine whether to negotiate a replacement treaty.
 b. In forwarding the treaty to the Senate for ratification the Presi-
 dent has decided to state his intention to resume testing at the end of
-1 Source: Carter Library, National Security Council, Institutional Files, Box 20,
 PRM/NSC–38. Secret. In the upper right-hand corner, Carter wrote “ok. J” The memo-
 randum was attached to an undated memorandum from Brzezinski to Mondale, Vance,
 Harold Brown, Schlesinger, Warnke, Jones, Turner, and Press that stated that the Presi-
@@ -20438,7 +20271,6 @@ Washington, July 1, 1978
 Attached are memoranda from the directors of the DOE nuclear
 weapons design laboratories responding to the request for comments
 on the new position on CTB discussed at the SCC meeting of 27 June
-1 Source: Library of Congress, Manuscript Division, James Schlesinger Papers, Sub-
 ject File, Box 1, Chronological File, 1978 July. Secret; Restricted Data. Two tabs are at-
 tached but not printed.
 2 See Document 207.
@@ -20524,7 +20356,6 @@ MINUTES OF MEETING
 The purpose of the meeting was to continue discussion of the three
 year approach on CTB, in light of comments received from the Chiefs2
 and Laboratory Directors.3
-1 Source: Carter Library, National Security Council, Institutional Files, Box 96, SCC
 White House Situation Room. Brzezinski summarized the meeting in a memorandum to
 Carter, July 7; Ibid.
 2 The JCS remained opposed to a CTB. See Memorandum From the Joint Chiefs of
@@ -20739,7 +20570,6 @@ We believe that the longer the duration of the CTB, the greater
 the benefits. But even a three-year ban, if non-discriminatory, would
 have significant non-proliferation value. Following are some specific
 benefits.
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 82,
 Comprehensive Test Ban Treaty #2. Secret. Copies sent to Brown, Schlesinger, and Brze-
 zinski. A stamped notation at the top of the memorandum reads “SECDEF HAS SEEN,
 help with JCS. HB.”
@@ -20866,7 +20696,6 @@ Mr. A.M. Petrosyants3
 Ambassador A.F. Dobrynin4
 Mr. V.M. Sukhodrev,
 Interpreter
-1 Source: Department of State, Office of the Secretariat Staff, Special Adviser to the
 Box 8, Vance-Gromyko July 1978. Secret. The meeting took place at the Soviet Mission.
 Drafted by Krimer on July 15.
 matters. [Footnote is in the original.]
@@ -21312,7 +21141,6 @@ even more seriously, Soviet consideration of the number, timing and
 specific characteristics of the national seismic stations. Accordingly,
 substantial further progress will require that we state soon our final po-
 sition on treaty duration.
-1 Source: National Archives, RG 383, Records of the Arms Control and Disarma-
 ment Agency, Office of the Director, Paul C. Warnke Files, December 1974–July 1979, Ac-
 siles, CTB, NPT, and Indian Ocean Arms Control, January–October 1978. Secret.
 2 The trilateral CTB negotiations resumed on May 4 in Geneva and continued into
@@ -21514,7 +21342,6 @@ shape at present and a CTB treaty in the near future would do much to
 improve them. It would also be seen by the world at large as a major
 step forward in arms control. I am particularly anxious that it should be
 a treaty that will win the support of leaders of non-nuclear states like
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Presidential
 Correspondence with Foreign Leaders, Box 20, United Kingdom: Prime Minister James
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -21638,7 +21465,6 @@ by India, will complain that they have been misled and our non-
 proliferation efforts will suffer a severe setback. Domestically, there is
 both a Congressional and private constituency that puts a comprehen-
 sive test ban high on its priority list. These constituencies will be disap-
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
 2 Not found.
 3 See Document 214.
 
@@ -21673,7 +21499,6 @@ scale for completion of the negotiations. In my view, it is important,
 while we continue to make progress on CTB, that the trilateral agree-
 ment should not be concluded before a SALT II agreement. I know this
 will likely result in a somewhat slower pace than both of us had hoped.
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Presidential
 Correspondence with Foreign Leaders, Box 20, United Kingdom: Prime Minister James
 forwarded a draft message to the President for his approval under a September 25 cov-
 ering memorandum. (Ibid.) Carter initialed Brzezinski’s cover memorandum and wrote
@@ -21712,7 +21537,6 @@ placement agreement.
 As these negotiations proceed, any changes in the Delegation’s po-
 sition on any remaining issues should be referred to the SCC for consid-
 eration and approval.
-1 Source: Library of Congress, Manuscript Division, James Schlesinger Papers, Sub-
 ject File, Box 2, Energy Department, Comprehensive Nuclear Test Ban, General, 1978,
 Sept.–Oct. Top Secret; Sensitive.
 
@@ -21749,7 +21573,6 @@ announced option to resume testing.
 3. (S) Clearly, there are divergent views concerning the nonpro-
 liferation benefits of a 3- to 5-year CTB followed by resumption of
 testing. The Joint Chiefs of Staff believe that an interagency paper
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 82,
 Comprehensive Test Ban Treaty #2. Secret. Copies were sent to Brown, Schlesinger, Brze-
 zinski, and Warnke.
 2 See Document 211.
@@ -21788,7 +21611,6 @@ Mr. N.N. Detinov
 Mr. V.M. Sukhodrev, Interpreter
 [Omitted here is discussion unrelated to a comprehensive test
 ban.]
-1 Source: Carter Library, National Security Affairs, Staff Material, Office, Presiden-
 The meeting took place in the Cabinet Room at the White House. The conversation is
 
 Comprehensive Test Ban
@@ -21865,7 +21687,6 @@ declassified] network [less than 1 line not declassified] might not be pos-
 sible during the term of a three year treaty. I believe it to be unwise to
 immediately and unilaterally reduce our requirements until we have at
 least explored Soviet reaction to our three year treaty proposal. More-
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
 fied]. Copies were sent to Vance and Warnke.
 2 See Document 219.
 
@@ -22084,7 +21905,6 @@ accurate in predicting the consequences if we fail to reach a CTB agree-
 ment by then. (C)
 RECOMMENDATION:
 That you read Gerry Smith’s letter. (U)
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 Oplinger/Bloomfield Subject File, Box 42, Proliferation: Comprehensive Test Ban,
 ski. Carter initialed the top right-hand corner of the memorandum indicating that he
 saw it.
@@ -22380,7 +22200,6 @@ August 10 plenary and subsequently, they have rejected the “replace-
 ment treaty” formulation. The Soviets say they recognize that the US is
 not willing or able to commit itself beyond the three year period, and
 that it must therefore keep all options open for that period. But they in-
-1 Source: Carter Library, National Security Council, Institutional Files, Box 101, SCC
 from the NSC Staff Secretary, Christine Dodson, to Vance, Brown, Schlesinger, Warnke,
 Jones, and Turner.
 2 See Document 200.
@@ -22565,8 +22384,6 @@ year duration and a 10 station NSS network, little progress had been
 made on the detailed verification issues. In his view the main task now
 was to nail down effective NSS provisions and a new review confer-
 ence provision could be helpful in this regard.
-1 Source: Carter Library, National Security Council, Institutional Files, Box 101, SCC
-
 Foreign Relations, 1977–1980, Volume XXVI
 Aaron stated without objection that there was agreement on how
 to proceed on the other issues. This would involve continuing to defer
@@ -22720,7 +22537,6 @@ able, than not proceeding on the recommended path.
 It should be borne in mind that DOE, in FY 79, has already sent to
 the Congress a $12.8 M supplemental for the two additional confidence
 tests; we have two additional supplementals pending with OMB total-
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
 sent to Brown, Jones, and Press.
 2 Not found.
 
@@ -22787,7 +22603,6 @@ volved in decisions that vitally affect U.S. security—such as whether
 the CTB will be followed by a threshold ban. Presumably, we would
 not even want a multilateral threshold treaty, which would tend to legit-
 imize low-yield testing by all parties. The most practical way of pur-
-1 Source: Carter Library, National Security Council, Institutional Files, Box 153,
 Ambassador Herbert York.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -22903,7 +22718,6 @@ ban.]
 Comprehensive Test Ban
 The Secretary said he and Lord Carrington had gotten hung up the
 question of how many national seismic stations should be located in the
-1 Source: Department of State, Office of the Secretariat Staff, Cyrus R. Vance, Secre-
 Drafted by Peter Sommer (EUR). The meeting took place at the Ministry of Defence. The
 conversation is scheduled to be printed in full in Foreign Relations, 1977–1980, vol. XXVII,
 Western Europe.
@@ -22936,8 +22750,6 @@ aboard and considering the reliability of our nuclear stockpile.
 ban.]
 from the Secretary’s Delegation, May 22. (National Archives, RG 59, Central Foreign
 Policy File, P840171–0170)
-3 Reference is to the upcoming U.S.–USSR summit in Vienna scheduled for June
-
 Foreign Relations, 1977–1980, Volume XXVI
 233.
 Telegram From the Secretary’s Delegation in London to the
@@ -23073,7 +22885,6 @@ In this regard, Assistant Secretary Sewell of your staff has previ-
 ously submitted a list of prospective members6 and Frank plans to
 draw from this list in establishing the panel. Frank also tells me he
 would welcome an opportunity to discuss with you any further sug-
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
 Jones, Seignious, and Press.
 2 See Document 230.
 3 Not found.
@@ -23113,7 +22924,6 @@ Marshal N.V. Ogarkov
 Ambassador A.F. Dobrynin
 Mr. A.M. Aleksandrov-Agentov
 Mr. L.M. Zamyatin
-1 Source: Department of State, Office of the Secretariat Staff, Cyrus R. Vance, Secre-
 Drafted by Krimer on June 20; and approved by Aaron. The meeting was held at the So-
 viet Embassy. The memorandum of conversation is printed in full in Foreign Relations,
 
@@ -23436,7 +23246,6 @@ Senate deliberations on the SALT II Treaty. Some Senators could see US
 actions in this area as being indicative of future US actions with respect
 to compliance ambiguities in SALT. Consequently, I urge your serious
 consideration of this issue.
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Agency
 239.
 Memorandum From John Marcum and Marshall Brement of
 the National Security Council Staff to the President’s
@@ -23447,7 +23256,6 @@ Soviet Nuclear Test (S)
 Jim Schlesinger has written you (Tab B)2 to point out that the most
 recent Soviet nuclear test has a high probability of having exceeded the
 150 KT threshold and to urge that we seek an explanation of this event
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Agency
 2 Document 238.
 
 Comprehensive Test Ban
@@ -23690,7 +23498,6 @@ at dinner with the Prime Minister. The CTB should also be addressed.
 Mrs. Thatcher quickly replied that the UK could only afford one seis-
 mic station and had offered to withdraw if that would help the negotia-
 tions.2 The President said he had discussed this issue with Brezhnev at
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
 Room at the White House. The conversation is scheduled to be printed in full in Foreign
 Relations, 1977–1980, vol. XXVII, Western Europe.
 2 Brewster had briefed Vance about Thatcher’s misgivings about a CTB and particu-
@@ -23731,7 +23538,6 @@ Begin text:
 Both our governments have recently reaffirmed their intention not
 to take any actions incompatible with the 150 kiloton limit on under-
 ground nuclear explosions called for by the Threshold Test Ban Treaty
-1 Source: National Archives, RG 59, Central Foreign Policy File, No reel number
 available. Secret; Immediate. Sent immediate to London and the Mission in Geneva.
 2 Not found.
 
@@ -23964,7 +23770,6 @@ available for other uses if deemed appropriate.
 I. Technology Transfer Issue
 The immediate case at issue is whether our offer to lend an NSS
 unit to the USSR for joint testing should be withdrawn in light of post-
-1 Source: Carter Library, National Security Council, Institutional Files, Box 11, SCC
 2 On January 4, Carter announced that he had “directed that no high technology or
 other strategic items will be licensed for sale to the Soviet Union until further notice.”
 
@@ -24458,7 +24263,6 @@ stations (about $8 million) is small, it would be difficult to defend on
 the Hill since they would contribute little to CTB monitoring. However,
 as Frank Press pointed out, these Southern Hemisphere stations would
 augment our NPT monitoring capability for events such as the Sep-
-1 Source: Carter Library, National Security Council, Institutional Files, Box 11, SCC
 2 No record of this meeting has been found.
 3 See Document 242.
 agreed that “USG would consider problem of financing additional UK NSS while UK
@@ -24549,7 +24353,6 @@ remaining portion of the program seems clearly very useful, it is harder
 to quantify its direct contribution to stockpile reliability and longevity
 or to other factors that bear on readiness for a CTB. The weapon physics
 tests could continue profitably for a very long time, indeed. However,
-1 Source: Carter Library, National Security Council, Institutional Files, Box 20,
 PRM/NSC–38. Secret. The report was attached to a May 16 covering memorandum from
 Brzezinski to Brown and Duncan.
 
@@ -24824,7 +24627,6 @@ Soviets referring to the objective of halting testing “for all time” as well
 as other objectives from preambles of treaties to which we are party.
 The Chiefs were concerned that this could be inconsistent with the
 limited-duration treaty we are pursuing. We pointed out that our
-1 Source: Carter Library, National Security Council, Institutional Files, Box 114, SCC
 Brzezinski forwarded the Summary to Carter under cover of a July 3 memorandum.
 (Ibid.) The Department of Defense’s version of the meeting is in Memorandum For the
 Record, July 3; Library of Congress, Manuscript Division, Harold Brown Papers, Box 82,
@@ -24905,7 +24707,6 @@ other business with Dobrynin this afternoon. After some revisions, a
 State-proposed de´marche3 was approved which would note that the
 test appeared to have [less than 1 line not declassified] reaffirm the impor-
 tance of strict observance of [less than 1 line not declassified], and call for
-1 Source: Carter Library, National Security Council, Institutional Files, Box 116, SCC
 place in the White House Situation Room. Carter initialed the upper right-hand corner of
 the memorandum.
 2 September 13.
@@ -24960,7 +24761,6 @@ Control Intelligence Staff
 [name not declassified] Chief,
 Nuclear & Test Monitoring
 Branch
-1 Source: Carter Library, National Security Council, Institutional Files, Box 116, SCC
 tion Room. In the upper right-hand corner, Carter wrote “Zbig. J.”
 
 Comprehensive Test Ban
@@ -25032,7 +24832,6 @@ possibility of accepting some loss in system capability. The paper
 should be reviewed on an interagency basis by the Working Group, in-
 cluding OMB, prior to SCC consideration. (S)
 Zbigniew Brzezinski3
-1 Source: Carter Library, National Security Council, Institutional Files, Box 116, SCC
 Press, Jones, and Turner.
 2 See Document 254.
 3 Aaron signed the memorandum on Brzezinski’s behalf.
@@ -25071,7 +24870,6 @@ the ATP are included at Tab B.7 (S)
 On the whole, we are well-satisfied with the final draft of the ATP
 and believe that it merits your endorsement. We feel that your concern
 that an increased test program not subvert effort toward a CTB has
-1 Source: Carter Library, National Security Council, Institutional Files, Box 20,
 PRM/NSC–38. Secret. In the upper right-hand corner of the memorandum, Carter wrote
 “C.”
 2 Not found.
@@ -25224,7 +25022,6 @@ human rights; and
 fers to government-to-government transactions.
 2. Identify and analyze basic policy options, on the basis of the
 foregoing examination. Consider the impact of each option on the U.S.
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 Mathews Subject File, Box 3, Arms Sales: Presidential Review Memorandum/NSC–12:
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -25259,7 +25056,6 @@ The term arms transfers is a rubric for three forms of military ex-
 ports: (1) those paid for by the US as grant aid under the Military As-
 sistance Program (MAP); (2) those paid for by the recipient under the
 Foreign Military Sales Program (FMS) using US Government credits or
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 2 See Document 259.
 
 Conventional Arms Transfers/Talks
@@ -25473,7 +25269,6 @@ that the area of disarmament or arms reduction in the conventional arms area is 
 importance. It is the area where the largest amount of money is spent, and is a very se-
 rious and substantial problem. I would expect the discussion of reduction of conven-
 tional arms to be on the agenda of items that we might discuss when I go to Moscow at
-7 No classification marking. At the bottom of the first page, Carter wrote “Be sure
 that I’m consulted early in this process.”
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -25554,7 +25349,6 @@ export of items for which a commercial sales contract has been signed.
 At that point, where the foreign purchaser has already been persuaded
 that it needs the items in question, it is often more difficult to achieve
 restraint. Refusal to sell under FMS or denial of an export license to
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 marking. Brzezinski informed Christopher in a February 24 memorandum that he had
 forwarded the memorandum and the proposed regulation to Carter and said “I agree
 that publishing the proposed regulation at this time would be beneficial.” (Ibid.)
@@ -25632,7 +25426,6 @@ of conventional arms transfers.
 I must point out that many of the issues addressed in the Secre-
 tary’s memorandum, particularly those mentioned on pages 5 through
 7, are currently under consideration in the context of the PRM/NSC–12
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 action. In the upper right-hand corner of the first page of the memorandum, Carter wrote
 “Let me have orig draft of regulation before it was modified by munitions manufacturers.
 JC.”
@@ -25709,7 +25502,6 @@ problems.
 rious policy problems for us.
 —Our contacts with Congressmen strongly indicate that Congress
 is ready to accept most of the cases without debate. The main problem
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 2 See Document 260.
 3 See Document 262.
 4 Attached but not printed.
@@ -26010,7 +25802,6 @@ which you have directed by PRM/NSC–12, and we should be ready to
 present options and recommendations to you in the latter part of
 March. This study will also provide the basis for the studies and reports
 to Congress mandated by last year’s Arms Export Control Act.
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 2 See Document 259.
 
 Conventional Arms Transfers/Talks
@@ -26128,7 +25919,6 @@ sults of PRM–12. If, after reviewing the PRM–12 response, you decide
 to delegate to the Secretary of State the authority to determine which
 cases will be forwarded to you, no agency could maintain that such a
 decision was made without consideration of its views on the subject.
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 tion. In the upper right-hand corner of the first page of the memorandum, Carter wrote
 “Zbig—see me. J.C.” At the bottom of the first page, an unknown hand wrote “Closed
 2 See Document 263.
@@ -26175,7 +25965,6 @@ Robert Hopkins
 Robert A. Pastor
 [Omitted here is discussion unrelated to conventional arms
 transfers.]
-1 Source: Carter Library, National Security Council, Institutional Files, Box 60, PRC
 Room. The minutes are scheduled to be printed in full in Foreign Relations, 1977–1980, vol.
 XXIV, South America; Latin America Regional.
 
@@ -26246,7 +26035,6 @@ a broad conflict. We believed that this was not in the interest of either
 our two countries nor in the interest of people in the area. We believed
 that such actions could only strain relations between our two countries,
 which was not in our mutual interest. Therefore, we wanted to get the
-1 Source: Department of State, Office of the Secretariat Staff, Special Adviser to the
 in draft by Hyland; and approved by Twadell on May 9. The meeting took place at the
 Kremlin. The memorandum is printed in full in Foreign Relations, 1977–1980, vol. VI, So-
 viet Union, Document 20.
@@ -26330,7 +26118,6 @@ are presented on the facing page.
 —At Tab B:
 For your information—to be initialed if approved—
 a summary of the PRM’s conclusions on which there
-1 Source: Carter Library, Brzezinski Donated Material, Subject File, Box 24,
 tendees attached to the Summary of Minutes at Tab C, but not printed, indicates that the
 PRC meeting occurred on April 12. (Ibid.)
 
@@ -26809,7 +26596,6 @@ Senator Stone
 Senator Sarbanes
 Senator Thurmond
 Senator Javits
-1 Source: Department of State, Office of the Secretariat Staff, Cyrus R. Vance, Secre-
 Drafted by Jenkins; cleared by Benson in substance and Kimmitt in draft; and approved
 by Twaddell on May 4. The meeting took place at the Capitol. Vance held a similar
 meeting with members of the House of Representatives on April 26. (Ibid.)
@@ -26965,7 +26751,6 @@ in pursuing policies of restraint. In addition, we believe that regional
 agreements among purchasers of arms can contribute significantly to
 curbing the proliferation of conventional weaponry, and we will assist
 in whatever way possible in the conclusion of such agreements.
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 Secret; Sensitive. Carter signed the top of the first page and initialed the bottom of pages 2
 publicly announced and provided guidance for an explanation of the new policy to be
 held “at highest appropriate Foreign Ministry level” with each host government. (Tele-
@@ -27071,8 +26856,6 @@ Fiscal Year 1977; i.e., the figure which will be reported in next year’s
 Congressional Presentation Document.
 A reply is requested by June 10, 1977.
 Zbigniew Brzezinski
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
-
 Foreign Relations, 1977–1980, Volume XXVI
 273.
 Memorandum From Secretary of State Vance to
@@ -27110,7 +26893,6 @@ additional legal significance by being made a part of the definition of
 “major defense equipment” in the Arms Export Control Act. Munitions
 List articles which, like the C–130, fall within the definition of major de-
 fense equipment are subject to additional controls under the Arms Ex-
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 tion markings. In the upper right-hand corner of the first page of the memorandum,
 Carter wrote “To Cy. J.”
 
@@ -27185,7 +26967,6 @@ tral Intelligence Agency responsibilities and operations.
 2. As a result of this review, I am satisfied that present Agency pol-
 icies and procedures do not serve, directly or indirectly, to stimulate
 foreign requests for arms transfers. As you know, under present rules,
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 78,
 Arms Transfer/FMS Policy, 1977. Secret. A stamped notation at the top reads “SEC DEF
 all agencies are providing self-serving disclaimer, and many of them may well be correct.
 Are we in DOD the only [illegible]? I doubt it. (State for example is worse). HB.”
@@ -27225,7 +27006,6 @@ Thus far you have approved the sale of C–130s without armament con-
 figuration to Sudan, the Philippines, Korea, Bolivia and Zaire. The
 C–130 may be sold commercially if the total value of the sale is less than
 $25 million. Since three C–130s and related equipment cost more than
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 2 See Document 273.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -27306,7 +27086,6 @@ mulated to assemble a decision package.
 RECOMMENDATION
 That you continue to approve sales of C–130 aircraft which go to
 Congress except to NATO, Australia, New Zealand and Japan as previ-
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 Sent for action.
 2 See Document 275.
 3 Carter’s decision is recorded in a memorandum from Brzezinski to Vance, June 28;
@@ -27342,7 +27121,6 @@ President to have accurate and timely estimates of the dollars volumes
 that have been and are likely to be committed in any given year. There-
 fore on September 30, and monthly thereafter, you should provide a re-
 port containing the following:
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 Mathews Subject File, Box
 2, Arms
 Sales: Dollar
@@ -27379,7 +27157,6 @@ Marshall D. Shulman
 Dobrynin came in Monday afternoon, October 17, at the Secre-
 [Omitted here is discussion unrelated to conventional arms
 transfers.]
-1 Source: RG 59, Department of State, Office of the Secretariat Staff, Cyrus R. Vance,
 by Shulman; and approved by David Anderson (S/S) on October 31. The meeting took
 place in the Department of State. The conversation is published in full as Document 53 in
 Foreign Relations, 1977–1980, vol. VI, Soviet Union. Vance informed the Embassy in
@@ -27451,7 +27228,6 @@ totals of smaller sales establishing explicit confidence intervals.
 • The necessary precision to respond to monthly reporting require-
 ments during the second half of each fiscal year with accuracies better
 than plus or minus five percent.
-1 Source: Department of State, RG 59, Office of the Deputy Secretary: Records of
 Confidential.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -27489,7 +27265,6 @@ our disposition concerning major outstanding or anticipated requests.
 Comparable interagency studies regarding other regions or major
 countries should also be undertaken as determined by the Secretary of
 State.
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 2 See Document 271.
 
 Conventional Arms Transfers/Talks
@@ -27525,7 +27300,6 @@ Leslie Denend
 The SCC met to review the proposed strategy for talks with the So-
 viets scheduled to begin on December 14. Issues and conclusions that
 were reached follow:
-1 Source: Carter Library, National Security Council, Institutional Files, Box 90, SCC
 White House Situation Room.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -27780,7 +27554,6 @@ of a comprehensive M.E. peace settlement. Even if our hypothesis is
 valid, however, Moscow would almost certainly link such talks to si-
 multaneous, serious negotiations on M.E. peace in the Geneva context.
 Since the Soviet interpretation of the Cairo meeting4 is that the pros-
-4 Reference is to a meeting originally scheduled for December 3 in Cairo that had
 been postponed at the Carter administration’s request. For more on this subject, see For-
 ument 161.
 
@@ -28083,7 +27856,6 @@ taling less than $300 million will be signed up during FY 1978.
 It was agreed that options would be presented to the President on
 the appropriate size of the planned reduction in sales during FY 1978.
 There are three options:
-1 Source: Carter Library, Brzezinski Donated Material, Box 24, Meetings: Policy Re-
 White House Situation Room.
 
 Conventional Arms Transfers/Talks
@@ -28154,7 +27926,6 @@ individual sale before it comes to you for final approval. However the
 existence of the list, approved by you, will force the bureaucracy to
 think in terms of trade-offs when new cases arise, thereby allowing us
 to meet our restraint goals. (S)
-1 Source: Carter Library, Brzezinski Donated Material, Box 24, Meetings: Policy Re-
 hand-wrote the date in the upper right-hand corner of the first page of the memorandum.
 Above the date, Carter wrote “C.”
 record of this meeting was found. The second meeting is Document 286.
@@ -28287,7 +28058,6 @@ transfers.]
 Conventional Arms Restraint
 Perez raised the issue of the arms race in the Andes. He said that
 Venezuela had called a meeting based on the Ayacucho Declaration,2
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Office File,
 the Miraflores Palace. Carter was in Caracas on March 28 and 29. In a follow-up meeting
 with Perez on April 28, Assistant Secretary of State for Latin American Affairs Viron
 Vaky said the United States supported Perez’s call for “regional restraint, tying this to the
@@ -28484,7 +28254,6 @@ remaining chance of engaging British and French cooperation in this ef-
 fort. Neither Defense nor JCS took a clear position on this issue.
 Regarding the approach to be taken, two approaches—overlap-
 ping, but differing significantly in emphasis—were presented.2 The
-1 Source: Carter Library, Brzezinski Donated Material, Subject File, Box 29,
 Room.
 2 Tarnoff sent Brzezinski an undated Issues Paper, “Strategy at the Helsinki CAT
 Talks,” that discussed the two approaches. (Carter Library, National Security Council, In-
@@ -28554,7 +28323,6 @@ Approve Presidential Directive
 As amended
 Approve Presidential Statement
 As amended
-1 Source: Carter Library, Brzezinski Donated Material, Subject File, Box 29, Meet-
 corner of the memorandum.
 2 Tab A is printed as Document 290.
 3 Carter changed “Approve” to “Disapprove” on this line, underlined it twice, and
@@ -28636,7 +28404,6 @@ To my way of thinking, our common responsibilities in this area
 flow naturally from the basic tenets of our relations—from the prin-
 ciples agreed to at the highest levels of our governments on May 29,
 1972.9 These principles affirm the importance of preventing the devel-
-7 No classification marking.
 8 Carter crossed out the word “restrain” and substituted “curb” in the first sentence
 and added “such” before the words “a policy” and crossed out the words “of restraint” in
 the last sentence
@@ -28678,8 +28445,6 @@ ment of these proposals in subsequent rounds. While the Delegation
 should seek to secure Soviet agreement to participate in further
 meetings, the primary objective is to determine whether they are se-
 rious about this effort.
-1 Source: Carter Library, National Security Council, Institutional Files, Box 68, PRC
-
 Conventional Arms Transfers/Talks
 In this context, the Delegation should reiterate the elements of our
 arms restraint policy.
@@ -28744,7 +28509,6 @@ Our net assessment is this: We cannot draw positive conclusions
 from this round about Soviet willingness to make restraint agreements
 with us or to actually cut back on their arms transfers. The fundamental
 Soviet stance remains wary and skeptical.
-1 Source: Carter Library, National Security Council, Institutional Files, Box 94, PRC
 to a May 10 memorandum from Tarnoff to Brzezinski. (Ibid.)
 
 Conventional Arms Transfers/Talks
@@ -28939,7 +28703,6 @@ pean suppliers, but rather wait for them to react to the progress made
 in the US-Soviet forum. It was agreed that any approaches to arms re-
 cipients at this time would be premature, at least until specific regional
 proposals had been agreed to and approved.
-1 Source: Carter Library, National Security Council, Institutional Files, Box 94, PRC
 in the White House Situation Room.
 2 Not found.
 
@@ -28977,7 +28740,6 @@ Deputy Director Spurgeon M. Keeny
 Dr. Barry Blechman, Assistant Director, Weapons Evaluation and Control Bureau
 OMB
 Edward G. Sanders, Deputy Associate Director, International Affairs Division
-1 Source: Carter Library, Brzezinski Donated Material, Subject File, Box 12, Meet-
 Brzezinski informed Carter of the results of the meeting in a July 11 memorandum. (Ibid.)
 
 Conventional Arms Transfers/Talks
@@ -29222,7 +28984,6 @@ Total
 NA
 NA
 $4 billion (in 1976 prices), with West European suppliers increasing
-1 Source: Carter Library, National Security Affairs, Staff Material, Freedom of Infor-
 Noforn.
 2 For more detailed tables, see the appendix. [Footnote is in the original.]
 
@@ -29262,8 +29023,6 @@ both the Soviets and recipients will take their cue from European atti-
 tudes before committing themselves to real restraint measures. There-
 fore, we must now make a concerted effort to bring the Europeans
 along.
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
-
 Foreign Relations, 1977–1980, Volume XXVI
 French participation is the key: with it, the British and Germans are
 likely to be forthcoming. Over the past year, the French have put two
@@ -29399,7 +29158,6 @@ being valued on a comparable basis), 1977 sales, although still 10 per-
 Billion 1976 US $
 Billion US $
 Constant Prices
-1 Source: Department of State, RG 59, Office of the Deputy Secretary: Records of
 Files, Memoranda to the Secretary, 1977. Secret; Noforn.
 2 For the purpose of this report, the Third World refers to the following: (1) all coun-
 tries of Africa except South Africa; (2) all countries of East Asia except Hong Kong and
@@ -29471,7 +29229,6 @@ They point out that both the Soviets and the major NATO suppliers
 have failed to follow our example by adopting even modest restraints,
 or by agreeing to concrete measures during a year and a half of Con-
 ventional Arms Transfer (CAT) talks. The OJCS believes that a more
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 2 Not attached.
 3 The OSD and ACDA reports were not found.
 4 Not found.
@@ -29551,7 +29308,6 @@ The Office of the Joint Chiefs of Staff (OJCS) points out that in the
 year since we began talking about multilateral restraint no suppliers or
 recipient nations have adopted concrete measures of restraint compa-
 rable our unilateral ceiling. The OJCS would prefer a smaller reduc-
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 2 See Document 301.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -29618,7 +29374,6 @@ asked whether the risk of damage by even listening to a presentation on
 this area was not too great since listening is also part of negotiations.
 In response, Christopher replied that his question goes to the fun-
 damental feeling one holds about these negotiations. If that feeling is
-1 Source: Carter Library, National Security Council, Institutional Files, Box 118, SCC
 place in the White House Situation Room.
 2 Attached but not printed.
 
@@ -29962,7 +29717,6 @@ America is in our mutual interest. He should also inform him that we
 are not prepared to discuss either East Asia or West Asia. He should
 state that if the Soviets press us on these two regions, the Head of the
 US Delegation will have to seek instructions from Washington before
-1 Source: Carter Library, National Security Affairs, Brzezinski Office File, Subject
 an attachment to a November 29 memorandum from Brzezinski to Christopher. (Ibid.)
 All brackets are in the original.
 
@@ -30045,7 +29799,6 @@ with the Soviet Union the emerging regional initiative, including:
 (1) Mexico’s key role since the merger of the two initiatives2 and the
 apparent development in Latin America of a consensus on the need for
 wide regional participation, (2) elements of restraint concepts devel-
-2 Reference is to the June 17 pledge by Carter and Presidents Lope´z Michelsen of
 Colombia, Quiro´s of Costa Rica, and Pe´rez of Venezuela, the Chief of Government Omar
 Torrijos of Panama, and Prime Minister of Jamaica Manley to combine their support for
 the Treaty of Tlatelolco with their support for the Ayacucho Declaration to limit the
@@ -30369,7 +30122,6 @@ sion of any region is in fact possible.
 gional candidate, as US and Soviet interests are not as directly engaged
 there as they are elsewhere. There are practical advantages in seeking
 restraint in Africa, given both existing legal and political constraints on
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 78,
 1977 Arms Transfer/FMS Policy. Secret.
 2 No minutes or summary of conclusions for this meeting have been found.
 3 McGiffert informed Brown that the Soviets had proposed that the CAT talks be re-
@@ -30408,8 +30160,6 @@ particularly in view of the upcoming summit,2 that we be in a position
 to move these talks forward in a constructive manner.
 I find quite promising the April 28th proposal of Secretary Brown,3
 under which both sides would be free to make their case for inclusion
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
-2 Reference is to the Summit held between Carter and Brezhnev in Vienna, June
 3 See Document 306.
 
 Conventional Arms Transfers/Talks
@@ -30559,7 +30309,6 @@ When Gromyko turned to conventional arms transfers, the President
 interjected a few comments on the anti-satellite talks.
 [Omitted here is discussion unrelated to conventional arms
 transfers.]
-1 Source: Department of State, Office of the Secretariat Staff, Cyrus R. Vance, Secre-
 by Krimer on June 20; and approved by Aaron. The meeting took place at the Soviet Em-
 bassy. The memorandum is printed in full in Foreign Relations, 1977–1980, vol. VI, Soviet
 Union, Document 203.
@@ -30623,7 +30372,6 @@ ring, Dobrynin agreed, and I said that in that case Bartholomew will be
 available to discuss with the Soviet Chairman the timing as well as the
 agenda of the next round.
 [Omitted here is discussion unrelated to conventional arms talks.]
-1 Source: Carter Library, National Security Affairs, Staff Material, Brzezinski Office
 Top Secret. The meeting took place at the White House.
 2 Not found.
 
@@ -30658,7 +30406,6 @@ meet this criterion. (S)
 two stay in contact through diplomatic channels, and—anticipating no
 real progress on regions next week—that they meet again possibly in
 Europe in the Fall. (C)
-1 Source: Carter Library, National Security Council, Institutional Files, Box 120,
 formation. A stamped notation at the top of the memorandum reads “ZB HAS SEEN.”
 Brzezinski also initialed the memorandum.
 2 No other record of this meeting has been found.
@@ -30703,7 +30450,6 @@ been a subsequent reduction in the total volume of the world’s arms
 trade.
 (U) In the course of this policy reassessment, we have identified
 the following issues that will require attention in the near future.
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 78,
 1977 Arms Transfer/FMS Policy. Secret. Carter initialed the top of the memorandum.
 2 See Document 271.
 
@@ -30819,7 +30565,6 @@ patience with their total lack of cooperation in global arms transfer re-
 straint. You will receive a series of follow-on memoranda suggesting
 specific steps that might be taken, beginning with the Secretaries’ forth-
 coming memorandum on the FY 80 ceiling. (C)
-1 Source: Carter Library, National Security Affairs, Staff Material, Defense/Secu-
 rity, Box 2, Conventional Arms Transfers. Secret. Sent for information. In the upper
 right-hand corner, Carter wrote “Zbig—I won’t be eager to change the policy. J.”
 informing them that Carter had read their memorandum. He wrote “You should be
@@ -30860,10 +30605,8 @@ regional discussions is substantive or procedural.) (S)
 —Reggie will then propose that CAT V be convened in Helsinki in
 mid-January, claiming that the US needs several months to prepare for
 the round. If Mendelevich suggests convening earlier, Reggie will indi-
-1 Source: Carter Library, National Security Council, Institutional Files, Box 120,
 Copies were sent to Kimmitt and Brement.
 2 No other record of this meeting has been found.
-3 Reference is to the discovery of a Soviet combat brigade in Cuba. For more on this,
 Cuba, and the Caribbean.
 
 Conventional Arms Transfers/Talks
@@ -30891,7 +30634,6 @@ ican side on how to move forward on the following problems.
 The sides have agreed on the basic directions of the negotiations,
 and on some questions one can even detect a convergence of ap-
 proaches. However, during the last round the USA sharply changed
-1 Source: Carter Library, National Security Affairs, Staff Material, General Odom
 classification markings. A typed notation at the top of the paper reads “Non-Paper
 cussion of arms control in New York. (National Archives, RG 59, Central Foreign Policy
 File, Reel Number N/A)
@@ -30991,7 +30733,6 @@ should:
 1. Assess the current status of U.S. nuclear fuel assurance policies,
 reprocessing policy including alternatives to reprocessing, and possi-
 bilities for the handling and disposal of nuclear wastes.
-1 Source: National Archives, RG 383, Records of the Arms Control and Disarma-
 ment Agency, Office of the Director, Subject Files Pertaining to Presidential Review
 Memoranda and Directives, MEMCONS with Foreign Officials, and National Security
 1, Presidential Review Memorandum/NSC–15—Nuclear Non-Proliferation Policy,
@@ -31207,7 +30948,6 @@ your authority I released my NATO statement, and I also held a press
 conference.3
 The highlights of my conversations are as follows:
 [Omitted here is discussion unrelated to non-proliferation.]
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
 2 A record of this conversation was not found.
 3 Documents on Mondale’s meetings with the NATO leaders and his statement are
 scheduled to be printed in Foreign Relations, 1977–1980, vol. XXVII, Western Europe.
@@ -31269,7 +31009,6 @@ the problem which may be of concern to Japan. We want to cooperate
 to keep the problem under control.
 The Vice President continued, saying that he understood the GOJ
 was interested in sending a team to discuss Japanese views with US ex-
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, VIP Visit
 cret. Drafted by Sherman. The meeting took place in the Prime Minister’s Office. The
 memoranda of conversation is scheduled to be printed in full in Foreign Relations,
 1977–1980, vol. XIV, Korea; Japan.
@@ -31379,7 +31118,6 @@ asking of others is by clearly slowing down our breeder program and
 that we no longer look upon it as the centerpiece of our energy strategy.
 This is entirely consistent with your campaign statements to “minimize
 our efforts in the breeder field.”
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 9/79. Confidential. Sent for information. At the top of the memorandum, an unknown
 hand wrote “NOTE: Delivered to the Pres. Via Rich Hutcheson [illegible.]”
 
@@ -31447,7 +31185,6 @@ demonstration project. Secondly, we might even have to consider sus-
 pending completion of the Barnwell reprocessing plant3 until we have
 completed our own thorough investigation of all possible alternatives
 to reprocessing.4
-1 Source: Carter Library, National Security Council, Institutional Files, Box 60, PRC
 the upper right-hand corner of the memorandum and the margin beside each paragraph
 after “Preliminary options” with a “C”.
 2 Not found.
@@ -31676,7 +31413,6 @@ liferation ultimately will depend to a large extent on how successful we
 are in reducing motivations to acquire nuclear weapons capability.
 These motivations are complex and are not amenable to short-term so-
 lutions. They reflect political evaluations of national security interests,
-1 Source: National Archives, RG 383, Records of the Arms Control and Disarma-
 ment Agency, Office of the Director, Subject Files Pertaining to Presidential Review Me-
 moranda and Directives, MEMCONS with Foreign Officials, and National Security De-
 Box 1, Presidential Review Memorandum/NSC–15—Nuclear Non-Proliferation Policy,
@@ -32075,10 +31811,7 @@ be discussed at the summit. Certainly President Carter would do so.
 Owen suggested that there were two aspects of non-proliferation—re-
 straints and how to meet legitimate needs. The question of restraints
 was being dealt with in the London suppliers group. It did not appear
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Country
 Old Executive Office Building.
-2 Reference is to the G–7 Summit scheduled for May in London.
-
 Foreign Relations, 1977–1980, Volume XXVI
 that there was much the summit could add. The more interesting ques-
 tion was the second—that of meeting legitimate atomic energy needs.
@@ -32122,7 +31855,6 @@ It was agreed that the desirability of discussion of non-proliferation
 among the four should not override other considerations which tended
 to favor scheduling the four-power meeting following the seven nation
 summit.
-3 Reference is to the meeting among the United States, the United Kingdom, France,
 and the Federal Republic of Germany scheduled for May in London.
 
 Non-Proliferation
@@ -32203,7 +31935,6 @@ For most states, considerations of national security have been and
 will continue to be the principal determinants governing their attitudes
 toward the acquisition of nuclear weapons. However, as the threshold
 costs of acquiring a nuclear capability are lowered, less demanding se-
-1 Source: Carter Library, National Security Council, Institutional Files, Box 64, PRC
 2 A nuclear weapon here refers to any explosive generated by fissionable materials.
 The distinction between an explosive and a weapon, although analytically valid, does not
 possess immediate policy relevance. In the contemporary political context, the possession
@@ -32604,7 +32335,6 @@ ation would have to include reprocessing, (Option a, Recommendation
 that we could not present the international program as one in which re-
 processing is a closed question to which we already know the answer.
 Therefore, the evaluation would have to include reprocessing abroad,
-1 Source: Carter Library, National Security Council, Institutional Files, Box 60, PRC
 memorandum.
 2 No minutes or summary of conclusions of the March 16 meeting were found.
 3 See Document 325.
@@ -32859,7 +32589,6 @@ Foreign Ministry
 Henry Owen
 Michael Armacost, Senior Staff Member, NSC (Notetaker)
 Robert Hormats, Senior Staff Member, NSC
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, VIP Visit
 meeting occurred in the Cabinet Room. The memorandum is scheduled to be printed in
 full in Foreign Relations, 1977–1980, vol. XIV, Korea; Japan.
 
@@ -33103,7 +32832,6 @@ USDel Secretary from State March 27:
 Quote Secret State 67973 Tosec 30017. Eyes only for the Ambas-
 sador; Moscow for Secretary Vance. Subject: Presidential Nuclear
 Policy Statement.
-1 Source: Carter Library, Papers of Walter F. Mondale, Box 84, National Security
 that indicates the original was received in the White House Situation Room.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -33233,7 +32961,6 @@ surance arrangements, international spent fuel storage and strength-
 ening IAEA safeguard arrangements. As a result of the study, we had
 come to the following conclusions, which would be announced very
 shortly: First, we would indefinitely defer commercial fuel reproc-
-1 Source: Department of State, Office of the Secretariat Staff, Special Adviser to the
 proved in draft by Hyland. The meeting took place at the Kremlin. The memorandum of
 conversation is printed in full in Foreign Relations, 1977–1980, vol. VI, Soviet Union, Docu-
 ment 20.
@@ -33624,7 +33351,6 @@ pliers can agree on tough anti-proliferation policies.
 pay for . . . what? We have no indication so far that Brazilians would
 give up the sensitive parts of the FRG deal as the quid pro quo for ad-
 mittance. Even if they were to accept this condition, however, this plan
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
 2 Not found.
 
 Non-Proliferation
@@ -33659,8 +33385,6 @@ begin next Tuesday. Three more short papers, dealing with different
 aspects of U.S. nuclear export policies, will be ready within a few days.
 [1]. Confidential. Sent for action. In the upper right-hand corner, Carter wrote “Zbig—
 What do we have in reprocessing capacity now. For military or other purpose? J.”
-2 Reference is to a discussion paper on Japan’s reprocessing plant at Tokai. The
-paper can be found in the Library of Congress, Manuscript Division, James Schlesinger
 Papers, Energy Department, Japan, 1977–1979.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -33839,8 +33563,6 @@ The balancing of these risks and benefits is at the heart of national
 policy on the breeder program, and the Committee’s disagreements il-
 luminated the central issues. The role of the CRBR is primarily a func-
 tion of the larger risk-benefit issue of the breeder.
-1 Source: Library of Congress, Manuscript Division, James Schlesinger Papers, Box
-1, Chronological File, 1977 Apr. No classification marking. The Committee’s Report is
 nuclear/files/nuc_77060801a_23.pdf)
 2 Not found.
 3 After the word “conclusion,” Schlesinger wrote “*” and at the bottom of the page
@@ -33920,7 +33642,6 @@ summarizes the arguments that were made on this subject at that time
 The State Department feels very strongly that we have to be able to give a
 specific answer to the question: “Will the international fuel cycle evaluation
 program include reprocessing?”
-1 Source: Carter Library, National Security Council, Institutional Files, Box 60, PRC
 right-hand corner of the memorandum.
 2 See Document 328.
 
@@ -34038,7 +33759,6 @@ the use of incentives.
 A) Reprocessing:2 U.S. consent required for reprocessing and fur-
 ther disposition of foreign fuel irradiated in all U.S.-supplied (including
 previously supplied) reactors.
-1 Source: Carter Library, National Security Council, Institutional Files, Box 60, PRC
 2 Consent for US-supplied fuel is already required. [Footnote is in the original.]
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -34203,8 +33923,6 @@ On the question of Presidential flexibility, he has approved the op-
 tion which provides for exception by Presidential determination for
 both new and existing agreements.
 Zbigniew Brzezinski
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
-
 Foreign Relations, 1977–1980, Volume XXVI
 341.
 Telegram From the Department of State to the Mission to the
@@ -34282,10 +34000,8 @@ ample congested storage at reactor sites. Yamamoto subsequently
 called U.S. Del’s attention to the requirement for Japanese utilities to
 make a five percent deposit by the end of August in order to confirm
 contract to be negotiated by end of May for reprocessing in UK and
-3 Reference is to the 1968 Japan-U.S. Nuclear Cooperation Agreement which re-
 quired Japan to obtain advance approval from the U.S. Government for any international
 transfer of nuclear material of U.S. origin.
-4 Reference is to IAEA document GOV/1621.
 5 The Presidential Decision was not found. MB–10 refers to applications that na-
 tions must submit in order to obtain shipment-by-shipment approvals from the U.S. Gov-
 ernment prior to transporting spent nuclear fuel to overseas reprocessors.
@@ -34321,9 +34037,6 @@ US, and supply others, without the fear that we will enhance the ca-
 pacity of other countries to produce explosives?
 This must be addressed on an international basis. We endanger re-
 lations with consumer countries if we act unilaterally. When I became
-1 Carter Library, National Security Affairs, Staff Material, Trip File, Box 3, Presi-
-and NATO Summits. (Carter Library, Presidential Materials)
-
 Non-Proliferation
 President I inherited a moratorium on the export of nuclear fuel which
 was imposed by my predecessor.2 I know this concerned all of you.
@@ -35557,7 +35270,6 @@ France.
 bring up the Pakistan issue with Giscard. A complimentary reference to
 Giscard’s efforts to delay deliveries to Pakistan and mention of the po-
 tentially positive effect on Pakistan of the attitude of the new Indian
-1 Carter Library, National Security Affairs, Brzezinski Material, Brzezinski Office
 File, Box 12, France: 1977. Confidential. Sent for action. Carter initialed the top of the
 memorandum.
 2 The Giscard letter was not attached but is available in telegram 147101 to Paris,
@@ -35637,7 +35349,6 @@ Drafted by Rust (ACDA/NP/NX); cleared by Nye, Louis Nosenzo (OES), Oplinger,
 Nelson Sievering (ERDA), William Salisbury (EUR/RPE), Jon Glassman (EUR/SOV),
 and Giles Harlow (DOD); and approved by Charles Van Doren (ACDA/NP).
 Central Foreign Policy File, D770166–0383)
-3 Reference is to the Zangger Committee of the London Suppliers Group’s Guide-
 lines for which nuclear supplies could not be exported to Non-Nuclear Weapons States
 by members of the Group. These guidelines came from Article III of the Non-
 Proliferation Treaty, which said that “source or special fissionable material and equip-
@@ -35798,7 +35509,6 @@ Ambassador Smith also reiterated our concern over the reproc-
 essing plant sale to Pakistan and our interest in full-scope safeguards.
 There is no new French position on these issues yet.
 [Omitted here is material unrelated to non-proliferation.]
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Country
 memorandum, Carter wrote “Cy, J.”
 2 The Embassy transmitted a report of the meeting in telegram 19861 from Paris,
 3 In the left-hand margin, Carter wrote “We’ll form a policy, along with others, ei-
@@ -35994,8 +35704,6 @@ public in view of the fact that we have been doing major experimenta-
 tion in this field for years without requesting others to share the finan-
 cial burden. Smith suggested that one step short of direct cost-sharing
 would involve transfer by the U.S. of some advanced instrumentation
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
-
 Non-Proliferation
 to the IAEA which in turn could make it available for us by the Japa-
 nese at Tokai. The President indicated that he would have no difficulty
@@ -36134,7 +35842,6 @@ their nuclear council by Giscard last October, and in December we
 knew about it; Giscard talked about it clearly. France appreciated the
 discussions to prepare the evaluation program. But they have some
 conditions. First, there should be useful discussions with the Soviet
-1 Carter Library, National Security Affairs, Brzezinski Material, Brzezinski Office
 File, Box 12, France: 1977. Secret; Sensitive. The meeting took place in the Cabinet Room.
 
 Non-Proliferation
@@ -36169,7 +35876,6 @@ SUBJECT
 French Proliferation Policy
 Ambassador Hartman, Farley, Nye, and NSC staff met this morn-
 ing to discuss the important issues raised yesterday by the French on
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Brzezinski
 Office File, Box 12, France: 1977. Secret. Hunter initialed the memorandum for Brzezinski.
 Carter initialed the upper right-hand corner of the memorandum.
 
@@ -36246,7 +35952,6 @@ said that the United States had agreed to provide a certain amount of
 fuel for the Tarapur reactor. The United States had also talked to India
 about the need to accept full-scope safeguards. The Indians had agreed
 to consider this seriously. Habib added that there had been some gen-
-1 Source: Department of State, Office of the Secretariat Staff, Cyrus R. Vance, Secre-
 proved by David Anderson (S/S) on October 11. The meeting took place in Vance’s
 office.
 
@@ -36668,7 +36373,6 @@ France to accede to the Protocol to the Treaty of Tlatelolco which pro-
 vides for a nuclear free zone in Latin America. He said that Argentina
 now agrees to accede. He said that we understand that France has a
 problem because certain of the French Departments are in the area and
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
 between Bayeux and Paris. The memorandum is scheduled to be printed in full in Foreign
 Relations, 1977–1980, vol. XXVII, Western Europe.
 
@@ -36865,7 +36569,6 @@ hamper the Evaluation’s progress have been minor and a number of
 nations see real value in such a comprehensive examination of the nu-
 clear fuel cycle. It will take time but our purpose is to develop a con-
 sensus, not to solve immediate problems.
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
 hand corner of the memorandum, Carter wrote “Good report. J.”
 “eager to cooperate as a nation which is a consumer and also as a supplier. We want to
 ensure that where there is a legitimate need and where there’s mutually agreed upon
@@ -37118,7 +36821,6 @@ UK and France.
 4. Kreisky is hurting politically because his government cannot
 find a way to assure Austrians that reactor spent fuel can be securely
 stored. I explained your foreign spent fuel storage policy and stressed
-1 Source: Carter Library, National Security Affairs, Staff Material, North/South,
 zinski wrote “Mr. President, A concise and informative report from Gerry Smith. Given
 your interest in the issue, it might be useful to have him call on you. Zbig.” Carter under-
 lined the words “call on you,” drew an arrow pointing to them, and wrote “not now. C.”
@@ -37197,7 +36899,6 @@ William R. Salisbury, EUR/RPE
 Counselor of Soviet Embassy
 (notetaker)
 in Washington
-1 Source: Department of State, Chronological Files, Speeches, and Papers of Lucy
 bury (EUR/RPE). The meeting took place at the Department of State.
 
 Non-Proliferation
@@ -37278,8 +36979,6 @@ five-year review at a conference to be held in 1980. Forces operating
 outside the treaty—especially the security concerns and regional ri-
 valries of nonnuclear weapons states—will continue to be the main de-
 terminants of the scope and rate of the proliferation process. But the
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Unfiled
-
 Non-Proliferation
 NPT, if it remains at its present level of effectiveness, will provide sig-
 nificant political, legal, and moral constraints on the behavior of ad-
@@ -37466,7 +37165,6 @@ vulnerabilities; and
 —Assertions that the fast breeder reactor will eventually lead to a self-
 contained fuel cycle that will help eliminate the problems associated with en-
 ergy dependence.
-1 Source: Department of State, Chronological Files, Speeches, and Papers of Lucy
 the top of the memorandum, an unknown hand wrote “FYI—slow read.”
 2 This memorandum was prepared by the International Issues Division of the Office of Re-
 gional and Political Analysis and was coordinated with the relevant Divisions of the Office of Re-
@@ -37549,7 +37247,6 @@ a real German position but it suggests that nonproliferation can be a
 highly divisive issue in relations with the Federal Republic.
 The French also reported that the Italians were bitter about having
 joined the Non-Proliferation Treaty and apparently are sympathetic to
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 cret. Copies were sent to Brzezinski and Vance. Stamped notations at the top of the letter
 read “JTM has seen” and “LD has seen.”
 3 Smith, Hermes, and other U.S. and FRG officials met in Bonn on January 10. A re-
@@ -37585,7 +37282,6 @@ the progress and prospects of our non-proliferation policy, especially
 our initiatives on managing the nuclear fuel cycle.
 In the two years since your April 1977 non-proliferation policy
 announcements,2 we have clearly achieved a heightened sensitivity
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 20 memorandum from Vance to Carter.
 
 Non-Proliferation
@@ -37802,7 +37498,6 @@ observations.
 1. Although there is enhanced concern in various industrial coun-
 tries and to some extent in developing countries about the nuclear pro-
 liferation threat (largely owing to your initiative, but reinforced by de-
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 2 See Document 372.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -37925,7 +37620,6 @@ rangement and our ability to restrain sensitive activities in other na-
 tions. These papers should be reviewed by the PRC before the President
 is asked to authorize explorations with other governments. (S)
 Zbigniew Brzezinski
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 2 See Document 373.
 
 Non-Proliferation
@@ -37965,7 +37659,6 @@ range to begin a dialogue with key developing countries who have par-
 ticipated actively in the INFCE TCC (Egypt, India, Philippines, Argen-
 tina, Korea, Romania, Brazil, Mexico, and Yugoslavia). The purpose
 would be to develop a degree of understanding, if not consensus, prior
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 cret. Drafted by Francis Hodsoll (S/AS) on August 30. The conversations took place in
 Smith’s office at the Department of State.
 
@@ -38033,7 +37726,6 @@ Foreign Affairs advisor Agha Shahi will be in Washington next
 week for consultation on security questions, including the nuclear
 issue. We are also consulting with our allies with a view to developing
 a common approach to the Pakistan problem.
-1 Source: Carter Library, Papers of Walter F. Mondale, Box 2, Talking Points for For-
 2 Not found.
 3 The
 Symington
@@ -38116,7 +37808,6 @@ Recent Consultations in Europe on Nonproliferation
 After visiting FRG, France, UK, Belgium and The Netherlands
 (and consulting the Japanese in Washington),2 our impressions about
 realistic post-INFCE possibilities are:
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 sent to Christopher, Benson, Pickering, Duncan, and Owen.
 Paris,
 November
@@ -38248,7 +37939,6 @@ ments for cooperation with non-nuclear-weapon states in the civil uses
 of nuclear energy only with those that accept a binding obligation to
 place all present and future nuclear facilities under international
 safeguards.
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 2 See Document 377.
 
 Non-Proliferation
@@ -38318,7 +38008,6 @@ would require any change in the law.
 At the start of your administration, it was important promptly to
 increase awareness of the need to slow the spread of sensitive facilities
 which were making control of nuclear proliferation more difficult.
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 6,
 Non-Proliferation. Secret. Sent under cover of a February 19 memorandum from Vance to
 Carter. Vance advised Carter to approve “the general strategy he [Smith] is suggesting”
 and noted that as the INFCE “draws to a close, it is important that we remove unneces-
@@ -38530,7 +38219,6 @@ tion resistant than another; nor did it identify any technical fix for pro-
 liferation risks. It did single out the importance of improved IAEA safe-
 guards; international plutonium storage; limits on, or multinational
 approaches to, sensitive facilities (enrichment and reprocessing); and
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 Confidential. Sent under cover of a March 5 memorandum from Smith to Owen.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -38565,7 +38253,6 @@ Ambassador Henry Owen
 State
 Secretary Cyrus Vance
 Deputy Secretary Warren Christopher
-1 Source: Carter Library, National Security Council, Institutional Files, Box 79, PRC
 House Situation Room. The minutes devoted to Tarapur are scheduled to be printed in
 Foreign Relations, 1977–1980, vol. XIX, South Asia.
 
@@ -38769,7 +38456,6 @@ nisms. In particular, it should discuss whether a negotiable IPS would
 restrict plutonium release to certain countries (e.g. those meeting
 agreed economic criteria) or end-uses, whether the US and other sup-
 pliers would apply such restrictions to plutonium entering the IPS, and
-1 Source: Carter Library, National Security Council, Institutional Files, Box 79, PRC
 Eizenstat, Christopher, Earle, Speth, Jones, Turner, and Press.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -38804,7 +38490,6 @@ viewed in the normal NSC process.
 RECOMMENDATION
 That you not authorize Smith to conduct post-INFCE explorations
 at this time.3
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 2 On April 28, Carter approved the issuance of two pending licenses so that India
 could import enriched uranium from the United States for its nuclear power plant at Ta-
 rapur. For more on this decision, see Foreign Relations, 1977–1980, vol. XIX, South Asia.
@@ -39007,7 +38692,6 @@ ditions which were more onerous than those already set out in our in-
 ternational agreements?
 —Who would have to agree to FSS and on what basis?
 —How would the US distinguish the Indian case?
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 Nodis.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -39219,7 +38903,6 @@ first count. The Soviets, however, have sought to maneuver themselves
 into a position of comparative advantage with respect to each of the
 major security issues that are likely to be raised: SALT II, the Compre-
 hensive Test Ban Treaty, and the question of negative security assur-
-1 Source: Carter Library, National Security Council, Institutional Files, Box 116, SCC
 3 See Document 318.
 
 Non-Proliferation
@@ -39301,7 +38984,6 @@ warrants our urgent attention.
 The goal of the conference has been a consensus document that
 would review all aspects of the NPT’s implementation. Negotiation of
 this text, especially the portion concerning nuclear arms control negoti-
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 45,
 NPT: Revcon. Confidential.
 
 Non-Proliferation
@@ -39502,7 +39184,6 @@ creation of a CTB Working Group in the CD in exchange for elimination
 of the other objectionable items from the final document and thereby be
 able to produce a consensus document. It was acknowledged that we
 did not know if such an exchange would be acceptable to the G–77. The
-1 Source: Central Intelligence Agency, Office of the Director of Central Intelligence,
 minutes or summary of conclusions for this meeting has been found.
 2 September 12.
 
@@ -39538,8 +39219,6 @@ State1
 11804. For the Secretary, Deputy Secretary, and ACDA Director.
 Subject: NPT Review Conference (60): Urgent Request for Contingency
 Guidance.
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
-
 Non-Proliferation
 1. (Secret—Entire text)
 2. With respect to issue on NPT RevCon which we understand will
@@ -39617,7 +39296,6 @@ SUBJECT
 NPT Review Conference
 The SCC this morning2 reached consensus that we should autho-
 rize our delegation to the NPT Review Conference to agree to the for-
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File,
 the upper right-hand corner of the memorandum.
 2 No record of this meeting was found.
 
@@ -39651,7 +39329,6 @@ Non-Proliferation Treaty (NPT) Review Conference
 The NPT Review Conference completed Sunday2 was a difficult,
 contentious process, and it was not possible to reach agreement on a
 substantive declaration satisfactory to all participants.
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 Oplinger/Bloomfield File, Box 50, Proliferation: Non-Proliferation Treaty Review Con-
 right-hand corner of the memorandum.
 2 September 7.
@@ -39714,7 +39391,6 @@ a reaffirmation of our previous estimate of Soviet plutonium produc-
 tion and a statement of our confidence in the accuracy of this estimate.
 No follow-on action will be required from this meeting.
 [name not declassified]
-1 Source: Central Intelligence Agency, Office of the Director of Central Intelligence,
 cret. Original paragraph classification and handling restrictions not declassified. No
 minutes or summary of conclusions for this meeting has been found.
 2 No minutes or summary of conclusions of the July 24 meeting has been found.
@@ -39753,7 +39429,6 @@ tials by engaging in public confrontation with key Western countries.
 The Preservation of Non-Proliferation
 The NPT is essential for the preservation of non-proliferation and
 it is vital to prevent its unravelling. However, the Treaty itself is not
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 Oplinger/Bloomfield File, Box 50, Proliferation: Non-Proliferation Treaty Review Con-
 randum, Carter wrote “Ed. A reasonable approach. C.”
 2 In a September 22 address to the UN General Assembly, Gromkyo “blamed the
@@ -39868,7 +39543,6 @@ progress toward disarmament since the 1975 Review Conference and
 insisted that their viewpoint be expressed in a final declaration. They
 also sought commitments from the nuclear weapons states to increase
 the role of nonnuclear weapons states in arms control negotiations.
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 Oplinger/Bloomfield File, Box 50, Proliferation: Non-Proliferation Treaty Review Con-
 cation and handling restrictions not declassified.
 
@@ -39997,7 +39671,6 @@ most amenable to short-term control. (C)
 While he acknowledges that economic developments since 1977
 have strongly confirmed US arguments that reprocessing and pluto-
 nium fuels should be deferred, Smith believes that the European and
-1 Source: Carter Library, National Security Affairs, Staff Material, Global Issues,
 information. In the upper right-hand corner of the first page of the memorandum, Carter
 wrote “Zbig. How best to present alternatives to next administration? J.”
 3 See Document 317.
@@ -40311,8 +39984,6 @@ tries have moved perceptibly closer to a nuclear explosive capability,
 and in at least one case (Pakistan) that movement now appears irre-
 versible. Almost all of this slippage involved assistance from Europe,
 and could have been prevented. Reprocessing plant capacity has more
-1 Source: Carter Library, Brzezinski Donated Material, Subject File, Box 15, NSC Ac-
-complishments—Nuclear Non-Proliferation: 12/80. No classification marking. Sent for
 information.
 2 Attached but not printed.
 3 An unknown hand underlined the words “be considered a failure.”
@@ -40457,7 +40128,6 @@ Brazil1
 Tovip 22. 18228. For the Ambassador from the Secretary. Subject:
 Message From the Secretary to Foreign Minister Silveira. Rome for
 Aaron with Vice President’s Party.
-1 Source: Carter Library, National Security Affairs, Staff Material, North/South,
 mation Immediate to Bonn and Rome. Drafted by Charles W. Bray III (ARA), Regina Eltz
 (ARA/ECA), and John Kalicki (ARA/ECA); cleared by W.H. Luers (ARA); and ap-
 proved by Vance. The telegram number “Tovip 22” is handwritten.
@@ -40582,7 +40252,6 @@ ernment is not wholly united on the issue, and that they may just be
 trying to adapt to your position. In fact, recent and very private probes
 by people in the State Department indicate some willingness by the
 Brazilians to negotiate directly with us.3
-1 Source: Carter Library, National Security Affairs, Staff Material, North/South,
 the upper right-hand of the memorandum.
 2 See Document 397.
 3 Ibid.
@@ -40621,7 +40290,6 @@ tinued, Vice President Mondale had conveyed President Carter’s deep
 concern with the problem of proliferation.3 In this connection the U.S.
 will be prepared to discuss with Brazil the whole range of possibilities
 for meeting Brazilian energy needs including a guarantee of fuel for
-1 Source: Department of State, Office of the Secretariat Staff, Cyrus R. Vance, Secre-
 Drafted by Robert Zimmerman (ARA/ECA); cleared by Bray and Terence A. Todman,
 (ARA); and approved by William Twaddell on February 4. The meeting took place in the
 Secretary’s Office.
@@ -40740,7 +40408,6 @@ Mexico) to see the advantage each gains in mutual deferral of the weapons
 option, the plan may stand a reasonable chance of success.
 One tactical consideration poses a major problem. During the last
 round of negotiations, the Brazilians made abundantly clear that they
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Country
 hand corner of the memorandum.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -41104,7 +40771,6 @@ ufacture, storage, installation, deployment, or possession of nuclear
 weapons in territories located in Latin America for which we are inter-
 nationally responsible—principally Puerto Rico, the Virgin Islands,
 Guantanamo Naval Base, and the Canal Zone.
-1 Source: Carter Library, National Security Affairs, Staff Material, North/South,
 2 Secret.
 
 Nuclear Non-Proliferation in Latin America
@@ -41230,7 +40896,6 @@ ACDA believes that the military costs of US adherence to Protocol
 I—primarily the constraint on contingency plans for storing nuclear
 anti-submarine warfare devices in Puerto Rico—are modest compared
 to the benefits of improving our relations with Latin America and
-1 Source: Carter Library, National Security Affairs, Staff Material, North/South,
 Vance and Brown.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -41634,7 +41299,6 @@ the Treaty covers nuclear explosive devices which are ostensibly for
 peaceful purposes as well as devices acknowledged to be nuclear
 weapons. The second statement is designed to express our under-
 standing that we retain our rights to transit our territories’ waters and
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 74,
 General Files, Tlatelolco, Treaty of. Limited Official Use.
 2 Not found.
 3 A more detailed description of the Defense Department’s position is contained in
@@ -41794,7 +41458,6 @@ President Carlos Andres Perez of Venezuela
 Minister of Foreign Affairs Ramon Escovar Salom
 Minister of State for International Economic Affairs Manuel Perez Guerrero
 Minister of Mines and Hydrocarbons Valentin Hernandez Acosta
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Country
 inet Room. The memorandum of conversation is scheduled to be printed in full in Foreign
 Relations, 1977–1980, vol. XXIV, South America; Latin America Regional.
 
@@ -41899,7 +41562,6 @@ dress them. Brazilian President Geisel had told Mrs. Carter that Argen-
 tina was building a reprocessing plant and he implied that Brazil
 would not if Argentina did not. Neither country has signed the Tlate-
 lolco Treaty. The President felt that if we can assure autonomous fuel
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Country
 place in the Cabinet Room. The conversation is scheduled to be printed in full in Foreign
 Relations, 1977–1980, vol. XXVII, Western Europe. In an undated memorandum to Carter,
 Vance advised him to try to convince Schmidt to at least defer the transfer of nuclear ma-
@@ -41978,7 +41640,6 @@ agreements as a way to check the advance of both countries toward a
 full fuel cycle. The problem with his proposal is that Argentina and
 Brazil could conceivably collude to cheat, and thus it is probably better
 to stay with the original strategy.
-1 Source: Carter Library, National Security Affairs, Staff Material, North/South,
 2 See Paul Findley, “Chances for a Latin American Agreement,” Washington Post,
 September 1, 1977.
 
@@ -42394,7 +42055,6 @@ soon be sent to Senate for ratification). Brazil and Chile have already
 ratified but (unlike the 22 other Latin American states that have done
 so) have exercised their right under Treaty’s entry into force provision
 not to waive conditions for bringing treaty into force for themselves.
-1 Source: Carter Library, National Security Affairs, Staff Material, North/South,
 for information Priority to Mexico City, Moscow, Panama City, and London. Drafted by
 Robert Einhorn (ACDA/NP) and Lorna Watson (ACDA/NP); cleared by Oplinger, Law-
 rence Scheinman (T), Philip Farley (S/AS), Mark Garrison (EUR/SOV), Emery Smith
@@ -42474,7 +42134,6 @@ State and DOE, that you recommend to the NRC that they approve
 shipment of the initial loading of low-enriched fuel for Brazil’s Angra I
 reactor. ACDA does not oppose the recommendation, but has some
 reservations which are also at Tab A.3
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Country
 wrote “Zbig—ok—but: Draft a frank ltr to Giesel, pointing out obstacles after I make the
 recommendation to NRC. J.C.”
 2 Attached but not printed.
@@ -42518,7 +42177,6 @@ discuss with you our new ideas, or to adopt any other mode you prefer,” on the
 question in advance of Carter’s expected visit to Brazil later in November. (Carter Li-
 brary, National Security Affairs, Brzezinski Material, Brzezinski Office File, Country
 Smith’s visit. (Carter Library, National Security Affairs, Brzezinski Material, Country
-6 Reference is to Carter’s proposal for a Nuclear Non-Proliferation Act which he
 submitted to Congress on April 27.
 7 To the left of this paragraph, Carter wrote “I presume they meet present crite-
 ria. J.”
@@ -42550,7 +42208,6 @@ cision to ratify the Treaty of Tlatelolco. Argentina may not be prepared
 to go that far, and we may have to settle for a declaration of Argentine
 intent to ratify, rather than a firm decision. We will emphasize to Ar-
 gentine officials the need to apply full safeguards to its nuclear pro-
-1 Source: National Archives, RG 59, Records of the Secretary of State, Cyrus Vance,
 the Office of the Deputy Secretary, the Bureau of Political Affairs, the Bureau of Eco-
 nomic, Business, and Agricultural Affairs, the Bureau of Security Assistance, Science, and
 Technology, the Bureau of Inter-American Affairs, the Bureau of Politico-Military Af-
@@ -42624,7 +42281,6 @@ the Treaty in Argentina.
 —a private expression of Argentine willingness to consider defer-
 ring reprocessing if Brazil also defers (a concept of regional equilib-
 rium) and if it receives heavy water technology from the US and
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Country
 the memorandum. Vance also discussed the nuclear issue with Venezuelan President
 partment of State, Office of the Secretariat Staff, Cyrus R. Vance, Secretary of State—
 2 A record of Vance’s discussions with Argentine President Jorge´ Rafael Videla is in
@@ -42712,7 +42368,6 @@ the Germans,4 was not conveyed to the Brazilians in its entirety. Gerry
 felt that they would reject it immediately if he put it on the table and so
 he described the proposal only in very general terms. Since the Bra-
 zilians have left the door open for other discussions, we will have the
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Country
 memorandum.
 2 See Document 426.
 3 Carter checked the “Approve” option.
@@ -43017,7 +42672,6 @@ tion of international safeguards.
 4. Argentina’s top leadership seems to have been preparing to sign
 the Treaty of Tlatelolco only on the condition that it not impede the fur-
 ther development of its independent nuclear capabilities and does not
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Country
 to a March 10 note from CIA Executive Secretary B.C. Evans to Dodson, the report “was
 prepared under the auspices of the National Intelligence Officer for Nuclear Proliferation
 and the Acting Intelligence Officer for Latin America.” (Ibid.)
@@ -43054,7 +42708,6 @@ dent Carter’s preference with regard to an agenda. President Carter
 said that he would like to discuss international political issues today
 and economic issues tomorrow.2
 [Omitted here is discussion unrelated to non-proliferation.]
-1 Source: Carter Library, National Security Affairs, Staff Material, Office, Outside
 took place at Miraflores Palace.
 2 On March 29, Carter and Perez discussed North-South Issues, Energy, the Carib-
 bean, and the Law of the Sea. (Memorandum of Conversation, March 29, 1978; Carter Li-
@@ -43382,7 +43035,6 @@ Weapons in Latin America. Thus we, like the other states possessing
 nuclear weapons, will take upon ourselves the obligation not to help in
 the acquisition of nuclear arms by Latin American states, and also not
 to use such weapons against the states that are parties to the treaty.
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Country
 Copies were sent to Hunter and Tuchman.
 
 Nuclear Non-Proliferation in Latin America
@@ -43811,7 +43463,6 @@ be ratified this year. Could you please have your staff inform mine
 who will be the representatives from DOD and JCS testifying at the
 hearings?
 Zbigniew Brzezinski
-1 Source: Library of Congress, Manuscript Division, Harold Brown Papers, Box 74,
 General Files, Tlatelolco, Treaty of. Confidential. The memorandum was leaked to col-
 umnists Rowland Evans and Robert Novak, who quoted from it in a Washington Post
 column. (Evans and Novak, “Retreat from an ‘Open Administration’,” Washington Post,
@@ -43850,7 +43501,6 @@ had complied with his promise and asked that the above information
 be passed to him.
 Peter Tarnoff
 Executive Secretary
-1 Source: Carter Library, National Security Affairs, Staff Material, North/South,
 2 Not found.
 
 Nuclear Non-Proliferation in Latin America
@@ -44234,7 +43884,6 @@ dians for reactor sales. Recently we have had indications that the Cana-
 dians may also offer this technology to gain Argentine reactor sales.
 Lambsdorff stressed that the FRG would condition the sale on Argen-
 tina’s acceptance of safeguards on all Argentine nuclear facilities
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Country
 2 No further record of this meeting has been found.
 
 Nuclear Non-Proliferation in Latin America
@@ -44464,7 +44113,6 @@ primacy of OPANAL in LA nuclear affairs.)
 prospects for Mexican initiative—given unsettled LA political situation
 following Nicaragua.4 (Drafted by Jon Glassman.)
 Lucey
-4 Reference is to the July 16 resignation of Nicaraguan President Anastasio Somoza
 Debayle and the assumption of power by the Sandinistas on July 19.
 
 Nuclear Non-Proliferation in Latin America
@@ -44496,7 +44144,6 @@ nuclear material irradiated through the use of such heavy water re-
 quired prior Canadian consent before reprocessing, substantial con-
 trol would be maintained while permitting Argentina the option
 of building its proposed facility. The Nuclear Non-Proliferation Act
-1 Source: Carter Library, National Security Affairs, Staff Material, North/South,
 Schlesinger and Seignious.
 ronto Star indicated that the Government of Canada had renewed its pledge to sell a nu-
 clear reactor to Argentina as well as a heavy water plant “without additional clauses or
@@ -44600,7 +44247,6 @@ any non-proliferation gain. At the same time, we are concerned that
 pressing the Swiss and Germans hard on the matter would not only
 have very little chance of success but also diminish our chances of get-
 ting their agreement to key supplier controls.
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Country
 2 See Document 452.
 
 Nuclear Non-Proliferation in Latin America
@@ -44737,7 +44383,6 @@ ther diplomatic efforts we may contemplate to influence the safeguard
 conditions to be applied by Switzerland and the FRG. The text of the
 statement should be coordinated with Jerry Oplinger of the NSC
 Zbigniew Brzezinski
-1 Source: Carter Library, National Security Affairs, Staff Material, North/South,
 2 Not found.
 
 Nuclear Non-Proliferation in Latin America
@@ -44778,7 +44423,6 @@ Swiss Foreign Minister Aubert to reinforce our concerns on this matter.
 We believe our diplomatic efforts have some chance for success
 and would be endangered by going public now with our concerns.
 Upon Gerry Smith’s return about November 8 we will assess whether
-1 Source: Carter Library, National Security Affairs, Staff Material, North/South,
 2 See Document 456.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -44814,8 +44458,6 @@ But this theory breaks down in the Argentine case; their program
 is based on heavy water reactors which use unenriched fuel. They have
 their own uranium, and lack only the capability to produce heavy
 water in large quantities to reach potential independence from outside
-1 Source: Carter Library, National Security Affairs, Staff Material, North/South,
-
 Nuclear Non-Proliferation in Latin America
 supply. The Swiss are now filling that gap. Unless they agree to the Ca-
 nadian safeguards formula, the Argentines could build a complete fuel
@@ -45266,7 +44908,6 @@ tual commitment to provide the HEU fuel, and no alternative supplier
 at this time, the Ad Hoc Group believes that this supply can be distin-
 guished from the German/Swiss contracts as the continuation of an ex-
 isting supply relationship rather than a major new commitment. (C)
-1 Source: Carter Library, National Security Affairs, Staff Material, North/South,
 tialed the upper right-hand corner of the memorandum.
 2 Not attached.
 
@@ -45458,7 +45099,6 @@ Dr. Hugo Erramuspe, Director of Research and Development, CNEA
 Dr. Carlos A. Kroll, Coordinator of General Secretariat, CNEA
 Dr. Jorge Martinez Fabini, Manager of Law Division, CNEA
 Ing. Alejandro Placer, Advisor to CNEA President
-1 Source: National Archives, RG 383, Records of the Arms Control and Disarma-
 Drafted by Clifton Metzner. The meeting took place at the Comisio´n Nacional de Energı´a
 Ato´mic (CNEA). Copies were sent to the Ambassador, the Deputy Chief of Mission, the
 Science Counselor, the Defense Attache´, the Bureau of Security Assistance, Science, and
@@ -45759,7 +45399,6 @@ haps nuclear area.
 [Omitted here is discussion unrelated to non-proliferation.]
 Keeny, discussing nuclear matters, said it is not clear what the op-
 tions are. The Soviets are interested in some nuclear cooperation with
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, Brzezinski
 meeting took place in the White House Situation Room.
 
 Nuclear Non-Proliferation in Latin America
@@ -45885,7 +45524,6 @@ the study has been mentioned in confidence by a high Argentine offi-
 cial, several months apart and under different circumstances. I see no
 reason to question their veracity at this juncture.
 Ruser
-1 Source: National Archives, RG 383, Records of the Arms Control and Disarma-
 Secret; Immediate; Nodis.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -45924,7 +45562,6 @@ minimum legal requirements, that this is entirely appropriate for Ar-
 gentina, and that we should stick with it. (C)
 The majority opinion is based on the view that this component
 does not constitute sufficient leverage to move the Argentines on safe-
-1 Source: Carter Library, National Security Affairs, Staff Material, North/South,
 tialed the upper right corner of the memorandum.
 2 Attached but not printed is an undated memorandum from the NSC Ad Hoc
 Group on Non-Proliferation to Carter outlining the options, which was attached to a Sep-
@@ -46216,7 +45853,6 @@ and administrative, although the Secretariat is expected to be charged
 with preparing background reports and the Secretary General is certain
 to submit his own views in a special report to the session when it
 convenes.
-1 Source: Carter Library, National Security Affairs, Brzezinski Material, VIP Visit
 Memos. Confidential.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -46369,7 +46005,6 @@ perts favored a special PolAd meeting to be held in late May to discuss
 further the Non-Aligned position paper2 and a Canadian suggestion
 that a PrepCon subcommittee be established to begin drafting the final
 conference document. End summary.
-1 Source: National Archives, RG 59, Central Foreign Policy File, [no film number].
 Confidential. Sent for information to all NATO capitals, Belgrade, the Mission in Geneva,
 and Moscow.
 2 Not found.
@@ -46726,7 +46361,6 @@ tion. This was why this was an urgent question. Once opinion on these
 issues became formulated, it would be very difficult to exert any influ-
 ence. Close cooperation with the U.S. was essential, which was why he
 raised the matter with the four power forum.
-1 Source: Department of State, Office of the Secretariat Staff, Cyrus R. Vance, Secre-
 The meeting took place at 10 Downing Street. The memorandum is scheduled to be
 printed in full in Foreign Relations, 1977–1980, vol. XXVII, Western Europe.
 
@@ -46971,7 +46605,6 @@ the Soviets in 1968 in the NPT negotiations and that became the basis
 for our adherence in 1971 to Protocol II2 of the Treaty of Tlatelolco—
 non-use against non-nuclear weapon states party to the NPT (or other
 binding international non-proliferation commitments) except those en-
-1 Source: National Archives, RG 383, Records of the Arms Control and Disarma-
 Working Paper on International Mechanisms for Disarmament, August 1976–July 1978.
 Confidential.
 
@@ -47225,7 +46858,6 @@ Backstopping Committee for the UN Special Session on Disarmament (SSOD)
 As you are aware, the United Nations General Assembly will be
 meeting in a Special Session on Disarmament from May 23 to June 28,
 1978. Three meetings of the Preparatory Committee for the SSOD
-1 Source: National Archives, RG 383, Records of the Arms Control and Disarma-
 Working Paper on International Mechanisms for Disarmament, August 1976–July 1978.
 Confidential. Copies were sent to Gilligan, George Brown, and Turner.
 
@@ -47289,7 +46921,6 @@ others and to put forward new ideas of our own at New York.
 To carry out this approach we are working on a three point program:
 I. Working from the base of our current arms control policies we
 are developing guidance for our SSOD delegation which will en-
-1 Source: Carter Library, National Security Affairs, Staff Material, Brzezinski Office
 2 See Document 480.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -47417,7 +47048,6 @@ Branch departments and agencies. The impact on US nuclear force
 planning options should be analyzed under a variety of possibilities,
 ranging from projections of likely force levels to various higher op-
 tions. We should assess the impact on Soviet capabilities, and the extent
-1 Source: Library of Congress, Manuscript Division, James Schlesinger Papers, Box
 memorandum.
 2 Not found.
 
@@ -47537,7 +47167,6 @@ avoid being constrained on future weapons decisions because of a lack
 of availability of weapons grade materials.
 To meet the fissionable material requirements of the FY 78–80 Nu-
 clear Weapons Stockpile Plan approved by the President in PD/
-1 Source: Carter Library, National Security Affairs, Staff Material, Brzezinski Office
 stricted Data.
 2 See Document 482.
 ment 313.
@@ -47624,7 +47253,6 @@ sile—prospectively entering into inventory. Alternatively we could
 achieve constraint by a substantial drawdown of tactical weapons. This
 would imply a significant withdrawal from the [number not declassified]
 weapons now deployed in Europe with all that that would entail for
-1 Source: Library of Congress, Manuscript Division, James Schlesinger Papers, Box
 2 See Document 482.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -47711,8 +47339,6 @@ stockpile and the pipeline;
 —Special problems (e.g., tritium production, naval reactors);
 —Allied views and interests;
 —Soviet attitudes; and
-1 Source: Carter Library, National Security Affairs, Staff Material, Brzezinski Office
-
 Foreign Relations, 1977–1980, Volume XXVI
 —Views and actions of non-aligned and non-nuclear-weapon
 states (particularly in the SSOD context and from the perspective of US
@@ -47757,7 +47383,6 @@ George Allen
 The question of whether or not the President should speak at
 SSOD depends heavily on the content of the US presentation. If he is to
 speak, it is highly desirable that the presentation not be limited to
-1 Source: Carter Library, National Security Council, Institutional Files, Box 117,
 House Situation Room. Draft minutes of the meeting are ibid.
 
 Special Session on Disarmament
@@ -47798,7 +47423,6 @@ the reliance of nations on nuclear weapons, I hereby solemnly declare on behalf 
 United States that we will not use nuclear weapons except in self-defense; that is, in cir-
 cumstances of an actual nuclear or conventional attack on the United States, our terri-
 tories, or Armed Forces, or such an attack on our allies.” (Public Papers: Carter, 1977, pp.
-3 Reference is to a NSC proposal that the United States provide equipment to mon-
 itor compliance with disarmament agreements to nations or regions who requested such
 assistance.
 
@@ -47852,7 +47476,6 @@ all too often they pile up on desks in various government offices and
 nothing much happens. He was not trying to reproach anyone in this
 regard, but simply would not like to see this happen in the case of the
 SSOD. As he had said, the Soviet side attached great importance to the
-1 Source: Department of State, Office of the Secretariat Staff, Special Adviser to the
 Box 8, Vance to Moscow, April 1978. Secret; Sensitive; Nodis. The meeting took place at
 the Kremlin. Drafted by William Krimer. The memorandum of conversation is printed in
 
@@ -47901,7 +47524,6 @@ for Political and Multilateral
 Ambassador Lawrence Weiler
 Affairs
 U.S. Coordinator for SSOD
-1 Source: Carter Library, National Security Council, Institutional Files, Box 93, SCC
 in the White House Situation Room.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -48065,7 +47687,6 @@ proposal for a cutoff of the production of fissionable materials for use
 in nuclear weapons. ACDA, supported by USUN, favored such an ini-
 tiative. All other agencies opposed such an initiative, several of them
 (including DOD) expressing strong opposition. If other countries offer
-1 Source: Carter Library, National Security Council, Institutional Files, Box 93, SCC
 the White House Situation Room.
 2 Not found.
 
@@ -48151,8 +47772,6 @@ grounds that there is already a full plate of arms control negotiations in
 train. If we did propose a cutoff, I think we will be subjecting ourselves
 to a great deal of internal conflict that would probably spill over into
 other, more important and more urgent, arms control issues.
-1 Source: Carter Library, National Security Affairs, Staff Material, Brzezinski Office
-
 Special Session on Disarmament
 I attach a memo stating the position of the JCS, which is similar to
 but goes beyond my own.2
@@ -48180,7 +47799,6 @@ tion that we not only refrain from advancing this proposal but actively
 oppose it when it comes up for discussion at the SSOD. There is no
 question but that this will be a major proposal (supported by the non-
 aligned and major allies such as Canada and Japan) in the program of
-1 Source: National Archives, RG 383, Records of the Arms Control and Disarma-
 ment Agency, Office of the Director, Paul C. Warnke Files, December 1974–July 1979, Ac-
 siles, CTB, NPT, and Indian Ocean Arms Control, January–October 1978. Secret. Copies
 were sent to Vance and Christopher. Warnke hand-wrote an undated cover letter to the
@@ -48260,7 +47878,6 @@ three issues which require your decision.
 1. Negative Security Assurances
 Many non-aligned countries and several of our allies, including
 the UK and Japan, support assurances by nuclear weapons states
-1 Source: Carter Library, National Security Affairs, Staff Material, Brzezinski Office
 upper right-hand corner of the memorandum, Brzezinski hand-wrote “May 16 ’78.”
 2 See Document 489.
 
@@ -48299,7 +47916,6 @@ that we stick with your October language at the UN. The issue thus is:
 Should the US undertake the negative security assurance stated above?
 Yes
 No5
-3 Reference is to Brezhnev’s declaration that Moscow would become a party to the
 Treaty of Tlatelolco, which banned nuclear weapons in Latin America, and his comment
 that “we, like other states possessing nuclear weapons, will take upon ourselves the obli-
 gation not to help the acquisition of nuclear arms by Latin American states, and also not
@@ -48448,7 +48064,6 @@ past statements.)
 3. The President will not deliver the U.S. presentation to the SSOD
 on May 24.
 Zbigniew Brzezinski
-1 Source: Carter Library, National Security Affairs, Staff Material, Brzezinski Office
 2 See Document 489.
 
 Special Session on Disarmament
@@ -48868,7 +48483,6 @@ with a final document of the SSOD which includes a general call for ne-
 gotiations on a cut-off.
 Yes
 No
-1 Source: Carter Library, National Security Affairs, Staff Material, Brzezinski Office
 initialed the memorandum on Brzezinski’s behalf.
 2 Brown offered his views in a May 25 memorandum to Brzezinski. (Ibid.)
 3 Carter checked the “Yes” option and wrote “J” in the right-hand margin.
@@ -48913,7 +48527,6 @@ tellectuals for realistic discussions of arms control and disarmament
 issues;
 —visits to the U.S. by foreign journalists and scholars to discuss
 arms control and disarmament issues with American counterparts;
-1 Source: Carter Library, National Security Affairs, Staff Material, Brzezinski Office
 tion marking.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -48942,7 +48555,6 @@ mament, Averell Harriman and Andy Young have expressed serious
 concern to Cy Vance that the guidance under which they are now oper-
 ating is in several respects not sufficiently forthcoming to ensure a
 positive outcome of the Special Session.2 Their concerns focus on:
-1 Source: Carter Library, National Security Affairs, Staff Material, Brzezinski Office
 wrote a “C” in the upper right-hand corner of the first page of the memorandum indi-
 cating that he saw the document.
 Non-Aligned countries view our lack of positive response at the Special Session to their
@@ -49069,7 +48681,6 @@ David Aaron, Deputy Assistant to the President for National Security Affairs
 Marjorie Benton, U.S. Delegation to the UN Special Session on Disarmament
 Paul Newman, U.S. Delegation to the UN Special Session on Disarmament
 Robert D. Putnam, National Security Council Staff Member
-1 Source: Department of State, Office of the Secretariat Staff, Cyrus R. Vance, Secre-
 meeting took place in the Cabinet Room.
 
 Foreign Relations, 1977–1980, Volume XXVI
@@ -49223,7 +48834,6 @@ posed by other states. However, we should be prepared to go along
 with a final document of the SSOD which includes a general call for ne-
 gotiations on a cut-off.
 David Aaron
-1 Source: Carter Library, National Security Affairs, Staff Material, Brzezinski Office
 501.
 Telegram From the Mission to the United Nations to the
 Department of State1

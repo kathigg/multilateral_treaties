@@ -1,6 +1,8 @@
 source=/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Carter, 1977-1980/Carter Foreign Policy/clean_text.txt
 removed_prefix_lines=38
 removed_toc_lines=1
-removed_unwanted_section_lines=2448
+removed_unwanted_section_lines=2438
 removed_page_number_lines=1021
 removed_link_lines=0
+removed_imprint_lines=28
+removed_source_note_lines=171

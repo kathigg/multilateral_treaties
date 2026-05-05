@@ -1,6 +1,8 @@
 source=/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Carter, 1977-1980/Carter Human Rights/clean_text.txt
 removed_prefix_lines=107
 removed_toc_lines=16
-removed_unwanted_section_lines=4901
+removed_unwanted_section_lines=4889
 removed_page_number_lines=1821
 removed_link_lines=0
+removed_imprint_lines=32
+removed_source_note_lines=438

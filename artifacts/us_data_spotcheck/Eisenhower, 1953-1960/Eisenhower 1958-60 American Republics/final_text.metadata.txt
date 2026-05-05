@@ -1,6 +1,8 @@
 source=/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Eisenhower, 1953-1960/Eisenhower 1958-60 American Republics/clean_text.txt
 removed_prefix_lines=6
 removed_toc_lines=0
-removed_unwanted_section_lines=3265
+removed_unwanted_section_lines=3264
 removed_page_number_lines=121
 removed_link_lines=0
+removed_imprint_lines=0
+removed_source_note_lines=174

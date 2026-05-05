@@ -1,0 +1,57 @@
+National Security Policy  1045
+Arbitrary 
+Reference 
+Designation
+Initial 
+Opera­
+tional 
+Capability 
+Dateb
+Maximum 
+Range 
+(NM)
+Operational 
+accuracy (CEP)
+Maximum 
+Warhead 
+(Lbs. and 
+Type)c
+Cruise Speed 
+(Mach No.)
+Guidance
+Remarks
+AS–­3 f g
+1961
+100
+150 feet against 
+ships.
+1 nm against 
+coastal targets.
+3,000 HE or 
+Nuclear.
+1.1
+Beam riding 
+with semi-­
+active radar 
+homing.
+Primarily antiship 
+missile.
+Beam riding 
+only against 
+coastal targets.
+Decoys
+The USSR is probably developing and may now have operational air launched decoys to simulate medium 
+or heavy bombers.
+a We evaluate this program as “probable” with varying degrees of confidence concerning detailed characteristics. Each missile listed will 
+probably go through various stages of development which are not necessarily reflected in this table. [All footnotes are in the original.]
+b The date at which one or more series produced missiles could have been placed in the hands of trained personnel in one operational unit.
+c Warhead includes the explosive device and its associated fusing and firing mechanism.
+d The BADGER is believed to be the carrier aircraft for the AS–­1. Launch altitude is about 15,000 feet. The BADGER’s radius is 1,250 nm 
+when carrying one missile, 1,000 nm with two. This radius can be increased by about 35 percent by a single prestrike aerial refueling.
+e The AS–­2 will probably be compatible with the BEAR and BISON, and possibly with the BADGER. The AS–­2 will probably weigh 9,000 to 
+10,000 pounds; two could be carried by both the BEAR and BISON. The BADGER could carry one and possibly two. A range degradation 
+of 8–10 percent for these aircraft when carrying one missile, and 15–20 percent when currying two is estimated.
+f The BADGER probably would be used as the carrier aircraft for the AS–­3. Launch altitude is about 35,000 feet. The BADGER’s radius 
+would be about the same as with AS–­1.
+g The Assistant Chief of Naval Operations for Intelligence, Department of the Navy, believes that the AS–­3 warhead weight should be 1,000 
+pounds, and that guidance should be inertial with active radar homing and a provision for command override of the inertial guidance system.

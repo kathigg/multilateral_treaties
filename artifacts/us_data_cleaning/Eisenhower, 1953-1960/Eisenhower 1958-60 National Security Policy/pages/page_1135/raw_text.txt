@@ -1,0 +1,44 @@
+1030  Foreign Relations, 1958–1960, Volume III, Supplement
+one plant in the USSR; we now have limited evidence pointing to two 
+Soviet cities as possible production sites.
+5. There is no new evidence to establish the Soviet ICBM deploy­
+ment concept. The available evidence suggests that the Soviet ICBM 
+could be rail mobile, but we do not know whether the deployment 
+pattern as a whole will comprise rail mobile units, hard or soft fixed 
+installations, or some combination of these methods. In any case, 
+Soviet ICBM sites are not likely to be found at locations remote from 
+rail support.
+6. Configuration. On the basis of data obtained from ICBM and 
+space vehicle launchings, we believe the Soviet ICBM to be a one and 
+one-­half staged (Atlas type) vehicle or a parallel staged vehicle, with 
+the former now considered somewhat more likely. It almost certainly 
+employs nonstorable liquid propellants. Data acquired on the re-­entry 
+vehicles used on the shots to the Johnson Island area indicate that the 
+nosecones employed in those tests were of the ablative rather than 
+heatsink type. We therefore estimate that the Soviet ICBM employs an 
+ablative nosecone. Use of such a nosecone would permit the delivery 
+of a 6,000 pound nuclear warhead to a range of about 6,500 n.m., that 
+is, from virtually any point in the USSR to virtually any point in the US. 
+A reduction in warhead weight would permit a greater range or the 
+incorporation of penetration aids in the nosecone.
+7. Accuracy. [text not declassified] the Soviet ICBM probably has 
+radio-­inertial and not all-­inertial guidance. The guidance system 
+is believed to employ radar tracking with radio command, and to 
+include inertial components within the missile. The data available for 
+estimating Soviet CEPs are far from exact; considerable reliance has 
+been placed on general state of the art and US analogy. These fac­
+tors, together with our estimate of Soviet capabilities in related com­
+ponents such as gyroscopes and accelerometers, point to a theoretical 
+CEP at IOC date of about 2 n.m., which we believe would be degraded 
+to about 3 n.m. under operational conditions.4 This is an approximate 
+figure and we apply it to all ranges to which ICBMs are likely to be 
+fired.
+8. We believe that operational considerations will lead the Soviets 
+to incorporate an all-­inertial system in their ICBM sometime during 
+1961–1962 or possibly earlier. A Soviet all-­inertial system, as of today, 
+would probably have a theoretical CEP of about 3 n.m., degraded to 
+4 Under operational conditions, theoretical CEPs will be degraded by several factors 
+such as: (a) re-­entry errors induced by undeterminable winds and air density over the 
+impact area; (b) human and experience factors; and (c) geophysical errors including grav­
+itational anomalies, geoidal uncertainties, and uncertainties of target location relative to 
+launch point and local verticals. [Footnote is in the original.]

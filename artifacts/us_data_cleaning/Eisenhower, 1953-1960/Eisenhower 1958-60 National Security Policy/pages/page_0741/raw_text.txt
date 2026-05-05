@@ -1,0 +1,74 @@
+636  Foreign Relations, 1958–1960, Volume III, Supplement
+Type
+Year in 
+Service
+Frequency 
+(mcs.)
+EARLY WARNING RADAR
+GROUND CONTROL INTER­
+CEPT RADAR
+Detection Range (n.m.)
+Altitude 
+Cover­
+age (ft.)
+Tracking Range (n.m.)
+Altitude 
+Coverage
+Medium 
+Bomber
+Fighter
+Medium 
+Bomber
+Fighter
+BIG MESH
+Current
+S-Band
+2700–3130
+170–210
+100–120
+80,000
+100–120
+80–90
+80,000
+L-Band
+550–600
+170–210
+100–120
+80,000
+STRIKE OUT
+Current
+2700–3100
+170–210
+100–120
+80,000
+STRIKE OUT/ 
+ROCK CAKE
+Current
+2700–3100
+100–120
+80–90
+80,000
+New Type
+1960
+up to 3000
+250
+100–160
+100,000
+150
+—
+100,000
+New Type
+1965
+up to 3000
+300
+—
+100,000
+250
+—
+100,000
+Notes:
+1. All radars listed as currently operational are believed to have height-­finding capabilities, with the exception of GAGE and 
+STRIKE OUT when used in an early warning role.
+2. With the exception of DUMBO, all of these radars are believed to be equipped with antijamming devices.
+3. All of these current types are believed to be mobile except for the DUMBO, the GAGE and the GAGE-PATTY CAKE combination.
+TABLE 10—Continued
