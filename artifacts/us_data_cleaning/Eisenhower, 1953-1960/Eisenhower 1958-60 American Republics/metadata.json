@@ -1,0 +1,32 @@
+{
+  "source_pdf": "/usa/kathigg/multilateral_treaties/us_data/Eisenhower, 1953-1960/Eisenhower 1958-60 American Republics.pdf",
+  "relative_path": "Eisenhower, 1953-1960/Eisenhower 1958-60 American Republics.pdf",
+  "output_dir": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Eisenhower, 1953-1960/Eisenhower 1958-60 American Republics",
+  "status": "completed",
+  "started_at": "2026-05-05T17:56:08+00:00",
+  "completed_at": "2026-05-05T18:00:02+00:00",
+  "duration_seconds": 234.0,
+  "page_count": 1440,
+  "processed_pages": 1440,
+  "failed_page_count": 0,
+  "page_method_counts": {
+    "embedded_text": 1436,
+    "ocr": 4
+  },
+  "mean_ocr_confidence": null,
+  "failed_pages": [],
+  "document_cleaning_summary": {
+    "line_counts": {
+      "keep": 54794,
+      "blank": 1603,
+      "noise": 485,
+      "table": 4092
+    },
+    "kept_nonblank_lines": 54794
+  },
+  "output_files": {
+    "raw_text": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Eisenhower, 1953-1960/Eisenhower 1958-60 American Republics/raw_text.txt",
+    "clean_text": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Eisenhower, 1953-1960/Eisenhower 1958-60 American Republics/clean_text.txt",
+    "prose_text": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Eisenhower, 1953-1960/Eisenhower 1958-60 American Republics/prose_text.txt"
+  }
+}

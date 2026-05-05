@@ -1,3 +1,6 @@
 source=/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Carter, 1977-1980/Carter Eastern Europe/clean_text.txt
-removed_prefix_lines=26
-removed_toc_lines=44
+removed_prefix_lines=46
+removed_toc_lines=26
+removed_unwanted_section_lines=1372
+removed_page_number_lines=1243
+removed_link_lines=0

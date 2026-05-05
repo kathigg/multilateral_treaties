@@ -1,3 +1,6 @@
 source=/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Carter, 1977-1980/Carter Arab-Israeli Dispute/clean_text.txt
-removed_prefix_lines=33
-removed_toc_lines=17
+removed_prefix_lines=57
+removed_toc_lines=2
+removed_unwanted_section_lines=1627
+removed_page_number_lines=1750
+removed_link_lines=0

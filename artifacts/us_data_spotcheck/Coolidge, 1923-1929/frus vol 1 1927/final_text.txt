@@ -22,195 +22,6 @@ Bureau of Public Affairs
 This ebook was generated on May 26, 2018.
 Please visit the Office of the Historian ebooks web page  to access updates.
 
-About the Electronic Edition
-The Office of the Historian at the U.S. Department of State has embarked
-on a program to release an ebook edition of the Foreign Relations of the
-United States (FRUS) series, which was established in 1861. Far lighter and
-more portable than printed editions of FRUS, the ebook edition offers the
-full content of each volume and makes use of the full-text search and other
-reading features of most ebook devices and applications, including
-bookmarking and note-taking. Unlike the web-based edition of FRUS, the
-ebook edition, once downloaded, can be accessed even without internet
-connectivity.
-In creating the FRUS ebook edition, we endeavored to maintain fidelity
-with the original printed edition. One challenge in this respect is
-representing original page numbers from printed editions in ebooks. For
-readers who need to cite material in this ebook, we recommend citing
-document numbers instead of page numbers, since document numbers are
-persistent, media-neutral identifiers. In older FRUS volumes (before the
-subseries covering the Johnson administration), where cross references use
-page numbers rather than document numbers, we append to each page
-number a bracketed list of the document numbers that correspond to it.
-The Office of the Historian has worked to ensure that this ebook is error-
-free and works on a broad range of devices. Please email
-history_ebooks@state.gov with any feedback.
-To learn about updates to this ebook, other ebooks, and the ebook initiative
-in general, visit our ebooks homepage , and follow us on Twitter at
-@HistoryAtState  and Tumblr at HistoryAtState .
-Office of the Historian
-Bureau of Public Affairs
-U.S. Department of State
-May 2018
-
-Message of the president of the United States to Congress,
-December 6, 1927
-List of Papers
-General:
-Three-Power Conference at Geneva for the Limitation
-(Documents 1-150)
-Participation of the United States in the work of the
-third
-and
-fourth
-sessions
-of
-the
-Preparatory
-Commission
-for
-the
-Disarmament
-Conference
-(Documents 151-193)
-Meeting of the Special Commission for the Preparation
-of a Draft Convention on the Private Manufacture of
-Arms and Ammunition and of Implements of War,
-198)
-Status of treaties concluded at the Washington
-Conference on the Limitation of Armament, and of
-certain resolutions adopted by that Conference
-(Documents 199-199)
-American representation at the World Economic
-203)
-International Conference for the Abolition of Import
-and Export Prohibitions and Restrictions, Geneva,
-
-Participation of the United States in meeting of the
-Committee of Experts on Double Taxation and Tax
-234)
-Radiotelegraph convention between the United States
-and other powers, signed November 25, 1927
-(Documents 235-235)
-Proposed disposition of property held by the Alien
-Property Custodian (Documents 236-237)
-Additional protocol between the United States and other
-American Republics, signed October 19, 1927,
-amending the Pan American sanitary convention of
-Circular instruction to diplomatic officers and certain
-consular officers concerning questions arising from the
-negotiation of foreign loans by American bankers
-(Documents 239-239)
-Boundary disputes
-Bolivia and Paraguay (Documents 240-246)
-Colombia and Nicaragua (Documents 247-
-258)
-Colombia and Peru (Documents 259-272)
-Dominican Republic and Haiti (Documents
-Statement by the Secretary of State regarding Bolshevik
-aims and policies in Mexico and Latin America
-(Documents 282-282)
-
-Representation of the United States at the meeting of
-the International Commission of Jurists, held at Rio de
-Reply by the Department of State to questionnaires on
-international law submitted by the League of Nations
-(Documents 289-291)
-Opinion of the Department of State on status of League
-of Nations officials in the United States (Documents
-Exemptions from taxation and customs duties enjoyed
-by foreign diplomatic and consular officers in the
-United States (Documents 294-294)
-Right of foreign governments to acquire, without
-restriction, property for Embassy or Legation purposes
-in the District of Columbia (Documents 295-296)
-Suits against United States Shipping Board vessels in
-foreign courts (Documents 297-297)
-Rules of precedence as between certain officers of the
-United States (Documents 298-298)
-Argentina:
-Proposed treaty of friendship, commerce and consular
-rights between the United States and Argentina
-(Documents 299-299)
-Efforts
-to
-secure
-for
-American
-firms
-equal
-consideration with other foreign companies in bids for
-Argentine naval construction (Documents 300-317)
-Australia:
-
-Representations
-by
-the
-Australian
-Government
-regarding entry of Australian businessmen into the
-United States (Documents 318-320)
-Austria:
-Negotiations respecting subordination of the Austrian
-relief loan to a proposed new Austrian loan (Documents
-Action of the American Minister in Austria on the
-occasion of the Vienna Palace of Justice riots
-(Documents 344-345)
-Bolivia:
-Proposed treaty of friendship, commerce and consular
-rights between the United States and Bolivia
-(Documents 346-347)
-Boundary dispute with Paraguay. (See under General.)
-Canada:
-Establishment of direct diplomatic relations between
-the United States and Canada and of American
-diplomatic representation in the Irish Free State
-(Documents 348-351)
-Continued protests by the Canadian Government
-against increased diversion of the waters of the Great
-Lakes (Documents 352-353)
-Project for improvement of the St. Lawrence Waterway
-by joint action of the United States and Canada
-(Documents 354-355)
-Proposal that the problem of improving the Roseau
-River drainage system be referred to the International
-
-Joint Commission (Documents 356-359)
-Representations by Canada against changes in border
-crossing privileges between Canada and the United
-States (Documents 360-369)
-Disinclination of the Canadian Government to authorize
-the discontinuance of seine fishing in Missisquoi Bay
-(Documents 370-374)
-Chile:
-Proposed treaty of friendship, commerce and consular
-rights between the United States and Chile (Documents
-Representations to the Chilean Government regarding
-proposed legislation favoring Chilean mercantile
-marine (Documents 382-395)
-Representations to the Chilean Government regarding
-effects of proposed coal law on American interests
-(Documents 396-402)
-Representations to the Chilean Government regarding
-effects of proposed insurance legislation on American
-interests (Documents 403-413)
-Disagreement of the Department of State with decision
-of a Chilean court that a diplomatic secretary does not
-enjoy diplomatic immunity (Documents 414-415)
-Message of the president of the United States to
-Congress, December 6, 1927
-MEMBERS OF THE CONGRESS: It is gratifying to report that for the fourth consecutive
-year the state of the Union in general is good. We are at peace. The country
-as a whole has had a prosperity never exceeded. Wages are at their highest
-range, employment is plentiful. Some parts of agriculture and industry have
-lagged; some localities have suffered from storm and flood. But such losses
-have been absorbed without serious detriment to our great economic
-structure. Stocks of goods are moderate and a wholesome caution is
-prevalent. Rates of interest for industry, agriculture, and government have
-been reduced. Savers and investors are providing capital for new
-construction in industry and public works. The purchasing power of
-agriculture has increased. If the people maintain that confidence which they
-are entitled to have in themselves, in each other, and in America, a
-comfortable prosperity will continue.
 CONSTRUCTIVE ECONOMY
 Without constructive economy in Government expenditures we should not
 now be enjoying these results or these prospects. Because we are not now
@@ -1026,7 +837,6 @@ and
 number
 Subject
 Page
-1927
 Feb. 3
 (24)
 To the Ambassador in France (tel.)
@@ -1038,7 +848,6 @@ transmitted by telegrams Nos. 25 and 26.
 Great Britain and Italy; similar instructions to the Embassy
 in Japan.)
 1 [Pg.
-1
 includes
 portions
 of Doc.
@@ -1060,7 +869,6 @@ treaty.
 Great Britain and Italy. A similar telegram was sent to the
 Embassy in Japan.)
 1 [Pg.
-1
 includes
 portions
 of Doc.
@@ -1072,7 +880,6 @@ To the Ambassador in Japan (tel.)
 Instructions to supplement presentation of memorandum by
 oral expression of U. S. views.
 5 [Pg.
-5
 includes
 
 portions
@@ -1091,7 +898,6 @@ A similar telegram was sent to Japan.
 Information that the President’s message was
 communicated to Congress on February 10.)
 6 [Pg.
-6
 includes
 portions
 of Doc.
@@ -1103,7 +909,6 @@ To the Ambassador in France (tel.)
 Instructions to supplement presentation of memorandum by
 oral expression of U. S. views.
 9 [Pg.
-9
 includes
 portions
 of Doc.
@@ -1119,7 +924,6 @@ Government’s information.
 (Footnote: Instructions to repeat to Argentina. A similar
 telegram was sent to Brazil.)
 9 [Pg.
-9
 includes
 portions
 of Doc.
@@ -1134,7 +938,6 @@ signatories of Washington treaty because of conviction that
 naval limitation can be dealt with effectively only by the
 Preparatory Commission.
 10 [Pg.
-10
 includes
 portions
 of Doc.
@@ -1144,7 +947,6 @@ Feb. 19 From the Japanese Embassy
 Acceptance of proposal to participate in negotiations for
 further naval limitation.
 13 [Pg.
-13
 includes
 portions
 of Doc.
@@ -1157,7 +959,6 @@ From the Ambassador in Italy (tel.)
 Information that a negative reply has been received from
 the Italian Government.
 14 [Pg.
-14
 includes
 portions
 of Doc.
@@ -1173,7 +974,6 @@ inability to accede to U. S. proposal, the fact that Italy’s
 unfavorable geographical position prevents limitation of her
 already insufficient naval armament.
 14 [Pg.
-14
 includes
 portions
 of Doc.
@@ -1188,7 +988,6 @@ Observation that no effective naval limitation in the
 Mediterranean can be accomplished until Italo-French
 relations improve.
 16 [Pg.
-16
 includes
 portions
 of Doc.
@@ -1207,7 +1006,6 @@ opposition of Bridgeman, First Lord of the Admiralty;
 authorization, if deemed wise, to discuss the whole matter
 with Chamberlain.
 17 [Pg.
-17
 includes
 portions
 of Doc.
@@ -1222,7 +1020,6 @@ reconsider refusal to participate if assured in advance that
 Italo-French parity established by Washington treaty would
 not be disturbed, that it was just such questions which
 17 [Pg.
-17
 includes
 portions
 of Doc.
@@ -1241,7 +1038,6 @@ Communication from Argentine Government (text printed),
 stating that the question of naval limitation should await
 action of Preparatory Commission.
 19 [Pg.
-19
 includes
 portions
 of Doc.
@@ -1260,7 +1056,6 @@ not expected from Brazil or Chile.
 Embassy in Argentina was informed by telegram to the
 same effect.)
 20 [Pg.
-20
 includes
 portions
 of Doc.
@@ -1276,7 +1071,6 @@ Emphatic assurance by Bridgeman of his desire for Naval
 Conference and indication that favorable British reply may
 be expected following receipt of answers from Dominions.
 20 [Pg.
-20
 includes
 portions
 of Doc.
@@ -1292,7 +1086,6 @@ advance that Conference would maintain Franco-Italian
 parity, even if such guarantee would enable Italy to
 reconsider refusal to attend Conference.
 21 [Pg.
-21
 includes
 portions
 of Doc.
@@ -1320,7 +1113,6 @@ with the other two powers. Informal approval by
 Ambassadors of plan to invite France and Italy to send
 observers.
 23 [Pg.
-23
 includes
 portions
 of Doc.
@@ -1341,7 +1133,6 @@ their Governments.
 upon three-power basis was cabled to Embassies in Great
 Britain and Japan.)
 24 [Pg.
-24
 includes
 portions
 of Doc.
@@ -1355,7 +1146,6 @@ Instructions to advise Chamberlain that an indication to
 Japanese Government of British attitude toward Three-
 Power Conference will facilitate Japanese reply.
 26 [Pg.
-26
 includes
 portions
 of Doc.
@@ -1371,7 +1161,6 @@ Information that copy of British acceptance of Three-Power
 Conference proposal has been sent to British Embassy at
 Tokyo.
 26 [Pg.
-26
 includes
 portions
 of Doc.
@@ -1382,12 +1171,10 @@ Doc.
 23]
 
 Mar.
-10
 Memorandum by the Under Secretary of State
 Conversation in which British Ambassador read his
 Government’s informal acceptance (text printed).
 26 [Pg.
-26
 includes
 portions
 of Doc.
@@ -1399,7 +1186,6 @@ Doc.
 Mar. 11 From the Japanese Embassy
 Acceptance of invitation to Three-Power Conference.
 27 [Pg.
-27
 includes
 portions
 of Doc.
@@ -1414,7 +1200,6 @@ discussions will begin at Geneva about June 1.
 (Footnote: Sent, mutatis mutandis, to the British
 Ambassador.)
 28 [Pg.
-28
 includes
 portions
 of Doc.
@@ -1428,7 +1213,6 @@ acknowledging French Government’s reply of February 15
 and extending invitation to be represented in some manner
 at Three-Power Conference.
 28 [Pg.
-28
 includes
 portions
 of Doc.
@@ -1452,7 +1236,6 @@ From the Ambassador in France (tel.)
 Foreign Office note verbale, April 2 (text printed),
 explaining why decision concerning representation at
 31 [Pg.
-31
 includes
 portions
 of Doc.
@@ -1471,7 +1254,6 @@ rather than preliminary conversations, will take place on
 that date at Geneva; plan to send Bridgeman, Viscount
 Cecil, and Admiral Field as plenipotentiaries.
 32 [Pg.
-32
 includes
 portions
 of Doc.
@@ -1483,7 +1265,6 @@ Desire that Conference begin no earlier than June 11, in
 order to allow sufficient time for Japanese delegation to
 reach Geneva.
 33 [Pg.
-33
 includes
 portions
 of Doc.
@@ -1496,7 +1277,6 @@ From the Ambassador in Japan (tel.)
 Information that Japanese delegates will be Admiral
 Viscount Saito and Viscount Ishii.
 34 [Pg.
-34
 includes
 portions
 of Doc.
@@ -1512,7 +1292,6 @@ Conference has been arranged and to give suggestions as to
 personnel of American delegation; communication of
 names of British and Japanese delegates.
 34 [Pg.
-34
 includes
 portions
 of Doc.
@@ -1527,7 +1306,6 @@ Information that definite arrangements have not yet been
 made as to date or secretariat for Conference; Bridgeman’s
 opposition to Geneva as meeting place.
 35 [Pg.
-35
 includes
 portions
 of Doc.
@@ -1540,7 +1318,6 @@ To the Chief of the American Delegation on the Preparatory
 Commission (tel.)
 Advice that, while United States cannot very well take
 36 [Pg.
-36
 includes
 portions
 
@@ -1559,7 +1336,6 @@ suggestions for holding Conference elsewhere and of
 League preference that request for use of facilities come
 from either Great Britain or Japan as League members.
 37 [Pg.
-37
 includes
 portions
 of Doc.
@@ -1573,7 +1349,6 @@ Chamberlain’s statement that British Government prefers
 Geneva and has so notified Japan, and that necessary steps
 are being taken with regard to use of League facilities.
 38 [Pg.
-38
 includes
 portions
 of Doc.
@@ -1592,7 +1367,6 @@ British delegation will either include fully empowered
 Dominion representatives or will itself be empowered by
 Dominion Governments.
 38 [Pg.
-38
 includes
 portions
 of Doc.
@@ -1609,7 +1383,6 @@ From the Ambassador in Great Britain (tel.)
 Chamberlain’s assurance that British delegation will include
 fully empowered Dominion representatives.
 38 [Pg.
-38
 includes
 portions
 of Doc.
@@ -1631,7 +1404,6 @@ Geneva.
 Tanaka replaced the ministry of Reijiro Wakatsuki in April
 1927.)
 39 [Pg.
-39
 includes
 portions
 of Doc.
@@ -1650,7 +1422,6 @@ June 4 that the Italian Government had appointed two
 unofficial observers; information, also, that a French
 Mission d’Information attended the plenary sessions.)
 39 [Pg.
-39
 includes
 portions
 of Doc.
@@ -1663,7 +1434,6 @@ at Geneva will open on June 20.
 (Footnote: Identic note on the same date to the Japanese
 Ambassador.)
 40 [Pg.
-40
 includes
 portions
 of Doc.
@@ -1674,7 +1444,6 @@ May 27 To President Coolidge
 Recommendations as to membership of American
 delegation.
 40 [Pg.
-40
 includes
 portions
 of Doc.
@@ -1687,7 +1456,6 @@ Record of conference of State and Navy Department
 officials with President Coolidge in regard to U. S. policy
 and proposals to be laid before Geneva Conference.
 42 [Pg.
-42
 includes
 portions
 of Doc.
@@ -1709,7 +1477,6 @@ deliberations are restricted to the immediate problem of
 extension of Washington treaty principles and ratios to
 auxiliary vessels.
 43 [Pg.
-43
 includes
 portions
 of Doc.
@@ -1722,7 +1489,6 @@ To the Minister in Switzerland (tel.)
 Communication of names of British and Dominion
 delegates.
 45 [Pg.
-45
 includes
 portions
 of Doc.
@@ -1742,7 +1508,6 @@ required on basis of 90,000 tons of submarines for the
 United States and the British Empire and 54,000 tons for
 Japan.
 46 [Pg.
-46
 includes
 portions
 of Doc.
@@ -1755,7 +1520,6 @@ From the Chairman of the American Delegation (tel.)
 For the President: Message from secretary general of
 Conference transmitting greetings from the delegates.
 47 [Pg.
-47
 includes
 portions
 of Doc.
@@ -1764,7 +1528,6 @@ Doc.
 48]
 June 20 From the Chairman of the American Delegation (tel.)
 47 [Pg.
-47
 
 (15)
 Résumé of first plenary session, at which the chairman of
@@ -1787,7 +1550,6 @@ submarine tonnage of each of the powers, the tonnage now
 authorized and appropriated for, and other pertinent
 information.
 48 [Pg.
-48
 includes
 portions
 of Doc.
@@ -1803,7 +1565,6 @@ Disappointment of American delegation at receptive
 attitude of Japanese delegation toward British proposals for
 modification of Washington treaty.
 48 [Pg.
-48
 includes
 portions
 of Doc.
@@ -1818,7 +1579,6 @@ From the Chairman of the American Delegation (tel.)
 Japanese desire for upward revision of the ratio assigned to
 Japan by the Washington treaty.
 50 [Pg.
-50
 includes
 portions
 of Doc.
@@ -1834,7 +1594,6 @@ sustain adoption by Conference of a decision (draft printed),
 reserving consideration of the British proposals to the 1931
 Conference provided under the Washington treaty.
 50 [Pg.
-50
 includes
 portions
 of Doc.
@@ -1848,7 +1607,6 @@ British insistence upon discussion of capital ships at present
 Conference and upon importance of placing limits upon
 maximum size of cruisers, destroyers, and submarines.
 51 [Pg.
-51
 includes
 portions
 of Doc.
@@ -1869,7 +1627,6 @@ certain other factors to bring out in bold relief U. S.
 willingness not only for real limitation but for reduction as
 well.
 52 [Pg.
-52
 includes
 portions
 of Doc.
@@ -1882,7 +1639,6 @@ To the Chairman of the American Delegation (tel.)
 Approval of suggested action and draft decision set forth in
 chairman’s telegram No. 25, June 23.
 53 [Pg.
-53
 includes
 portions
 of Doc.
@@ -1915,7 +1671,6 @@ Great Britain, but on the other hand is unwilling to sign a
 treaty increasing British cruiser strength by 75 percent and
 requiring the United States to triple its cruiser strength.
 55 [Pg.
-55
 includes
 portions
 of Doc.
@@ -1927,7 +1682,6 @@ June 25
 To the Chargé in Great Britain (tel.)
 Forwarding of chairman’s telegram No. 27, June 23, and
 56 [Pg.
-56
 
 Department’s telegram No. 11, June 24, with instructions to
 advise Chamberlain informally of U. S. Government’s
@@ -1952,7 +1706,6 @@ no limitation on number of small cruisers, can be overcome;
 efforts to dispose as soon as possible of British suggestions
 concerning Washington treaty.
 56 [Pg.
-56
 includes
 portions
 of Doc.
@@ -1984,7 +1737,6 @@ nonrevision of the treaty, insistence upon parity with Great
 Britain, and desire for curtailment of naval building
 program.
 59 [Pg.
-59
 includes
 portions
 of Doc.
@@ -1999,7 +1751,6 @@ Government has revised its instructions to permit
 acquiescence in British proposals for discussion of capital
 ships.
 60 [Pg.
-60
 includes
 portions
 of Doc.
@@ -2010,7 +1761,6 @@ June 27 From the British Ambassador
 Information, supplied at Chamberlain’s direction and for
 communication to President Coolidge, that the British
 61 [Pg.
-61
 includes
 portions
 of Doc.
@@ -2042,7 +1792,6 @@ Department’s telegram No. 11, June 24, have been
 forwarded to the American Embassy in London with
 instructions.
 64 [Pg.
-64
 includes
 portions
 of Doc.
@@ -2055,7 +1804,6 @@ June 30 From President Coolidge
 Approval of Secretary’s position as set forth in letter of
 June 28.
 64 [Pg.
-64
 includes
 portions
 of Doc.
@@ -2074,7 +1822,6 @@ that while Great Britain’s special needs require a higher
 number in certain types of vessels, the United States has the
 right to build up to an equal figure in any type of warship.
 65 [Pg.
-65
 includes
 portions
 of Doc.
@@ -2089,7 +1836,6 @@ British action in preferring postponement of public
 sessions, end of their insistence on public debate on U. S.-
 British naval needs, realization that they cannot force
 65 [Pg.
-65
 includes
 portions
 of Doc.
@@ -2109,7 +1855,6 @@ with their justification therefor, and state quite frankly that
 it was impossible to come to an agreement, thus leaving the
 entire matter for general agreement in 1931.
 66 [Pg.
-66
 includes
 portions
 of Doc.
@@ -2127,7 +1872,6 @@ intention to consult Canadian and Irish Legations as to any
 demands for excessive tonnage increases; inquiry regarding
 possible discussions with the Japanese Ambassador.
 69 [Pg.
-69
 includes
 portions
 of Doc.
@@ -2145,7 +1889,6 @@ opinion that neither inquiries to Canadian and Irish
 Legations nor discussion with Japanese Ambassador would
 be advantageous.
 69 [Pg.
-69
 includes
 portions
 of Doc.
@@ -2162,7 +1905,6 @@ instructions to discuss with Baldwin or Chamberlain, if
 thought advisable, the excessive cruiser tonnage proposed
 by the British.
 70 [Pg.
-70
 includes
 portions
 of Doc.
@@ -2176,7 +1918,6 @@ July 5
 From the Chairman of the American Delegation (tel.)
 American delegation’s suggestion for eventually reconciling
 70 [Pg.
-70
 includes
 portions
 
@@ -2197,7 +1938,6 @@ British revise their figures downward, and that the
 American delegation has promised hearty cooperation in
 this demand.
 72 [Pg.
-72
 includes
 portions
 of Doc.
@@ -2213,7 +1953,6 @@ respective delegation with regard to the general problems of
 the Conference and also to the specific question of British
 cruiser tonnage demands.
 72 [Pg.
-72
 includes
 portions
 of Doc.
@@ -2226,7 +1965,6 @@ From the Chairman of the American Delegation (tel.)
 Résumé of interview with British on cruiser question, which
 ended without a solution having been reached.
 74 [Pg.
-74
 includes
 portions
 of Doc.
@@ -2263,7 +2001,6 @@ From the Ambassador in Great Britain (tel.)
 Opinion that pressure on Baldwin or Chamberlain will
 probably be unproductive of results; willingness, however,
 78 [Pg.
-78
 includes
 portions
 
@@ -2280,7 +2017,6 @@ To the Ambassador in Great Britain (tel.)
 Desire that Ambassador discuss situation with British on
 basis of his suggestions.
 79 [Pg.
-79
 includes
 portions
 of Doc.
@@ -2295,7 +2031,6 @@ executive committee and to express determination to
 abandon Conference if agreement for lower tonnage figures
 is not reached.
 80 [Pg.
-80
 includes
 portions
 of Doc.
@@ -2312,7 +2047,6 @@ given and plans may be made for a public statement of the
 case of each power, in order that public may have
 information on which to base study of the issues involved.
 80 [Pg.
-80
 includes
 portions
 of Doc.
@@ -2328,7 +2062,6 @@ be of value if agreement seems impossible; additional
 considerations to be included in American delegation’s
 statement to the public meeting if Conference breaks up.
 82 [Pg.
-82
 includes
 portions
 of Doc.
@@ -2360,7 +2093,6 @@ conversation with American Ambassador, July 8, and
 stating likelihood that British may ask for short
 adjournment at Geneva in order to study the points raised in
 that conversation.
-85
 includes
 portions
 of Doc.
@@ -2372,7 +2104,6 @@ From the British Embassy
 Explanation of attitude of British Government at Geneva, in
 order to dispel apparent misunderstanding of its policy.
 86 [Pg.
-86
 includes
 portions
 of Doc.
@@ -2388,7 +2119,6 @@ of American position is needed, regardless of where blame
 falls, and approving suggestions in Secretary’s telegram No.
 30, July 8, to the chairman.
 89 [Pg.
-89
 includes
 portions
 of Doc.
@@ -2403,7 +2133,6 @@ held at instance of British, in which it appeared that a
 possible way out of the cruiser impasse might be reached;
 chairman’s opinion that a solution may yet be found.
 89 [Pg.
-89
 includes
 portions
 of Doc.
@@ -2418,7 +2147,6 @@ July 11, as a mark of respect to death of Irish Foreign
 Minister, who recently participated in the Conference’s
 work.
 91 [Pg.
-91
 includes
 portions
 of Doc.
@@ -2447,7 +2175,6 @@ assistance to Japanese in bringing about an agreement
 which will not call for material increases in naval
 armaments be conveyed to Washington.
 94 [Pg.
-94
 includes
 portions
 of Doc.
@@ -2462,7 +2189,6 @@ common ground for agreement between Japanese and
 British on tonnage levels, and should emphasize U. S.
 preference for Japanese levels.
 94 [Pg.
-94
 includes
 portions
 of Doc.
@@ -2477,7 +2203,6 @@ pure conjecture; information that American delegates have
 been scrupulous in not revealing confidential information to
 the press.
 96 [Pg.
-96
 includes
 portions
 of Doc.
@@ -2494,7 +2219,6 @@ Inquiry as to truth of press reports from English sources
 manufacturing concerns are in Geneva or are interfering
 with deliberations by propagandizing American experts.
 96 [Pg.
-96
 includes
 portions
 of Doc.
@@ -2515,7 +2239,6 @@ along this line; his willingness to meet the Secretary in
 Geneva if necessary, and if Secretary so requests.
 (Repeated to Geneva.)
 97 [Pg.
-97
 includes
 portions
 of Doc.
@@ -2532,7 +2255,6 @@ other navies to accept same type of cruisers as themselves,
 regardless of individual requirements; reiteration by British
 of unacceptability of tonnage figures of Japanese.
 98 [Pg.
-98
 includes
 portions
 of Doc.
@@ -2548,9 +2270,7 @@ plan (text printed) providing for tonnage limitation of
 in the amount of 20 percent of this figure, and a limitation
 limited to 6,000 tons, mounted with no larger than 6-inch
 guns.
-100
 [Pg.
-100
 includes
 portions
 of Doc.
@@ -2570,9 +2290,7 @@ provided they do not exceed the total tonnage limitation;
 opinion that a short adjournment of Conference might serve
 a useful purpose.
 (Repeated to Geneva.)
-101
 [Pg.
-101
 includes
 portions
 of Doc.
@@ -2591,9 +2309,7 @@ suggestions chairman plans to make concerning Secretary’s
 telegram and possible adjournment.
 (Footnote: Information that the Ambassador in Great
 Britain was informed of the contents of this telegram by
-102
 [Pg.
-102
 includes
 portions
 of Doc.
@@ -2613,9 +2329,7 @@ American delegation, and that probably Secretary’s
 influence would continue to be most effective if he
 remained in Washington.
 (Copy to London.)
-103
 [Pg.
-103
 includes
 portions
 of Doc.
@@ -2631,9 +2345,7 @@ which would result in approximate figure for Great Britain
 of 484,000 tons, for the United States of 454,000 tons, and
 for Japan of 310,000 tons.
 (Copy to London.)
-104
 [Pg.
-104
 includes
 portions
 of Doc.
@@ -2646,9 +2358,7 @@ From the Chairman of the American Delegation (tel.)
 Doubt that any truth exists in press reports of activities of
 steel and other interests at Geneva, and opinion that such
 assertions are British-inspired.
-106
 [Pg.
-106
 includes
 portions
 of Doc.
@@ -2663,9 +2373,7 @@ Instructions, in view of possible misunderstanding of term
 interpretation; information that as delegation believes
 progress is being made, no immediate necessity for
 adjournment exists.
-106
 [Pg.
-106
 includes
 portions
 of Doc.
@@ -2680,9 +2388,7 @@ Chamberlain’s suggestion to meet in Geneva, but that
 suggestion may be merely part of British effort to postpone
 decision; information that as a result of Japanese refusal to
 discuss a figure exceeding 315,000 tons for their combined
-107
 [Pg.
-107
 includes
 portions
 of Doc.
@@ -2701,9 +2407,7 @@ British Ambassador’s explanation that Chamberlain meant
 by “class” of ships, the different sizes of cruisers rather than
 the categories of naval craft.
 (Sent also to Geneva.)
-108
 [Pg.
-108
 includes
 portions
 of Doc.
@@ -2723,9 +2427,7 @@ him to go to Geneva, and advising that the only real
 question is whether the British can reduce their figures on
 total cruiser tonnage to meet views of the American and
 Japanese delegations.
-108
 [Pg.
-108
 includes
 portions
 of Doc.
@@ -2740,9 +2442,7 @@ July 16
 From the Chairman of the American Delegation (tel.)
 Request for comments on chairman’s statement to second
 plenary session, July 14.
-109
 [Pg.
-109
 includes
 portions
 of Doc.
@@ -2758,9 +2458,7 @@ From the Chairman of the American Delegation (tel.)
 Japanese memorandum (text printed) summarizing the
 specific propositions set forth by each power in British-
 Japanese informal conversations.
-109
 [Pg.
-109
 includes
 portions
 of Doc.
@@ -2780,7 +2478,6 @@ necessary, the specific facts to justify American conclusions
 be stated; instructions as to the nature of statement to be
 made with regard to American position should Conference
 break up.
-111
 [Pg. 111
 includes
 portions
@@ -2794,7 +2491,6 @@ From the Chairman of the American Delegation (tel.)
 Request for instructions as to certain points of Japanese
 memorandum: (1) Advance in ratio for Japan from 3 to
 smaller-type cruiser.
-113
 [Pg. 113
 includes
 portions
@@ -2810,7 +2506,6 @@ Ambassador the two conflicting issues which now prevent
 agreement: (1) British insistence on small-type cruisers and
 restriction of 8-inch gun, and (2) American insistence on
 liberty of armament.
-114
 [Pg. 114
 includes
 portions
@@ -2824,7 +2519,6 @@ From the Ambassador in Great Britain (tel.)
 Chamberlain’s concurrence in the Secretary’s opinion that
 nothing would be accomplished by a meeting at Geneva
 between them.
-116
 [Pg. 116
 includes
 portions
@@ -2841,7 +2535,6 @@ States must retain right to construct within such limits the
 number and type of cruisers up to 10,000 tons, with such
 armament up to 8-inch guns as may be necessary.
 Instructions to cable further data on suggestion in Japanese
-116
 [Pg. 116
 includes
 portions
@@ -2864,7 +2557,6 @@ might contain a political clause providing for reexamination
 of the cruiser question in case either of the other powers
 should become apprehensive in the future as to the quantity
 of U. S. construction of 8-inch-gun vessels.
-117
 [Pg. 117
 includes
 portions
@@ -2881,7 +2573,6 @@ as to tonnage level and liberty of armament within that
 figure be presented to the British Government either
 through its Embassy in Washington or through the
 American Ambassador in London.
-119
 [Pg. 119
 includes
 portions
@@ -2899,9 +2590,7 @@ but that he will do everything possible to assist in bringing
 about an agreement. Fear that emphasis on 8-inch guns will
 lead British to assume U. S. willingness to build cruisers
 below 10,000 tons armed with 8-inch guns.
-120
 [Pg.
-120
 includes
 portions
 of Doc.
@@ -2915,9 +2604,7 @@ Belief that it would be advisable not to insist on retaining
 the power to allocate all tonnage to 10,000-ton cruisers, but
 to indicate willingness to consider possibility of a smaller-
 size cruiser to be armed with 8-inch guns.
-121
 [Pg.
-121
 includes
 portions
 of Doc.
@@ -2928,9 +2615,7 @@ July 21
 (59)
 To the Chairman of the American Delegation (tel.)
 Advice that it was not intention to direct delegation to insist
-122
 [Pg.
-122
 
 on the construction of the entire tonnage in 10,000-ton
 vessels, and instructions to adhere to right to arm all new
@@ -2952,9 +2637,7 @@ Secretary emphasized that the American delegation had
 made extensive concessions, but that the British must agree
 to a total tonnage limitation and mounting of 8-inch guns if
 any treaty is to be made.
-122
 [Pg.
-122
 includes
 portions
 of Doc.
@@ -2972,9 +2655,7 @@ tonnage figure down to 450,000 tons, that they have not
 approved British 6-inch gun proposal, and that they
 recognize the difficulties presented by the obsolete cruiser
 tonnage clause.
-123
 [Pg.
-123
 includes
 portions
 of Doc.
@@ -2985,9 +2666,7 @@ July 22 To President Coolidge
 Doubt that Geneva Conference will have any practical
 results, in view of grave difficulties encountered with
 regard to the British demands.
-124
 [Pg.
-124
 includes
 portions
 of Doc.
@@ -3002,9 +2681,7 @@ ships as contained in Japanese memorandum;
 unacceptability to American delegation of proposal as it
 now stands, but possibility that modifications might be
 worked out which would make it a basis for discussion.
-127
 [Pg.
-127
 includes
 portions
 of Doc.
@@ -3021,7 +2698,6 @@ compromise which would satisfy both U. S. demand for
 maintenance of the Washington treaty ratio and Japanese
 need to meet domestic political objections regarding its
 minority ratio.
-130
 [Pg.
 130 is
 part of
@@ -3033,9 +2709,7 @@ From the Chairman of the American Delegation (tel.)
 Request for opinion on two drafts of a political clause
 providing for reexamination of cruiser question (texts
 printed).
-131
 [Pg.
-131
 includes
 portions
 of Doc.
@@ -3047,9 +2721,7 @@ July 25
 To the Chairman of the American Delegation (tel.)
 Preference for the more specific form of political clause,
 should necessity for it arise.
-132
 [Pg.
-132
 includes
 portions
 of Doc.
@@ -3064,9 +2736,7 @@ treaty ratio the naval advisers would recommend, since
 political question involved is how much variation from the
 Washington treaty can be allowed without endangering
 treaty itself.
-133
 [Pg.
-133
 includes
 portions
 of Doc.
@@ -3082,9 +2752,7 @@ delegation for maintenance of U. S. position at Geneva;
 belief that the United States should not deviate from its
 position, especially with regard to 10,000-ton cruisers and
 8-inch guns, and assertion that if the other powers cannot
-133
 [Pg.
-133
 includes
 portions
 of Doc.
@@ -3105,9 +2773,7 @@ blame possible break-down of Conference on alleged U. S.
 ambitions for a big navy, that Great Britain is the only
 power seeking a large naval program and that it has refused
 to accept the proposed tonnage limitation figures.
-134
 [Pg.
-134
 includes
 portions
 of Doc.
@@ -3124,9 +2790,7 @@ and agreement only on submarines and destroyers, (3)
 nonrestriction of small cruisers and restriction of 10,000-ton
 cruisers, and (4) negotiation of an arrangement based on
 building program up to 1931.
-135
 [Pg.
-135
 includes
 portions
 of Doc.
@@ -3139,9 +2803,7 @@ To the Chairman of the American Delegation (tel.)
 Approval of chairman’s attitude toward the suggestions
 outlined in telegram No. 116, July 26; request for further
 information on the fourth proposition.
-135
 [Pg.
-135
 includes
 portions
 of Doc.
@@ -3157,9 +2819,7 @@ temporary arrangement concerning cruiser building, it could
 not permit such an arrangement to be considered so
 immutable as to constitute a precedent.
 (Repeated to Geneva.)
-136
 [Pg.
-136
 includes
 portions
 of Doc.
@@ -3174,9 +2834,7 @@ July 28
 From the Chairman of the American Delegation (tel.)
 Prediction that break-down of Conference cannot be
 avoided, in view of information that British have not made
-136
 [Pg.
-136
 includes
 
 any substantial change in their demand for small cruisers
@@ -3198,9 +2856,7 @@ objectionable proposal for 6,000-ton 6-inch-gun cruisers;
 unacceptability to British of suggested political clause;
 fixing of date for plenary session, at which each
 Government may state its position.
-137
 [Pg.
-137
 includes
 portions
 of Doc.
@@ -3213,9 +2869,7 @@ that to avoid disastrous consequences of break-up of
 Conference, it might be well to abandon the scheduled
 plenary session and adjourn for a few months to permit time
 for reflection.
-138
 [Pg.
-138
 includes
 portions
 of Doc.
@@ -3232,9 +2886,7 @@ building of a much larger navy than is thought necessary,
 but expressing opinion that such proposals may be modified
 in current discussions to an extent enabling the United
 States to agree.
-139
 [Pg.
-139
 includes
 portions
 of Doc.
@@ -3249,9 +2901,7 @@ suggesting to Japanese that they propose adjournment to
 American and British delegations, in order to avoid the
 unfavorable implications of a weakening in U. S. attitude if
 its delegation takes initiative in proposing adjournment.
-140
 [Pg.
-140
 includes
 portions
 of Doc.
@@ -3259,7 +2909,6 @@ of Doc.
 Doc.
 136]
 July 30 To the Chairman of the American Delegation (tel.)
-141
 [Pg.
 
 (76)
@@ -3271,7 +2920,6 @@ President. Instructions to advise should either Great Britain
 or Japan propose an adjournment.
 (Footnote: Information that a telegram was received from
 Secretary to use his own discretion as to instructions.)
-141
 includes
 portions
 of Doc.
@@ -3285,9 +2933,7 @@ Advice that any suggestion for a naval holiday during a
 provisional period, as reported in a London press despatch,
 should be given careful consideration before abandoning
 Conference.
-141
 [Pg.
-141
 includes
 portions
 of Doc.
@@ -3301,9 +2947,7 @@ Résumé of interviews with British delegates which
 demonstrate the irreconcilability of American and British
 views. Information that the final American statement is
 being prepared for presentation at the plenary session.
-142
 [Pg.
-142
 includes
 portions
 of Doc.
@@ -3318,9 +2962,7 @@ Baldwin may consult the U.S. Secretary of State in
 Washington as to plans to prevent collapse of Conference,
 Secretary may think it best that plenary session be
 postponed until after the interview.
-145
 [Pg.
-145
 includes
 portions
 of Doc.
@@ -3336,9 +2978,7 @@ To the Chairman of the American Delegation (tel.)
 Information that Secretary has not received any official
 indication of Baldwin’s desire to confer on subject of
 Conference. British Ambassador’s comment that naval
-145
 [Pg.
-145
 includes
 portions
 of Doc.
@@ -3365,9 +3005,7 @@ recommending that the whole question be considered in
 1931 or (2) that each delegation address to plenary session
 inoffensive speeches approved in advance by the other
 delegations. The chairman’s preference for first proposal.
-146
 [Pg.
-146
 includes
 portions
 of Doc.
@@ -3382,9 +3020,7 @@ comments and Secretary’s reply, to effect that the plan does
 not appear very satisfactory but that it would be better for
 Great Britain to turn down the proposal than for the United
 States to do so (texts printed).
-148
 [Pg.
-148
 includes
 portions
 of Doc.
@@ -3400,9 +3036,7 @@ possible and that, therefore, adjournment is being agreed
 upon in an effort to give a chance for direct negotiations
 between interested Governments; and of Secretary’s
 approval of latter course of action (texts printed).
-150
 [Pg.
-150
 includes
 portions
 of Doc.
@@ -3414,9 +3048,7 @@ Aug. 3
 To the Chairman of the American Delegation (tel.)
 Assurance by Senator Robinson, Democratic leader, that he
 will support U. S. course at Geneva.
-152
 [Pg.
-152
 includes
 
 portions
@@ -3440,9 +3072,7 @@ three delegations recognize the deadlock which makes it
 wise to adjourn with a frank statement of divergent views
 and also state their intention to submit the matter to the
 respective Governments for further study.
-152
 [Pg.
-152
 includes
 portions
 of Doc.
@@ -3456,9 +3086,7 @@ Aug. 4 To President Coolidge (tel.)
 Joint declaration read at final session (text printed), with
 recommendation that 1931 Conference provided under
 Washington treaty be held earlier than August of that year.
-153
 [Pg.
-153
 includes
 portions
 of Doc.
@@ -3470,9 +3098,7 @@ Statement to press (text printed) with regard to the final
 session, expressing belief that the discussions will not have
 been fruitless and that failure to reach agreement will not
 impair the cordial U. S.-British relations.
-155
 [Pg.
-155
 includes
 portions
 of Doc.
@@ -3482,9 +3108,7 @@ Doc.
 Aug. 5 Memorandum by the Secretary of State
 Conversation with the Japanese Ambassador concerning
 proceedings and termination of Conference.
-156
 [Pg.
-156
 includes
 portions
 of Doc.
@@ -3493,16 +3117,13 @@ of Doc.
 Doc.
 149]
 Aug.
-10
 To President Coolidge
 Regret at failure of Conference; opinion that the United
 States could not have prevented such an outcome in view of
 British attitude. Belief that apparent British desire for naval
 supremacy may influence Congress to extend the U. S.
 building program.
-157
 [Pg.
-157
 includes
 portions
 of Doc.
@@ -3516,7 +3137,6 @@ and
 number
 Subject
 Page
-1926
 Dec. 9
 (190)
 From the Secretary of the American Representation on the
@@ -3527,9 +3147,7 @@ and Air), as set forth in report of subcommission A, for
 possible use in preparation of written communication to
 League Secretariat concerning report of subcommission B
 (Joint Commission).
-159
 [Pg.
-159
 includes
 portions
 of Doc.
@@ -3549,16 +3167,13 @@ included in sub-commission A’s report, with respect to
 which questions U. S. Government wishes to make clear
 that it does not accept the conclusions of the Joint
 Commission’s report.
-162
 [Pg.
-162
 includes
 portions
 of Doc.
 151 and
 Doc.
 152]
-1927
 To the Chairman of the Committee on Foreign Affairs of the 163
 
 Jan. 11 House of Representatives
@@ -3582,9 +3197,7 @@ the Joint Commission.
 (Footnote: Information that the memorandum was
 circulated by the Secretary General to Preparatory
 Commission and League members on March 10.)
-166
 [Pg.
-166
 includes
 portions
 of Doc.
@@ -3600,9 +3213,7 @@ plan for the high contracting parties to bring their proposals
 on strength in land, sea, and air forces before the final
 Conference, such proposals to be considered separately by
 appropriate subcommittees.
-175
 [Pg.
-175
 includes
 portions
 of Doc.
@@ -3610,14 +3221,12 @@ of Doc.
 Doc.
 155]
 Mar.
-21
 (186)
 From the Chief of the American Representation on the
 Preparatory Commission (tel.)
 Presentation by British delegate of draft convention, and
 expression by French delegate of intention to submit
 alternative draft embodying French views.
-176
 [Pg.
 176 is
 part of
@@ -3633,9 +3242,7 @@ that the United States cannot participate in any such
 blockade; inability of United States to become a party to an
 agreement involving any form of international supervision
 or control of armaments.
-177
 [Pg.
-177
 includes
 portions
 of Doc.
@@ -3644,9 +3251,7 @@ Doc.
 158]
 Mar.
 From the Chief of the American Representation on the
-177
 
-23
 (191)
 Preparatory Commission (tel.)
 Outline of two possible courses which will be open to
@@ -3659,7 +3264,6 @@ accept, leaving to the other delegations the responsibility
 for adopting draft which would make U. S. participation
 either possible or impossible; request for instructions.
 [Pg.
-177
 includes
 portions
 of Doc.
@@ -3667,7 +3271,6 @@ of Doc.
 Doc.
 158]
 Mar.
-23
 (194)
 From the Chief of the American Representation on the
 Preparatory Commission (tel.)
@@ -3678,9 +3281,7 @@ United States to adhere to the first part containing the
 absolute limitation and reduction of armaments, and the
 League members to adhere, in addition, to the second part
 concerning enforcement by League agencies.
-179
 [Pg.
-179
 includes
 portions
 of Doc.
@@ -3688,7 +3289,6 @@ of Doc.
 Doc.
 160]
 Mar.
-24
 (195)
 From the Chief of the American Representation on the
 Preparatory Commission (tel.)
@@ -3696,9 +3296,7 @@ Proposed statement to Commission (text printed), offering
 the idea of a double convention, in case Department
 approves the second course outlined in telegram No. 191,
 March 23.
-179
 [Pg.
-179
 includes
 portions
 of Doc.
@@ -3706,16 +3304,13 @@ of Doc.
 Doc.
 160]
 Mar.
-24
 (196)
 From the Chief of the American Representation on the
 Preparatory Commission (tel.)
 Request for early decision as to double convention idea, in
 view of desire of colleagues to broach this idea which they
 worked out independently.
-183
 [Pg.
-183
 includes
 portions
 of Doc.
@@ -3726,9 +3321,7 @@ Mar.
 To the Chief of the American Representation on the
 Preparatory Commission (tel.)
 Preliminary comment on proposed statement, to the effect
-184
 [Pg.
-184
 includes
 portions
 
@@ -3739,7 +3332,6 @@ of Doc.
 Doc.
 163]
 Mar.
-26
 (199)
 From the Chief of the American Representation on the
 Preparatory Commission (tel.)
@@ -3747,9 +3339,7 @@ Opinion that no other course than the one outlined in
 proposed statement will prevent the United States from
 incurring the odium of blocking the Conference; request for
 instructions.
-184
 [Pg.
-184
 includes
 portions
 of Doc.
@@ -3764,9 +3354,7 @@ that any statement made should conform to U. S. position of
 nonaccord with proposals for any form of supervision or
 control of armaments by any international body, whether
 League of Nations or any other organization.
-186
 [Pg.
-186
 includes
 portions
 of Doc.
@@ -3774,21 +3362,18 @@ of Doc.
 Doc.
 164]
 Mar.
-27
 (201)
 From the Chief of the American Representation on the
 Preparatory Commission (tel.)
 Request for authority to revise statement so as to meet
 objections outlined in Department’s telegram No. 99, March
 26, and to present it promptly to Commission.
-188
 [Pg.
 188 is
 part of
 Doc.
 165]
 Mar.
-29
 (101)
 To the Chief of the American Representation on the
 Preparatory Commission (tel.)
@@ -3802,9 +3387,7 @@ powers can find a way to provide such supervision and
 control for themselves, eliminating it for the United States,
 the American delegation will cooperate in trying to find a
 solution.
-189
 [Pg.
-189
 includes
 portions
 of Doc.
@@ -3815,9 +3398,7 @@ Apr. 4
 (214)
 From the Chief of the American Representation on the
 Preparatory Commission (tel.)
-190
 [Pg.
-190
 
 Recommendation that when first of the enforcement
 questions arises, American delegation make a general
@@ -3839,9 +3420,7 @@ To the Chief of the American Representation on the
 Preparatory Commission (tel.)
 Approval of plan and statement proposed in telegram No.
 214, April 4.
-194
 [Pg.
-194
 includes
 portions
 of Doc.
@@ -3856,9 +3435,7 @@ Information that Commission took up question of limitation
 of naval effectives, and that French and Italian delegations
 intend to submit their proposals as to publicity respecting
 naval building programs.
-194
 [Pg.
-194
 includes
 portions
 of Doc.
@@ -3873,9 +3450,7 @@ British preparedness to yield, under certain conditions, to
 French thesis of limitation of naval effectives; American
 delegation’s opinion that limitation by method of limiting
 effectives may not be wholly inadmissible.
-195
 [Pg.
-195
 includes
 portions
 of Doc.
@@ -3888,9 +3463,7 @@ To the Chief of the American Representation on the
 Preparatory Commission (tel.)
 Unacceptability to Navy Department of principle of
 limitation of naval effectives.
-196
 [Pg.
-196
 includes
 portions
 of Doc.
@@ -3909,9 +3482,7 @@ Request for instructions as to possibility of making
 concessions on naval effectives thesis, providing acceptable
 agreement can be reached with respect to limitation of
 tonnage.
-196
 [Pg.
-196
 includes
 portions
 of Doc.
@@ -3932,9 +3503,7 @@ Commission, and suggested that while he preferred no
 change in attitude of opposition toward total tonnage or
 effectives limitation theories, modifications in details might
 be advisable if the three powers act identically.
-196
 [Pg.
-196
 includes
 portions
 of Doc.
@@ -3952,9 +3521,7 @@ Instructions to yield with regard to French method of
 limitation of naval effectives if Great Britain and Japan
 consent to such limitation as one of the elements to be
 considered in the limitation of naval armaments.
-197
 [Pg.
-197
 includes
 portions
 of Doc.
@@ -3971,9 +3538,7 @@ instructions by Great Britain to its delegate as to
 unacceptability of French proposal and French opinion that
 discussions of draft convention will be futile until
 agreement is reached on naval matter.
-198
 [Pg.
-198
 includes
 portions
 of Doc.
@@ -3991,9 +3556,7 @@ Instructions to inform Bridgeman unofficially of American
 delegation’s awareness of desirability that three chief naval
 powers maintain united front in the current Geneva
 discussions.
-198
 [Pg.
-198
 includes
 portions
 of Doc.
@@ -4011,9 +3574,7 @@ Opinion that discussion of other phases of draft convention
 would be worth while, even though no agreement has been
 reached on naval matter, but concurrence in adjournment if
 one is desired.
-199
 [Pg.
-199
 includes
 portions
 of Doc.
@@ -4031,9 +3592,7 @@ Reassurance to Commission, after Bridgeman unexpectedly
 brought up subject of forthcoming Three-Power Naval
 Conference, of American delegation’s interest in working
 wholeheartedly for success of the Commission.
-199
 [Pg.
-199
 includes
 portions
 of Doc.
@@ -4049,9 +3608,7 @@ From the Chief of the American Representation on the
 Preparatory Commission (tel.)
 Delivery of statement (text printed) outlined in telegram
 No. 214, April 4.
-200
 [Pg.
-200
 includes
 portions
 of Doc.
@@ -4062,9 +3619,7 @@ Apr. 13
 (16)
 To the Chargé in Argentina (tel.)
 Department’s surprise that the Argentine delegation has
-203
 [Pg.
-203
 
 apparently reversed its earlier decision to support proposal
 for limitation of naval armament by classes of ships, and
@@ -4086,9 +3641,7 @@ Confirmation by Foreign Minister of instructions to
 Argentine delegation to accept French proposal in principle;
 Chargé’s belief that reversal of position is due to
 contemplated Argentine naval program.
-204
 [Pg.
-204
 includes
 portions
 of Doc.
@@ -4100,9 +3653,7 @@ Apr. 26
 From the Chief of the American Representation on the
 Preparatory Commission (tel.)
 Adjournment of Commission.
-204
 [Pg.
-204
 includes
 portions
 of Doc.
@@ -4118,7 +3669,6 @@ occasioned change in Chilean instructions to its delegation,
 but that new instructions to oppose all propositions
 inconsistent with limitation by categories will go forward
 shortly.
-205
 [Pg.
 205 is
 part of
@@ -4134,9 +3684,7 @@ meeting of Preparatory Commission scheduled for
 November would have to be postponed; suggestion to him
 that, until Naval Conference has adjourned, discussion of
 such a contingency would be somewhat premature.
-206
 [Pg.
-206
 includes
 portions
 of Doc.
@@ -4154,9 +3702,7 @@ Conference (tel.)
 Statement that League of Nations, not the United States,
 should take the responsibility for the Commission’s
 discontinuance or postponement.
-206
 [Pg.
-206
 includes
 portions
 of Doc.
@@ -4173,9 +3719,7 @@ Instructions to telegraph suggestions as to attitude of
 American delegation concerning formation of proposed
 Security Committee by League, and possible American
 representation.
-206
 [Pg.
-206
 includes
 portions
 of Doc.
@@ -4200,9 +3744,7 @@ measures required to give all states guarantees of security
 and arbitration necessary to enable them to reduce
 armaments to a minimum in an international disarmament
 agreement.)
-207
 [Pg.
-207
 includes
 portions
 of Doc.
@@ -4219,9 +3761,7 @@ Observation that criticism of aloofness, certain to be caused
 by nonparticipation of the United States in Security
 Committee, might be avoided by accepting invitation, on
 the understanding that American representative cannot join
-207
 [Pg.
-207
 includes
 portions
 of Doc.
@@ -4242,9 +3782,7 @@ Commission should be instructed not to take any part in
 organization of proposed Security Committee and not to
 accept a place on that Committee; instructions to advise
 opinion.
-208
 [Pg.
-208
 includes
 portions
 of Doc.
@@ -4260,9 +3798,7 @@ in subsequent Preparatory Commission meetings, and that
 when strictly League questions are discussed, American
 representative can make his nonparticipation clear by a
 reminder of U. S. nonmembership in the League.
-209
 [Pg.
-209
 includes
 portions
 of Doc.
@@ -4280,9 +3816,7 @@ cooperate in Security Committee’s deliberations; and to
 advise Secretary General of intention to express views on
 proposed Security Committee at the forthcoming session of
 the Preparatory Commission.
-210
 [Pg.
-210
 includes
 portions
 of Doc.
@@ -4295,7 +3829,6 @@ To the Minister in Switzerland (tel.)
 Further reasons for Department’s decision as to
 nonrepresentation of United States on Security Committee.
 (Instructions to mail copy to Belgium.)
-211
 [Pg. 211
 includes
 portions
@@ -4308,9 +3841,7 @@ Dec. 3
 From the Chief of the American Representation on the
 Preparatory Commission (tel.)
 Termination of fourth session of Preparatory Commission;
-213
 [Pg.
-213
 
 information that Security Committee will meet on February
 includes
@@ -4328,9 +3859,7 @@ and
 number
 Subject
 Page
-1926
 Dec.
-17
 From the Secretary General of the League of Nations
 Invitation to the United States to appoint a representative to
 sit on the Special Commission created by the League
@@ -4339,9 +3868,7 @@ consideration and preparation of a final draft convention on
 the private manufacture of arms and ammunition and of
 implements of war, which might serve as a basis for an
 international conference.
-213
 [Pg.
-213
 includes
 portions
 of Doc.
@@ -4351,7 +3878,6 @@ Doc.
 and
 Doc.
 194]
-1927
 Feb. 23
 (21)
 To the Chargé in Switzerland (tel.)
@@ -4361,9 +3887,7 @@ international agreement for the publication of statistics on
 government and private manufacture of arms and
 ammunition, and advising that Mr. Hugh S. Gibson will
 represent the United States.
-215
 [Pg.
-215
 includes
 portions
 of Doc.
@@ -4379,9 +3903,7 @@ proposals to control or supervise private arms manufacture;
 instructions to advise Commission of willingness to
 conclude a convention for the publication of statistics
 concerning private and government arms manufacture;
-216
 [Pg.
-216
 includes
 portions
 of Doc.
@@ -4400,7 +3922,6 @@ convention, categories and statistics of proposed
 convention, and methods of supplying needs for military
 equipment.)
 Mar.
-15
 (177)
 From the Minister in Switzerland (tel.)
 Divided opinions of Commission members as to opposition
@@ -4408,9 +3929,7 @@ or support to U. S. principle of publicity for both private
 and government manufacture; appointment of
 subcommittee to study all views in attempt to reconcile
 them.
-234
 [Pg.
-234
 includes
 portions
 of Doc.
@@ -4427,9 +3946,7 @@ manufacture could not be met, but that U. S. delegate has
 recorded views in memorandum to chairman; belief that
 since other delegations are quite evenly divided, matter will
 be referred to June session of Council.
-235
 [Pg.
-235
 includes
 portions
 of Doc.
@@ -4443,7 +3960,6 @@ and
 number
 Subject
 Page
-1927
 May 12
 (Dip.
 Ser.
@@ -4453,7 +3969,6 @@ Summary of status of treaties concluded at the Washington
 Conference on the Limitation of Armament, as regards
 ratification by signatory powers and adherences by
 nonsignatory powers; also, status of certain resolutions
-236
 [Pg.
 236 is
 part of
@@ -4467,9 +3982,7 @@ and
 number
 Subject
 Page
-1926
 Dec.
-23
 (1055)
 841)
 From the Chargé in Switzerland
@@ -4483,7 +3996,6 @@ Doc. 199,
 Doc. 200,
 and Doc.
 201]
-1927
 Feb. 7
 (11)
 To the Chargé in Switzerland (tel.)
@@ -4529,7 +4041,6 @@ and
 number
 Subject
 Page
-1927
 June 14
 From the Consul at Geneva (tel.)
 Decision of League to invite all countries which
@@ -4537,7 +4048,6 @@ participated in International Economic Conference to
 attend Diplomatic Conference for the Abolition of Import
 and Export Prohibitions and Restrictions at Geneva,
 October 17.
-246
 [Pg. 246
 includes
 portions
@@ -4550,7 +4060,6 @@ July 15
 To the Minister in Switzerland (tel.)
 Inquiry whether an invitation to the Conference has been
 received.
-247
 [Pg. 247
 includes
 portions
@@ -4568,7 +4077,6 @@ by the Legation on April 13; and that the League, in a
 communication of June 27 which was forwarded by the
 Legation on June 28, requested to be advised whether the
 United States would participate.
-247
 [Pg. 247
 includes
 portions
@@ -4586,7 +4094,6 @@ consider circular letter No. 29, April 2, as an invitation to
 any diplomatic conference, because it is a mimeographed,
 unsigned document, in which even the space for the name
 of the invited Government is left blank.
-247
 [Pg. 247
 includes
 portions
@@ -4600,7 +4107,6 @@ Aug. 4
 From the Minister in Switzerland
 Transmittal of signed duplicate of League circular letter
 No. 29 of April 2, inviting the United States to participate
-248
 [Pg. 248
 includes
 portions
@@ -4621,7 +4127,6 @@ Communication for Secretary General of League (text
 printed), advising that United States accepts invitation and
 has designated Mr. Hugh Wilson, American Minister in
 Switzerland, as delegate.
-254
 [Pg. 254
 includes
 portions
@@ -4639,7 +4144,6 @@ comprising the preliminary draft agreement; information
 that conclusion of a suitable agreement is desired because
 of consequent advantages to both American and
 international commerce.
-254
 [Pg. 254
 includes
 portions
@@ -4652,7 +4156,6 @@ Oct. 17
 To the Chief of the American Delegation (tel.)
 Further detailed instructions, in the event that proposal is
 made to expand scope of draft agreement.
-264
 [Pg. 264
 includes
 portions
@@ -4664,7 +4167,6 @@ Oct. 17
 From the Chief of the American Delegation (tel.)
 Information that the first two sessions of Conference were
 devoted to general statements.
-266
 [Pg. 266
 includes
 portions
@@ -4679,7 +4181,6 @@ Report of proceedings of third and fourth sessions; request
 for instructions as to Rumanian desire for inclusion in
 article 1 of a proposed statement (text printed) reserving to
 each state the right to establish customs duties according to
-267
 [Pg. 267
 is part of
 Doc.
@@ -4696,7 +4197,6 @@ Report of proceedings of fifth session, in which American
 delegate offered amendment to article 6 and introduced
 redraft of article 3; vigorous debate on inclusion of
 subparagraph (e) in American redraft of article 3.
-268
 [Pg. 268
 includes
 portions
@@ -4710,7 +4210,6 @@ To the Chief of the American Delegation (tel.)
 Indication that Rumanian text reported in telegram No. 4,
 October 18, is unsatisfactory because it conflicts with
 Department’s draft article regarding export duties.
-269
 [Pg. 269
 includes
 portions
@@ -4726,7 +4225,6 @@ compromise text of article 3 offered by French for
 inclusion in final act of Conference, as a substitute for
 American delegate’s amendment reported in telegram No.
 5, October 19.
-270
 [Pg. 270
 includes
 portions
@@ -4740,7 +4238,6 @@ To the Chief of the American Delegation (tel.)
 Opinion that question raised by Dutch as to level of import
 tariffs is outside the agenda; approval of action in regard to
 article 6.
-271
 [Pg. 271
 includes
 portions
@@ -4754,7 +4251,6 @@ To the Chief of the American Delegation (tel.)
 Desire that article 3 be accepted in form proposed by
 Department, and opinion that while not objectionable,
 French draft is not as good as American.
-272
 [Pg. 272
 is part of
 Doc.
@@ -4764,7 +4260,6 @@ Oct. 20
 From the Chief of the American Delegation (tel.)
 Declaration by president of Conference at sixth session
 that discussion of details must be avoided and efforts
-273
 [Pg. 273
 includes
 portions
@@ -4786,7 +4281,6 @@ Extemporaneous statement to sixth session, setting forth
 that, in its desire to have the maximum number of states
 adhere, the Conference may sanction international
 practices which it is convened to abolish.
-274
 [Pg. 274
 includes
 portions
@@ -4801,7 +4295,6 @@ Authorization to concur in French suggestion reported in
 telegram No. 11, October 20, if delegate thinks advisable;
 approval of statement reported in telegram No. 12, October
 20.
-275
 [Pg. 275
 includes
 portions
@@ -4816,7 +4309,6 @@ From the Chief of the American Delegation (tel.)
 Belief that satisfactory compromise (text printed) has been
 reached on French text mentioned in telegram No. 8,
 October 19.
-275
 [Pg. 275
 includes
 portions
@@ -4831,7 +4323,6 @@ From the Chief of the American Delegation (tel.)
 Recommendation that Egyptian draft of article 11 be
 supported as being as satisfactory to the United States as
 can be secured; request for instructions.
-276
 [Pg. 276
 includes
 portions
@@ -4843,7 +4334,6 @@ Oct. 21
 (15)
 From the Chief of the American Delegation (tel.)
 Committee draft of article 1 (text printed).
-277
 [Pg. 277
 includes
 portions
@@ -4862,7 +4352,6 @@ general disclaimer stating that it is not the purpose of the
 convention to interfere in tariff measures might sufficiently
 safeguard U. S. rights under section 317 of the Tariff Act;
 request for instructions.
-278
 [Pg. 278
 includes
 portions
@@ -4877,7 +4366,6 @@ Acceptability of compromise regarding article 3, as
 outlined in telegram No. 13, October 21; instructions to
 support Egyptian proposal set forth in telegram No. 14,
 October 21.
-279
 [Pg. 279
 includes
 portions
@@ -4892,7 +4380,6 @@ From the Chief of the American Delegation (tel.)
 Request for instructions as to whether the question of
 “standards” in article 4 may not be covered by a
 modification in phrasing of paragraph 7 of that article.
-279
 [Pg. 279
 includes
 portions
@@ -4909,7 +4396,6 @@ telegram No. 15, October 21; insufficiency of disclaimer
 unless an exception is also included in text of convention;
 instructions to agree tentatively to the substitute for
 “standards” described in telegram No. 17, October 22.
-280
 [Pg. 280
 is part of
 Doc.
@@ -4923,7 +4409,6 @@ vote; acceptance of American exception as regards helium
 gas. Request for instructions as to Department attitude
 toward signing convention at final reading the following
 Saturday.
-281
 [Pg. 281
 includes
 portions
@@ -4939,7 +4424,6 @@ Instructions not to sign on Saturday, for reason that U. S.
 Government has not had sufficient time to give convention
 due consideration and sees no reason for rushing through a
 matter of such importance.
-282
 [Pg. 282
 includes
 portions
@@ -4949,7 +4433,6 @@ of Doc.
 Doc.
 231]
 Nov.
-22
 (190)
 1010)
 From the Minister in Switzerland
@@ -4962,7 +4445,6 @@ United States decides to sign, it do so before February 1,
 helium.
 (Footnote: Information that the convention was signed on
 the part of the United States on January 30, 1928.)
-282
 [Pg. 282
 includes
 portions
@@ -4977,7 +4459,6 @@ and
 number
 Subject
 Page
-1927
 Jan. 13
 (7)
 From the Chargé in Switzerland (tel.)
@@ -5002,7 +4483,6 @@ Doc. 232, Doc.
 233, and Doc.
 234]
 Mar.
-16
 Memorandum by Mr. Wallace McClure, Assistant to
 the Economic Adviser
 includes
@@ -5020,7 +4500,6 @@ Date and
 number
 Subject
 Page
-1927
 Nov. 25
 Convention Between the United States
 of America and Other Powers
@@ -5033,7 +4512,6 @@ Date and
 number
 Subject
 Page
-1927
 Nov. 29
 From the Austrian Minister
 Request that recommendation be made to Congress for
@@ -5044,9 +4522,7 @@ Austrian Government, plus a cash deposit sufficient to
 bring the total up to 2¼ million dollars, is sufficient to
 satisfy awards made against Austria by the Tripartite
 Claims Commission.
-301
 [Pg.
-301
 includes
 portions
 of Doc.
@@ -5063,9 +4539,7 @@ property at the same time as provision is made for the
 return of German property; observation that
 memorandum by American agent, Tripartite Claims
 Commission (text printed), shows an estimate of the
-303
 [Pg.
-303
 includes
 portions
 of Doc.
@@ -5081,7 +4555,6 @@ Date and
 number
 Subject
 Page
-1927
 Oct. 19
 Additional Protocol Between the United States of
 America and Other American Republics
@@ -5096,7 +4569,6 @@ and
 number
 Subject
 Page
-1927
 Dec. 28
 (Dip.
 Ser.
@@ -5117,14 +4589,12 @@ and
 number
 Subject
 Page
-1927
 Feb. 9
 (245)
 From the Minister in Paraguay
 Acceptance by Bolivia of good offices offered by
 Argentina to aid in settling the Bolivian-Paraguayan
 boundary dispute; Minister’s opinion that if Argentine
-315
 [Pg. 315
 includes
 portions
@@ -5135,13 +4605,11 @@ ask United States to solve the difficulty.
 239 and
 Doc. 240]
 Mar.
-17
 (362)
 To the Minister in Paraguay
 Approval of Minister’s attitude in avoiding indication or
 comment as to possibility of U. S. willingness to enter into
 negotiations looking to settlement of the controversy.
-316
 [Pg. 316
 includes
 portions
@@ -5161,7 +4629,6 @@ may be submitted if the plenipotentiaries fail to reach
 agreement on boundary line.
 (Footnote: Information that the protocol was approved by
 the Bolivian and Paraguayan Governments on June 29.)
-316
 [Pg. 316
 includes
 portions
@@ -5179,7 +4646,6 @@ discussions is unlikely because of unyielding attitude on
 both sides; information that Argentine Government would
 probably decline to accept membership in arbitral tribunal
 provided in the protocol.
-318
 [Pg. 318
 includes
 portions
@@ -5194,7 +4660,6 @@ to have reached an impasse, and that plenary sessions have
 been suspended while a special committee studies various
 problems including possible establishment of an arbitral
 tribunal.
-319
 [Pg. 319
 includes
 portions
@@ -5202,13 +4667,11 @@ of Doc.
 243 and
 Doc. 244]
 Dec.
-19
 (109)
 From the Ambassador in Argentina (tel.)
 Argentine suggestion to Bolivia and Paraguay that they
 agree to submit the boundary matter to arbitration, that
 they substitute police for military in disputed territory and
-321
 [Pg. 321
 includes
 portions
@@ -5222,14 +4685,12 @@ suggestion in principle.
 244 and
 Doc. 245]
 Dec.
-28
 (114)
 From the Ambassador in Argentina
 Resolution of Bolivian-Paraguayan conference to suspend
 proceedings until March 15, 1928 (text printed);
 information that in the interim both Governments will
 consider the Argentine suggestions.
-322
 [Pg. 322
 includes
 portions
@@ -5243,7 +4704,6 @@ and
 number
 Subject
 Page
-1927
 July 28
 (181)
 From the Minister in Nicaragua (tel.)
@@ -5255,7 +4715,6 @@ instruct Foreign Minister to commence preliminary
 negotiations with the Colombian Minister tending toward
 the settlement proposed by Colombia as set forth in
 322 [Pg.
-322
 includes
 portions
 of Doc.
@@ -5269,7 +4728,6 @@ the Colombian-Nicaraguan territorial dispute, as well as
 U. S. claim to ownership of Quita Sueño, Roncador, and
 Serranilla Keys.
 323 [Pg.
-323
 includes
 portions
 of Doc.
@@ -5281,7 +4739,6 @@ Conversation in which the Colombian Minister submitted
 a memorandum outlining three possible formulas for
 settlement of the territorial questions.
 325 [Pg.
-325
 includes
 portions
 of Doc.
@@ -5295,7 +4752,6 @@ From the Colombian Legation
 Outline of three possible formulas for settlement of the
 territorial questions.
 328 [Pg.
-328
 includes
 portions
 of Doc.
@@ -5310,7 +4766,6 @@ advisable a settlement such as outlined in instruction No.
 representations and points might be brought up in
 negotiations.
 329 [Pg.
-329
 includes
 portions
 of Doc.
@@ -5324,7 +4779,6 @@ Inquiry whether Department is now ready to make any
 suggestion to Nicaraguan Government concerning the
 San Andrés Archipelago question.
 329 [Pg.
-329
 includes
 portions
 of Doc.
@@ -5338,7 +4792,6 @@ Information that Department is giving serious
 consideration to the question and will forward
 instructions in the near future.
 330 [Pg.
-330
 includes
 portions
 of Doc.
@@ -5353,7 +4806,6 @@ Request by Nicaraguan President that Chargé ascertain
 when the Department will be ready to express an opinion
 on the San Andrés Archipelago question.
 330 [Pg.
-330
 includes
 portions
 of Doc.
@@ -5367,7 +4819,6 @@ To the Chargé in Nicaragua (tel.)
 Information that instructions have been delayed because
 of necessity to await reply from another Department in
 330 [Pg.
-330
 includes
 portions
 of Doc.
@@ -5388,7 +4839,6 @@ Colombia, and the Corn Islands and Mosquito Coast to
 Nicaragua, but that it wishes to do nothing until it hears
 from the Department.
 330 [Pg.
-330
 includes
 portions
 of Doc.
@@ -5403,7 +4853,6 @@ Request by Foreign Minister that Chargé inquire again
 when Department will be ready to express an opinion on
 the San Andrés Archipelago question.
 331 [Pg.
-331
 includes
 portions
 of Doc.
@@ -5417,7 +4866,6 @@ To the Chargé in Nicaragua (tel.)
 Information that Department expects to be able to give an
 answer in the near future.
 331 [Pg.
-331
 includes
 portions
 of Doc.
@@ -5431,9 +4879,7 @@ and
 number
 Subject
 Page
-1926
 Dec.
-30
 (110)
 From the Ambassador in Peru (tel.)
 Foreign Minister’s assurance to Colombian Minister in
@@ -5443,7 +4889,6 @@ information that American Ambassador has repeatedly
 urged upon the Peruvian President and Foreign Minister
 the advisability of prompt ratification.
 331 [Pg.
-331
 includes
 portions of
 Doc. 256,
@@ -5452,7 +4897,6 @@ Doc. 258,
 and Doc.
 259]
 
-1927
 Jan. 6
 (1)
 To the Ambassador in Peru (tel.)
@@ -5462,7 +4906,6 @@ danger that Colombia may sever diplomatic relations with
 Peru if treaty is not ratified, after the repeated promises of
 President Leguía.
 332 [Pg.
-332
 includes
 portions of
 Doc. 259
@@ -5478,7 +4921,6 @@ occasioned by Tacna-Arica question, and that Colombian
 Minister replied that a dangerous condition of public
 opinion would be created in Colombia by such delay.
 333 [Pg.
-333
 includes
 portions of
 Doc. 260
@@ -5500,7 +4942,6 @@ Intention of Chargé, unless otherwise instructed, to fulfill
 request of Colombian Minister in Peru that he urge
 ratification on Foreign Minister.
 335 [Pg.
-335
 includes
 portions of
 Doc. 263
@@ -5514,14 +4955,12 @@ Ambassador interest of U. S. Government in ratification
 of the Colombian treaty; authorization to interview
 Foreign Minister or President, at Chargé’s discretion.
 335 [Pg.
-335
 includes
 portions of
 Doc. 263
 and Doc.
 264]
 Sept.
-14
 (811)
 From the Chargé in Peru
 Advice that Chargé discussed ratification with Foreign
@@ -5537,7 +4976,6 @@ of Doc.
 Government that the United States understands that a
 definite assurance has been given.
 Sept.
-27
 Memorandum by the Assistant Secretary of State
 Conversation, September 26, in which the Ecuadoran
 Chargé expressed concern over press reports that the
@@ -5548,7 +4986,6 @@ Ecuadoran boundary treaty; Assistant Secretary’s reply
 that Ecuadoran-Peruvian boundary difficulty is an entirely
 separate matter.
 338 [Pg.
-338
 includes
 portions of
 Doc. 265
@@ -5565,7 +5002,6 @@ that such an inquiry might be used by those opposing the
 treaty as evidence that U. S. Government is trying to force
 hand of Peruvian Government.
 341 [Pg.
-341
 includes
 portions of
 Doc. 266
@@ -5580,21 +5016,18 @@ present Congress will not be ignored; authorization to
 Chargé to use his own discretion in bringing matter to
 Peruvian Government’s attention.
 342 [Pg.
-342
 includes
 portions of
 Doc. 267
 and Doc.
 268]
 Dec.
-22
 (1360)
 From the Colombian Minister
 Information that the boundary treaty has been approved
 by Peruvian Congress; expression of appreciation for U.
 S. good offices.
 343 [Pg.
-343
 includes
 portions of
 Doc. 268,
@@ -5602,12 +5035,10 @@ Doc. 269,
 and Doc.
 270]
 Dec.
-22
 From the Peruvian Ambassador
 Peruvian Government’s telegram (text printed), notifying
 that boundary treaty has been ratified.
 343 [Pg.
-343
 includes
 portions of
 
@@ -5615,14 +5046,12 @@ Doc. 268,
 Doc. 269,
 and Doc.
 270]
-1928
 Jan. 3
 To the Colombian Minister
 gratification at Peruvian ratification and hope that
 Colombia and Brazil will soon settle the boundary
 question remaining between them.
 344 [Pg.
-344
 includes
 portions of
 Doc. 270,
@@ -5632,7 +5061,6 @@ and Doc.
 Jan. 11 To the Peruvian Ambassador
 Acknowledgment of note of December 22, 1927.
 344 [Pg.
-344
 includes
 portions of
 Doc. 270,
@@ -5651,9 +5079,7 @@ developments in the Dominican-Haitian boundary
 question, which is likely to be discussed during the
 forthcoming visit to Haiti of President Vasquez of the
 Dominican Republic.
-345
 [Pg.
-345
 includes
 portions
 of Doc.
@@ -5669,9 +5095,7 @@ President Vasquez were frank and cordial, and that
 Minister is optimistic as to a prompt solution of the
 boundary question, preferably by means of direct
 negotiations.
-345
 [Pg.
-345
 includes
 portions
 of Doc.
@@ -5682,9 +5106,7 @@ Aug. 10
 (1057, High
 From the Chargé in Haiti
 Information that the two Presidents agreed in principle
-346
 [Pg.
-346
 
 Comsioner’s
 Series)
@@ -5710,9 +5132,7 @@ President Borno and General Russell, American High
 Commissioner in Haiti, as to certain constitutional
 amendments may react unfavorably upon an early
 settlement of the boundary question.
-347
 [Pg.
-347
 includes
 portions
 of Doc.
@@ -5733,9 +5153,7 @@ the two Governments, the question will be submitted
 to a “friendly third power,” which would be construed
 as the United States, or possibly to the League of
 Nations.
-349
 [Pg.
-349
 includes
 portions
 of Doc.
@@ -5749,9 +5167,7 @@ the declaration outlawing war; Foreign Minister’s
 willingness to enter into such a treaty following the
 settlement of the boundary question or to incorporate
 the amity treaty provisions in the final boundary treaty.
-350
 [Pg.
-350
 includes
 portions
 of Doc.
@@ -5760,7 +5176,6 @@ Doc.
 278]
 Oct. 27
 To the Minister in the Dominican Republic
-352
 [Pg.
 
 (187)
@@ -5768,7 +5183,6 @@ Instructions to advise opinion as to possibility that
 Dominican Government might suggest to Haitian
 Government that boundary question be submitted to
 the League of Nations for arbitration.
-352
 includes
 portions
 of Doc.
@@ -5785,9 +5199,7 @@ boundary dispute to League, and that no action will be
 taken on the boundary question itself prior to the
 forthcoming visit of President Borno to the Dominican
 Republic.
-353
 [Pg.
-353
 includes
 portions
 of Doc.
@@ -5801,9 +5213,7 @@ Inauguration of informal Dominican-Haitian
 conversations in Santo Domingo, December 28, which
 it is hoped will prepare the way for formal negotiations
 to settle boundary question.
-354
 [Pg.
-354
 includes
 portions
 of Doc.
@@ -5816,7 +5226,6 @@ and
 number
 Subject
 Page
-1927
 Jan. 12
 Statement Left by the Secretary of State With the
 Senate Committee on Foreign Relations
@@ -5836,9 +5245,7 @@ and
 number
 Subject
 Page
-1927
 Mar.
-15
 To Dr. James Brown Scott
 General instructions with regard to duties as a U. S.
 delegate to the International Commission of Jurists which
@@ -5847,7 +5254,6 @@ of American public and private international law.
 (Footnote: Information that an identical instruction was
 addressed to the other American delegate, Dr. Jesse S.
 Reeves.)
-364
 [Pg.
 364 is
 part of
@@ -5867,9 +5273,7 @@ his own initiative at this time, and that his instructions to
 the delegates requested that they take no position on any
 question which might be construed as committing the U. S.
 Government in any way whatsoever.
-367
 [Pg.
-367
 includes
 portions
 of Doc.
@@ -5888,9 +5292,7 @@ plan in forthcoming plenary session, having already
 arranged with Commission’s President that neither
 discussion nor vote will take place, except possible
 reference to Sixth Pan American Conference.
-368
 [Pg.
-368
 includes
 portions
 of Doc.
@@ -5908,9 +5310,7 @@ implied commitment to a plan which it has had no
 opportunity to examine and would thereby be limited in its
 freedom of action at the forthcoming Pan American
 Conference.
-369
 [Pg.
-369
 includes
 portions
 of Doc.
@@ -5926,9 +5326,7 @@ From the Ambassador in Brazil (tel.)
 Communication from Messrs. Scott and Reeves (text
 printed), stating compliance with Department’s telegram of
 May 13.
-369
 [Pg.
-369
 includes
 portions
 of Doc.
@@ -5949,9 +5347,7 @@ intention to propose establishment of a Permanent Inter-
 American Arbitration Tribunal, and to subcommission on
 public international law, May 19, of decision not to present
 question (texts printed).
-369
 [Pg.
-369
 includes
 portions
 of Doc.
@@ -5967,12 +5363,9 @@ and
 number
 Subject
 Page
-1927
 From the British Ambassador
-410
 
 Aug.
-17
 (489)
 Information that British Government, in reply to a League
 circular letter of June 7 (excerpt printed), has stated that the
@@ -5985,12 +5378,10 @@ part of
 Doc.
 289]
 Dec.
-16
 To the British Ambassador
 Advice that the U. S. Government concurs in British view
 and will inform the League of its disapproval of the
 proposed revision.
-411
 [Pg. 411
 includes
 portions
@@ -6008,7 +5399,6 @@ to define legal position and functions of consuls, and (3)
 revision of classification of diplomatic agents, but
 approving proposal for a convention concerning
 competence of the courts in regard to foreign states.
-411
 [Pg. 411
 includes
 portions
@@ -6022,16 +5412,13 @@ and
 number
 Subject
 Page
-1927
 Sept.
-28
 From the Acting Counselor of the British Embassy to the
 Chief of the Division of Western European Affairs
 Inquiry as to privileges accorded to officials of the
 League of Nations in the United States; understanding
 that in some instances diplomatic visas are granted.
 413 [Pg.
-413
 includes
 portions of
 Doc. 291
@@ -6043,7 +5430,6 @@ Information that a League official would customarily be
 given a diplomatic visa on the basis of his diplomatic
 passport, but that no assurance can be given that such a
 414 [Pg.
-414
 includes
 portions of
 Doc. 293
@@ -6060,7 +5446,6 @@ and
 number
 Subject
 Page
-1927
 Jan. 22
 To the Irish Minister
 Information concerning exemptions from taxation
@@ -6076,7 +5461,6 @@ and
 number
 Subject
 Page
-1927
 Jan. 14
 (1332)
 From the Egyptian Chargé
@@ -6084,7 +5468,6 @@ Request for information as to whether U. S. laws restrict
 in any way the right of foreign governments to own
 property.
 417 [Pg.
-417
 includes
 portions of
 Doc. 294,
@@ -6100,7 +5483,6 @@ taxes or assessments, but that there are certain other
 expenses incident to the property, not in the nature of the
 tax, which must be paid.
 417 [Pg.
-417
 includes
 portions of
 Doc. 294,
@@ -6114,9 +5496,7 @@ and
 number
 Subject
 Page
-1927
 Aug.
-30
 (Dip.
 Ser.
 650, G.
@@ -6133,9 +5513,7 @@ immunity in foreign courts for U. S. Shipping Board
 vessels, and that no request for immunity should be made
 unless the Department specifically instructs that such action
 be taken in a particular instance.
-418
 [Pg.
-418
 includes
 portions
 of Doc.
@@ -6148,16 +5526,13 @@ and
 number
 Subject
 Page
-1927
 Aug.
-10
 Executive Order No. 4705
 Prescribing rules of precedence as between (1)
 Ambassadors, Ministers, and Foreign Service officers of
 the United States, (2) U. S. Army officers, (3) U. S. Navy
 and Marine officers, and (4) U. S. Foreign Commerce
 officers.
-419
 [Pg. 419
 is part of
 Doc.
@@ -6169,9 +5544,7 @@ and
 number
 Subject
 Page
-1927
 From the Ambassador in Argentina
-421
 [Pg.
 
 Sept.
@@ -6194,7 +5567,6 @@ and
 number
 Subject
 Page
-1926
 May 21
 (39)
 From the Ambassador in Argentina (tel.)
@@ -6203,9 +5575,7 @@ several naval vessels, that U. S. naval attaché is following
 developments closely, and that Embassy is according all
 proper assistance to Fore River Shipbuilding Corporation’s
 representative in the matter.
-424
 [Pg.
-424
 includes
 portions
 of Doc.
@@ -6219,9 +5589,7 @@ Instructions, in view of reports of strong foreign
 competition for submarine contracts, to request appropriate
 authorities to grant an equal opportunity for American firms
 to compete for the business.
-424
 [Pg.
-424
 includes
 portions
 of Doc.
@@ -6236,9 +5604,7 @@ Minister’s assurance that American bids will receive equal
 consideration with those of other foreign firms; intention of
 U. S. naval attaché to take appropriate action with the
 Ministry of Marine.
-425
 [Pg.
-425
 includes
 portions
 of Doc.
@@ -6246,7 +5612,6 @@ of Doc.
 Doc.
 303]
 Oct. 18 To the Ambassador in Argentina (tel.)
-425
 [Pg.
 
 (41)
@@ -6257,7 +5622,6 @@ and Italy, exclusively; and that it does not intend to give
 Bethlehem Steel Co. or other American shipbuilders an
 opportunity to bid. Instructions to make informal but
 emphatic representations against the discrimination.
-425
 includes
 portions
 of Doc.
@@ -6271,9 +5635,7 @@ Information from Minister of Marine that American
 shipbuilders such as Fore River and Cramps are being asked
 for bids; intention of Ambassador to discuss Bethlehem
 Steel Co. matter with Foreign Minister.
-426
 [Pg.
-426
 includes
 portions
 of Doc.
@@ -6292,9 +5654,7 @@ because of information from Minister of Marine showing
 that American shipbuilders have submitted bids and that the
 Argentine mission in the United States has recently been
 instructed to request bids from the Bethlehem Steel Co.
-426
 [Pg.
-426
 includes
 portions
 of Doc.
@@ -6313,9 +5673,7 @@ would object to a proposed loan to Argentina for the
 financing of her naval construction program; bankers’
 willingness to stipulate that American firms have the fullest
 and freest opportunity to bid.
-427
 [Pg.
-427
 includes
 portions
 of Doc.
@@ -6325,9 +5683,7 @@ Doc.
 Jan. 14 Memorandum by the Assistant Secretary of State of a
 Telephone Conversation With Mr. Hugh Knowlton of the
 International Acceptance Bank
-428
 [Pg.
-428
 includes
 
 Information that Assistant Secretary told Mr. Knowlton that
@@ -6354,9 +5710,7 @@ the hope that an equitable share of the business will be
 given to American firms and to add that proposed loan
 flotation will be difficult unless a fair share of construction
 is placed in the United States.
-429
 [Pg.
-429
 includes
 portions
 of Doc.
@@ -6367,9 +5721,7 @@ Mar. 9
 (11)
 To the Chargé in Argentina (tel.)
 Instructions to advise present status of matter.
-429
 [Pg.
-429
 includes
 portions
 of Doc.
@@ -6383,9 +5735,7 @@ Department’s telegram No. 9, March 1; advice that no
 contract has yet been signed; opinion that, as Argentine
 Government has been informed as to U. S. attitude, no
 further steps can be taken at present.
-430
 [Pg.
-430
 includes
 portions
 of Doc.
@@ -6400,9 +5750,7 @@ Apr. 7
 From the Chargé in Argentina
 Information that one of the primary reasons for Bethlehem
 Co.’s failure to reach understanding with Argentine
-430
 [Pg.
-430
 includes
 
 Government is the high cost of manufacture in the United
@@ -6431,9 +5779,7 @@ proposed submarine award would be contrary to Argentine
 commission’s recommendation; information that the loan
 may possibly be handled by British bankers if their terms
 are almost as favorable as the American terms.
-432
 [Pg.
-432
 includes
 portions
 of Doc.
@@ -6451,9 +5797,7 @@ Instructions, should it become necessary, to assist the
 company’s Paris representative, through informal
 representations to appropriate French authorities, in
 selecting a satisfactory yard.
-432
 [Pg.
-432
 includes
 portions
 of Doc.
@@ -6468,9 +5812,7 @@ about to be awarded to an Italian firm; instructions to make
 informal inquiry, in view of Department’s understanding
 that decision had been made in favor of the American
 company.
-433
 [Pg.
-433
 includes
 portions
 of Doc.
@@ -6484,9 +5826,7 @@ Aug. 9
 (70)
 From the Chargé in Argentina (tel.)
 Promise of Foreign Under Secretary to inquire into the
-433
 [Pg.
-433
 
 submarine matter; confidential information that contract is
 to be awarded to Italian firm because Board of Admirals
@@ -6511,9 +5851,7 @@ arrangements made by it in France.
 (Footnote: Information that the Electric Boat Co. advised,
 August 20, that the Argentine Government had agreed to
 postpone the final decision.)
-434
 [Pg.
-434
 includes
 portions
 of Doc.
@@ -6536,9 +5874,7 @@ with Argentine workmen; opinion that American firms
 cannot secure the orders unless they can reduce production
 costs sufficiently to enable them to meet prices of European
 rivals.
-434
 [Pg.
-434
 includes
 portions
 of Doc.
@@ -6556,9 +5892,7 @@ and
 number
 Subject
 Page
-1927
 From the Commissioner for Australia
-437
 
 Jan. 14 Desire that the privileges granted to businessmen of the
 United Kingdom as to entry into the United States to
@@ -6581,7 +5915,6 @@ Act of 1924 relating to entry under an existing commercial
 treaty would not apply to a treaty concluded subsequently;
 assurance that Department is deeply interested and will
 communicate in this regard at a later date.
-439
 [Pg. 439
 includes
 portions
@@ -6600,7 +5933,6 @@ the question of amending the Immigration Act of 1924 to
 permit entry for business purposes without restriction as to
 length of stay, may not be brought up before the next
 session of Congress.
-440
 [Pg. 440
 is part of
 Doc.
@@ -6611,7 +5943,6 @@ Date and
 number
 Subject
 Page
-1927
 Aug. 30
 (1508)
 From the Minister in Austria
@@ -6622,7 +5953,6 @@ Austrian Control Committee, the Reparation
 Commission, and the states having prior liens on Austria
 because of relief credits; Austrian Government’s desire
 that the competent U. S. law officers investigate in a
-442
 [Pg.
 442 is
 part of
@@ -6640,9 +5970,7 @@ From the Minister in Austria (tel.)
 Austrian Chancellor’s official and urgent request for reply
 to the question set forth in Minister’s despatch No. 1508,
 August 30.
-444
 [Pg.
-444
 includes
 portions
 of Doc.
@@ -6667,9 +5995,7 @@ expectation of speedy and favorable action by Control
 Committee, Reparation Commission, and Relief Credit
 Committee composed of the relief credit states other than
 the United States.
-444
 [Pg.
-444
 includes
 portions
 of Doc.
@@ -6687,9 +6013,7 @@ received from the Minister communicating Chancellor’s
 request for interpretation of the authority of the Secretary
 of the Treasury under the joint resolution of April 6,
 1922.
-447
 [Pg.
-447
 includes
 portions
 of Doc.
@@ -6700,7 +6024,6 @@ Oct. 17
 (1573)
 From the Minister in Austria
 Receipt, October 14, of note from Austrian Chancellor
-448
 [Pg.
 448 is
 
@@ -6721,9 +6044,7 @@ Informal inquiry by the Austrian Minister whether the
 Secretary of the Treasury has the power, without further
 congressional authority, to extend the time of relief-debt
 payment by Austria for an additional period of 5 years.
-450
 [Pg.
-450
 includes
 portions
 of Doc.
@@ -6744,9 +6065,7 @@ declaration (text printed) by the Trustees of the Austrian
 loan of 1923, to the effect that when the negotiations are
 further advanced, it will be possible to consider whether
 loan is prejudicial to the holders of 1923 bonds.
-450
 [Pg.
-450
 includes
 portions
 of Doc.
@@ -6764,9 +6083,7 @@ extend the time of payment of the Austrian relief debt,
 and Secretary’s conclusion, therefore, that he could not
 take any action without further authorization by
 Congress.
-453
 [Pg.
-453
 includes
 portions
 of Doc.
@@ -6777,9 +6094,7 @@ Oct. 28
 (20)
 To the Minister in Austria (tel.)
 Information that law officers of U. S. Government have
-454
 [Pg.
-454
 
 decided that the Secretary of the Treasury has no power to
 act further under the joint resolution, and that a new
@@ -6802,9 +6117,7 @@ of Department’s telegram No. 20, October 28; assumption
 that the Department will at the proper time take
 appropriate action to obtain a new congressional enabling
 act.
-454
 [Pg.
-454
 includes
 portions
 of Doc.
@@ -6818,9 +6131,7 @@ Nov. 28
 To the Secretary of the Treasury
 Transmittal, for information and comment, of copy of
 Minister’s despatch No. 1585, October 29.
-455
 [Pg.
-455
 includes
 portions
 of Doc.
@@ -6838,9 +6149,7 @@ payment of said debt; also, that Austria contemplates the
 negotiation of a general funding arrangement for the
 entire relief credits of the states concerned, following
 flotation of the new federal loan.
-456
 [Pg.
-456
 includes
 portions
 of Doc.
@@ -6854,9 +6163,7 @@ Abandonment by Austria of request for postponement of
 relief-debt payments, leaving only its request that assets
 pledged for payment of the debt be subordinated to the
 contemplated new Federal loan.
-458
 [Pg.
-458
 includes
 portions
 of Doc.
@@ -6875,9 +6182,7 @@ installments to include an amount corresponding to the
 loss of interest which the creditors suffered by
 nonpayment of agreed-upon installments due prior to
 1943.
-458
 [Pg.
-458
 includes
 portions
 of Doc.
@@ -6891,9 +6196,7 @@ December 2, and copy of a telegram from the Embassy in
 Paris, December 3, advising that Reparation Commission
 has postponed discussion of Austrian relief bonds and
 loan question until its meeting on January 14, 1928.
-459
 [Pg.
-459
 includes
 portions
 of Doc.
@@ -6906,9 +6209,7 @@ Reminder that Austrian Government and European relief
 creditor states are holding discussions in London, and
 understanding that Austrian Government has suggested
 that U. S. Government might wish to be represented.
-460
 [Pg.
-460
 includes
 portions
 of Doc.
@@ -6928,9 +6229,7 @@ relief-funding proposal to the governments represented on
 the Committee, and a resolution was passed, without
 affirmative votes by Dutch or Swiss, authorizing the
 subordination to the projected new federal loan for a
-460
 [Pg.
-460
 includes
 portions
 of Doc.
@@ -6957,9 +6256,7 @@ proposal before giving any further expression of views;
 request for possible comment on the desirability of the U.
 S. Government’s keeping in touch with the discussions
 between the Austrian and relief creditor governments.
-463
 [Pg.
-463
 includes
 portions
 of Doc.
@@ -6971,9 +6268,7 @@ To Mr. R. C. Leffingwell of J. P. Morgan & Co.
 Nonreceipt from Austria or any of the creditor states of
 suggestion that the U. S. Government participate in or
 keep in touch with the London discussions.
-465
 [Pg.
-465
 includes
 portions
 of Doc.
@@ -6995,9 +6290,7 @@ to new federal loan, Committee’s communication of
 December 20 notifying of Netherlands and Swiss consent,
 and Control Committee’s resolution of October 12
 consenting to new federal loan (texts printed).
-465
 [Pg.
-465
 includes
 portions
 of Doc.
@@ -7010,9 +6303,7 @@ Doc.
 Dec. 28
 From the Austrian Minister
 Request for action by the Department to arrange for
-472
 [Pg.
-472
 
 recommendation to Congress of legislation authorizing
 the deferment for 30 years of the lien for relief credits
@@ -7032,9 +6323,7 @@ of December 23, since it was the Minister’s [intention to
 ask if Department wished to be represented in the
 discussions; additional details concerning nature of the
 Austrian funding proposal.
-473
 [Pg.
-473
 includes
 portions
 of Doc.
@@ -7042,7 +6331,6 @@ of Doc.
 Doc.
 342]
 1928 Jan.
-7
 To the Secretary of the Treasury
 Transmittal of Austrian Minister’s note No. 2351/70, of
 December 28, 1927, and Mr. R. C. Leffingwell’s letter of
@@ -7053,9 +6341,7 @@ to the Treasury, pointing out that consideration of the
 proposal to defer the lien would be facilitated by the
 receipt of more specific information as to the relief-debt
 funding proposal.
-474
 [Pg.
-474
 includes
 portions
 of Doc.
@@ -7068,7 +6354,6 @@ and
 number
 Subject
 Page
-1927
 July 23
 (1477)
 From the Minister in Austria
@@ -7079,7 +6364,6 @@ notice from the President of Police of the date on which
 interment of the police officers killed in the outbreak
 would be held, he consulted with his colleagues and
 decided not to attend the obsequies.
-475
 [Pg. 475
 includes
 portions
@@ -7089,9 +6373,7 @@ Doc.
 344]
 Aug.
 To the Minister in Austria
-476
 
-15
 (609)
 includes
 portions
@@ -7106,22 +6388,18 @@ and
 number
 Subject
 Page
-1927
 Aug.
-19
 (308)
 To the Minister in Bolivia
 Instructions to ascertain, if the Minister perceives no
 objection, whether Bolivia is disposed to enter into a
 general treaty of friendship, commerce and consular rights
 providing for unconditional most-favored-nation treatment.
-477
 [Pg. 477
 is part of
 Doc.
 346]
 Sept.
-26
 (1403)
 From the Minister in Bolivia
 Advice that discreet inquiry has indicated that Bolivia
@@ -7133,7 +6411,6 @@ inadvisable at present; intention to keep in close touch with
 situation and advise Department fully.
 (Footnote: Information that these negotiations did not
 result in the signing of any treaty.)
-479
 [Pg. 479
 includes
 portions
@@ -7150,7 +6427,6 @@ number
 Subject
 Page
 
-1926
 Dec. 1
 (238)
 To the Ambassador in Great Britain (tel.)
@@ -7159,16 +6435,13 @@ Government of U. S. intention to appoint Ministers to
 Canada and the Irish Free State, and to inquire as to whom
 the Ministers will be accredited and to whom their
 credentials should be presented.
-481
 [Pg.
-481
 includes
 portions
 of Doc.
 348 and
 Doc.
 349]
-1927
 Jan. 10
 (1569)
 From the Chargé in Great Britain
@@ -7182,9 +6455,7 @@ the Irish Free State, respectively.
 his credentials as American Minister in Canada on June 1,
 and that Mr. Frederick A. Sterling presented his credentials
 as American Minister in the Irish Free State on July 27.)
-481
 [Pg.
-481
 includes
 portions
 of Doc.
@@ -7201,9 +6472,7 @@ convenient for the President to receive Mr. Massey; desire
 of the Canadian Government that the British Ambassador
 accompany Mr. Massey to the White House on this
 occasion.
-482
 [Pg.
-482
 includes
 portions
 of Doc.
@@ -7220,9 +6489,7 @@ whether the British Ambassador shall in the future
 accompany Ministers of Dominions upon presentation of
 their credentials shall be governed by the desire of the
 respective Dominion or its representative.
-483
 [Pg.
-483
 includes
 portions
 of Doc.
@@ -7238,7 +6505,6 @@ and
 number
 Subject
 Page
-1927
 Sept. 1
 (230)
 From the Canadian Chargé
@@ -7252,9 +6518,7 @@ protest against the diversion; unwillingness to entertain U.
 S. suggestion for a discussion of suitable compensating
 works, if this course involves assumption that the present
 diversion is to continue.
-484
 [Pg.
-484
 includes
 portions
 of Doc.
@@ -7271,7 +6535,6 @@ Supreme Court renders a decision on closely parallel issues
 now before it; belief that navigational and power problems
 might be adjusted by practical engineering measures
 pending further discussion of the principles involved.
-486
 [Pg.
 486 is
 part of
@@ -7283,9 +6546,7 @@ and
 number
 Subject
 Page
-1927
 To the Canadian Minister
-487
 [Pg. 487
 
 Apr. 13 Desire of the United States to enter into negotiations for the
@@ -7308,7 +6569,6 @@ receipt of report of the National Advisory Committee of
 Canada, which is now studying the economic and general
 aspects of the question, after which the Canadian
 Government will be pleased to discuss the entire matter.
-489
 [Pg. 489
 includes
 portions
@@ -7323,7 +6583,6 @@ and
 number
 Subject
 Page
-1927
 Feb. 26
 To the Canadian Minister
 Proposal that, in view of contemplated improvements in the
@@ -7333,9 +6592,7 @@ river lying in Minnesota, the entire problem of the Roseau
 River drainage system be referred to the International Joint
 Commission for investigation, report, and
 recommendations.
-490
 [Pg.
-490
 includes
 portions
 of Doc.
@@ -7348,9 +6605,7 @@ note of February 26, because of reports that action is being
 taken in Canada to obtain appropriations for proceeding
 immediately with the works of drainage and diking along
 the Roseau River.
-491
 [Pg.
-491
 includes
 portions
 of Doc.
@@ -7361,7 +6616,6 @@ Nov. 1
 (269)
 From the Canadian Minister
 Information that no decision has yet been reached
-492
 [Pg.
 
 concerning reference of the Roseau River matter to the
@@ -7371,7 +6625,6 @@ the improvement operations now being carried on will not
 prejudice the situation of the United States, nor are they
 believed to be contrary to the spirit or provisions of the
 boundary-waters treaty of 1909.
-492
 includes
 portions
 of Doc.
@@ -7379,7 +6632,6 @@ of Doc.
 Doc.
 358]
 Dec.
-12
 To the Canadian Minister
 Contrary opinion that the execution of the present
 construction works will cause extensive damage to a large
@@ -7389,7 +6641,6 @@ proposal for reference of the entire matter to International
 Joint Commission, and request that all construction
 operations on the Roseau River be suspended until the
 Commission has made an investigation and report.
-493
 [Pg.
 493 is
 part of
@@ -7402,16 +6653,13 @@ and
 number
 Subject
 Page
-1927
 Apr. 22
 From the Assistant Secretary of Labor
 General Order No. 86 of the Department of Labor, relating
 to border crossing procedure for aliens residing in foreign
 contiguous countries and entering the United States to
 work or seek employment (text printed).
-494
 [Pg.
-494
 includes
 portions
 of Doc.
@@ -7427,9 +6675,7 @@ living in Canada and crossing daily to the United States to
 work; request that before any decision is taken or
 announced, an opportunity be given for a conference
 between representatives of the two countries.
-496
 [Pg.
-496
 includes
 portions
 of Doc.
@@ -7440,9 +6686,7 @@ Doc.
 May 10 To the Canadian Minister
 Information that a conference will be held at the
 Department on May 12.
-497
 [Pg.
-497
 includes
 portions
 of Doc.
@@ -7457,9 +6701,7 @@ Department officials, at which tentative agreement was
 reached on possible bases for a solution to ameliorate the
 hardships which will be brought on by the application of
 General Order No. 86.
-497
 [Pg.
-497
 includes
 portions
 of Doc.
@@ -7475,9 +6717,7 @@ Department officials; information that the State and Labor
 Departments will do their utmost to clear away, so far as
 possible under existing law, all difficulties and
 dissatisfaction in regard to border crossing.
-499
 [Pg.
-499
 includes
 portions
 of Doc.
@@ -7493,9 +6733,7 @@ purpose of record, of Canadian Government’s views on
 issues involved; hope that, in consequence of study of the
 problem by the two Governments, a mutually satisfactory
 arrangement may soon be reached.
-502
 [Pg.
-502
 includes
 portions
 of Doc.
@@ -7508,9 +6746,7 @@ From the Canadian Minister
 Request for interpretation by the appropriate authorities of
 the U. S. Government of a list of questions which may
 arise in the operation of General Order No. 86.
-506
 [Pg.
-506
 includes
 portions
 of Doc.
@@ -7521,9 +6757,7 @@ Doc.
 June 30 To the Canadian Chargé
 Replies to the questions propounded in Minister’s Note No.
 159, June 13.
-507
 [Pg.
-507
 includes
 portions
 of Doc.
@@ -7540,9 +6774,7 @@ secure quota visas, because of understanding that
 approximately 3,000 persons who have applied for such
 visas cannot secure them by December 1, the time limit set
 in General Order No. 86.
-508
 [Pg.
-508
 includes
 portions
 of Doc.
@@ -7556,9 +6788,7 @@ created by General Order No. 86 has in the main largely
 disappeared, and that the change made in the priority status
 of quota commuters who were unable to obtain visas prior
 to December 1 will afford all needed relief in those cases.
-510
 [Pg.
-510
 includes
 portions
 of Doc.
@@ -7571,7 +6801,6 @@ and
 number
 Subject
 Page
-1926
 Apr. 13
 To the British Ambassador
 Desire that the Canadian Government prohibit seine fishing
@@ -7579,7 +6808,6 @@ in the Canadian waters of Missisquoi Bay, at the northern
 end of Lake Champlain, during the spawning season, in
 order to aid in conserving the Lake Champlain fishery;
 advice that the reestablishment of a previous Order in
-511
 [Pg. 511
 includes
 portions
@@ -7603,16 +6831,13 @@ issued by a Commission appointed under treaty of 1908;
 contention that the situation should be dealt with as a whole
 rather than that Missisquoi Bay should be considered by
 itself.
-513
 [Pg.
-513
 includes
 portions
 of Doc.
 370 and
 Doc.
 371]
-1927
 Mar. 1
 To the Canadian Minister
 Belief that the interests of both Canada and the United
@@ -7623,9 +6848,7 @@ U. S. views be communicated to the Canadian Government
 with the suggestion that the United States will appreciate
 the prohibition of seining in Missisquoi Bay, if such action
 is found practicable.
-514
 [Pg.
-514
 includes
 portions
 of Doc.
@@ -7641,9 +6864,7 @@ prohibit fishing during the spawning season; reiteration of
 contention that the Missisquoi Bay situation should be dealt
 with in connection with other outstanding matters, and not
 by itself.
-515
 [Pg.
-515
 includes
 portions
 of Doc.
@@ -7651,14 +6872,11 @@ of Doc.
 Doc.
 373]
 Mar.
-30
 To the Canadian Minister
 Regret that the Canadian Government does not deem it
 advisable to discontinue the issuance of licenses for seine
 fishing in Missisquoi Bay at the present time.
-516
 [Pg.
-516
 includes
 portions
 of Doc.
@@ -7673,9 +6891,7 @@ and
 number
 Subject
 Page
-1927
 Aug.
-19
 (765)
 To the Ambassador in Chile
 Instructions to ascertain whether Chile is disposed to
@@ -7774,9 +6990,7 @@ and
 number
 Subject
 Page
-1927
 Aug.
-22
 (109)
 From the Ambassador in Chile (tel.)
 Request for specific instructions concerning Grace Line’s
@@ -7786,9 +7000,7 @@ commercial interests by reason of a plan for preferential
 customs duties on importations in national vessels, now
 under consideration by a Chilean commission, for the
 purpose of promoting a national merchant marine.
-526
 [Pg.
-526
 includes
 portions
 of Doc.
@@ -7796,7 +7008,6 @@ of Doc.
 Doc.
 382]
 Aug.
-25
 (111)
 From the Ambassador in Chile (tel.)
 Synopsis of proposed shipping law, which provides for (1)
@@ -7805,7 +7016,6 @@ of nitrate in Chilean vessels, (3) 10 percent reduction in
 customs duties on imports in Chilean vessels, (4) loans to
 Chilean companies for the purchase of new vessels, (5)
 effective date of January 1, 1928; desire of Grace Line
-527
 [Pg.
 527 is
 part of
@@ -7815,15 +7025,12 @@ Doc.
 manager that protest be made, especially with regard to
 points (1) and (2); request for instructions.
 Aug.
-30
 (115)
 From the Ambassador in Chile (tel.)
 Information that a project of law embodying all points
 except point (2) has been submitted to Congress; renewal of
 request for instructions.
-528
 [Pg.
-528
 includes
 portions
 of Doc.
@@ -7842,9 +7049,7 @@ States would view with concern any step which would tend
 to substitute for the present regime of equality in the use of
 Canal one of special advantage; information that
 Department has no objections to point (4).
-528
 [Pg.
-528
 includes
 portions
 of Doc.
@@ -7857,9 +7062,7 @@ From the Ambassador in Chile (tel.)
 Information that proposed law omitted point (2) because
 section 17 of nitrate law already empowers the President to
 pay bounties to producers who ship in Chilean vessels.
-529
 [Pg.
-529
 includes
 portions
 of Doc.
@@ -7875,9 +7078,7 @@ American export trade at least until Chile purchases new
 ships and establishes services to Europe; assumption that in
 spite of this consideration, Department wishes Ambassador
 to comply with its telegram No. 37 of August 31.
-530
 [Pg.
-530
 includes
 portions
 of Doc.
@@ -7887,7 +7088,6 @@ Doc.
 Sept.
 To the Ambassador in Chile (tel.)
 Instructions to continue efforts to dissuade Chilean
-531
 [Pg.
 531 is
 
@@ -7902,7 +7102,6 @@ part of
 Doc.
 388]
 Sept.
-17
 (133)
 From the Ambassador in Chile (tel.)
 Issuance by the President of a decree under sections 17 and
@@ -7911,9 +7110,7 @@ publication, providing specific bounties for nitrate
 shipments, according to destination; information that the
 bounty is to be paid to ship and not to producer, and request
 that this point be corrected in telegrams Nos. 111 of August
-532
 [Pg.
-532
 includes
 portions
 of Doc.
@@ -7921,7 +7118,6 @@ of Doc.
 Doc.
 390]
 Sept.
-20
 (136)
 From the Ambassador in Chile (tel.)
 Report of discussions with Chilean officials and diplomatic
@@ -7930,9 +7126,7 @@ before final passage, Canal tolls provision, and possibly
 preferential duties and bounties, will be stricken out and
 will be replaced by a provision for lump sum subvention to
 companies.
-532
 [Pg.
-532
 includes
 portions
 of Doc.
@@ -7940,16 +7134,13 @@ of Doc.
 Doc.
 390]
 Sept.
-21
 (141)
 From the Ambassador in Chile (tel.)
 Report of further representations; opinion that ship subsidy
 law will either be redrafted or replaced by a substitute law
 granting lump sum subvention or payments for maintenance
 service on designated routes.
-533
 [Pg.
-533
 includes
 portions
 of Doc.
@@ -7965,9 +7156,7 @@ regular service through the Canal, (2) share by Government
 in profits and management, (3) loans for the purchase of
 new ships, (4) 10 percent increase in consular duties to
 cover expenses occasioned by this law, (5) effective date,
-534
 [Pg.
-534
 includes
 portions
 of Doc.
@@ -7984,9 +7173,7 @@ Information that Congress will convene in special session
 November 15 and that Chargé has renewed representations
 concerning effect on American interests of the proposed
 legislation and tariff revision.
-535
 [Pg.
-535
 includes
 portions
 of Doc.
@@ -8001,7 +7188,6 @@ American ships will eliminate the only basis on which the
 President is empowered to continue in suspension the U. S.
 law providing for a discriminatory duty of 10 percent on
 goods imported in foreign ships.
-536
 [Pg.
 536 is
 part of
@@ -8013,9 +7199,7 @@ that his Government intends to abandon plan for
 discriminatory duties and refund of Canal tolls, and stated
 that if any shipping legislation is enacted, it will probably
 be in the nature of a straight subsidy.
-537
 [Pg.
-537
 includes
 portions
 of Doc.
@@ -8028,7 +7212,6 @@ and
 number
 Subject
 Page
-1927
 Sept. 1
 (119)
 From the Ambassador in Chile (tel.)
@@ -8099,7 +7282,6 @@ Doc. 399,
 and Doc.
 400]
 Nov.
-16
 (176)
 From the Chargé in Chile (tel.)
 Passage of coal bill by Chamber of Deputies, November
@@ -8112,7 +7294,6 @@ Doc. 401,
 and Doc.
 402]
 Dec.
-10
 (186)
 From the Ambassador in Chile (tel.)
 Continued efforts to secure modification of proposed
@@ -8138,7 +7319,6 @@ and
 number
 Subject
 Page
-1927
 May 5
 (19)
 To the Ambassador in Chile (tel.)
@@ -8147,7 +7327,6 @@ Finance Minister’s intention to nationalize insurance,
 thereby eliminating foreign companies, and to advise
 Department as to extent to which proposed measure appears
 to be confiscatory.
-541
 [Pg. 541
 includes
 portions
@@ -8164,7 +7343,6 @@ May 5; opinion that project does not appear to be
 confiscatory except in the respect that it destroys property
 rights by prohibiting the continuance of a business which
 was established in the past at considerable expense.
-542
 [Pg. 542
 includes
 portions
@@ -8182,7 +7360,6 @@ to reorganize as national companies, and that section 59
 imposes a heavy tax, as well as fines for failure to pay such
 tax, on policies taken out in foreign companies by foreign
 owners of property in Chile; request for instructions.
-543
 [Pg. 543
 is part
 of Doc.
@@ -8195,7 +7372,6 @@ of international law; suggestion that Ambassador may wish
 to urge the elimination of article 59 because it would
 interfere with free and mutually beneficial intercourse
 between the United States and Chile.
-545
 [Pg. 545
 includes
 portions
@@ -8208,9 +7384,7 @@ Doc.
 407]
 Sept.
 From the Ambassador in Chile (tel.)
-545
 
-12
 (129)
 Information that Joint Committee has sent amended bill to
 Chamber of Deputies; understanding that foreign
@@ -8235,7 +7409,6 @@ Sept.
 To the Ambassador in Chile (tel.)
 Advice that Department can perceive no good basis for a
 protest.
-546
 [Pg. 546
 includes
 portions
@@ -8247,14 +7420,12 @@ and
 Doc.
 409]
 Sept.
-19
 (135)
 From the Ambassador in Chile (tel.)
 Belief of most insurance agencies that the requirement of
 increased deposits and heavier taxes, even though
 discriminatory, will be offset by a large increase in business
 and profits.
-546
 [Pg. 546
 includes
 portions
@@ -8266,7 +7437,6 @@ and
 Doc.
 409]
 Sept.
-21
 (138)
 From the Ambassador in Chile (tel.)
 Information that insurance bill will come before Senate
@@ -8276,7 +7446,6 @@ toward protest would be affected by the legal contention
 that if insurance contracts on personal property can be
 taxed, other contracts affecting personal property, such as
 mortgages and assignments, can also be taxed.
-547
 [Pg. 547
 includes
 portions
@@ -8290,7 +7459,6 @@ Doc.
 Sept.
 To the Ambassador in Chile (tel.)
 Advice that no ground exists for formal protest because of
-547
 [Pg. 547
 includes
 
@@ -8307,7 +7475,6 @@ and
 Doc.
 411]
 Nov.
-17
 (179)
 From the Chargé in Chile (tel.)
 Passage by Senate, November 16, of bill with modifications
@@ -8316,7 +7483,6 @@ amendment of article 46 to permit insurance of properties in
 Chile with local branches of foreign insurance companies,
 or, if the risk is unacceptable, to permit the local companies
 to place the insurance abroad without being subject to tax.
-548
 [Pg. 548
 includes
 portions
@@ -8328,14 +7494,12 @@ and
 Doc.
 413]
 Nov.
-29
 (1256)
 From the Ambassador in Chile
 Passage of bill by Chamber of Deputies, November 23,
 with minor change; information that the amendment of
 eliminated the most harmful feature of the bill as far as the
 foreign companies are concerned.
-548
 [Pg. 548
 includes
 portions
@@ -8353,9 +7517,7 @@ and
 number
 Subject
 Page
-1926
 Nov.
-22
 (962)
 From the Chargé in Chile
 Decision by the Santiago Court of Appeals, September 24
@@ -8364,9 +7526,7 @@ Embassy in Santiago was subject to jurisdiction of the
 Chilean courts in a criminal case, and that he might be
 arrested and imprisoned for his criminal acts committed in
 Chilean territory; information that, although the decision
-549
 [Pg.
-549
 includes
 portions
 of Doc.
@@ -8378,7 +7538,6 @@ remains without practical effect because the secretary was
 recalled shortly after the case began, the diplomatic corps
 feels that a dangerous precedent has been set which should
 not go unchallenged.
-1927
 Jan. 8
 (699)
 To the Ambassador in Chile
@@ -8387,7 +7546,6 @@ protest against the precedent set by the case; authorization,
 however, to express concurrence if diplomatic corps decides
 to make a joint protest against this action as being a
 violation of international law.
-551
 [Pg.
 551 is
 part of
@@ -15395,10 +14553,8 @@ Preparatory Commission for the Disarmament Conference entrusted with
 the Preparation for the Conference for the Reduction and Limitation of
 Armaments,
 Series
-IV
 and
 Series
-V
 [151] The Secretary of the American Representation on the
 Preparatory Commission (Marriner) to the Secretary of State
 [152] The Secretary of State to the Secretary of the American
@@ -17819,7 +16975,6 @@ the Preparation of a Draft Convention
 on the Private Manufacture of Arms
 and Ammunition and of Implements of
 War, Geneva, March 14–April 25,
-192756
 56 For action taken at this meeting, see League of Nations, Report of the
 Special Commission, to the Council on the Work of Its First Session
 [194] The Secretary General of the League of Nations (Drummond) to
@@ -18941,7 +18096,6 @@ Economic Conference, Geneva, May
 80 For proceedings of the Conference, see League of Nations, Report and
 Proceedings of the World Economic Conference, vols.
 I and
-II
 Nations, The World Economic Conference, Geneva, May 1927: Final Report
 [200] The Chargé in Switzerland (Marriner) to the Secretary of State
 [201] The Secretary of State to the Chargé in Switzerland (Marriner)
@@ -21094,7 +20248,6 @@ Treaty Series No. 767
 [Document 235]
 Radiotelegraph Convention Between the United States of
 America and Other Powers, Signed at Washington, November 25,
-192735
 INTERNATIONAL RADIOTELEGRAPH CONVENTION
 Concluded among the Governments of:
 Union of South Africa, French Equatorial Africa and other colonies, French

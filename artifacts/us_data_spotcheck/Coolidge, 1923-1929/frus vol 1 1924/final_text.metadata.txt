@@ -1,3 +1,6 @@
 source=/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Coolidge, 1923-1929/frus vol 1 1924/clean_text.txt
-removed_prefix_lines=21
-removed_toc_lines=13
+removed_prefix_lines=23
+removed_toc_lines=12
+removed_unwanted_section_lines=517
+removed_page_number_lines=1146
+removed_link_lines=0
