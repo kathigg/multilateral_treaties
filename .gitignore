@@ -3,6 +3,3 @@
 __pycache__/
 *.pyc
 logs/
-run_status/*.pid
-artifacts/us_data_cleaning/
-artifacts/us_data_spotcheck/

@@ -1,0 +1,3 @@
+source=/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Carter, 1977-1980/Carter Afghanistan/clean_text.txt
+removed_prefix_lines=1
+removed_toc_lines=0
