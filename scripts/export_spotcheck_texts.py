@@ -12,6 +12,33 @@ TOC_START_RE = re.compile(
     re.IGNORECASE,
 )
 
+# Headings for sections we want to remove entirely (especially in front matter).
+UNWANTED_SECTION_START_RE = re.compile(
+    r"""^\s*(
+        preface
+        |foreword
+        |introduction
+        |about\s+the\s+series
+        |about\s+the\s+electronic\s+edition
+        |about\s+the\s+ebook
+        |about\s+this\s+(?:book|volume|edition)
+        |editor(?:'s)?\s+note
+        |note\s+to\s+readers
+        |acknowledg(?:ment|ments)
+        |sources
+        |source\s+notes?
+        |bibliograph(?:y|ical)\s+note
+        |list\s+of\s+abbreviations
+        |abbreviations(?:\s+and\s+terms)?
+        |glossary
+        |terms\s+and\s+abbreviations
+    )\s*$""",
+    re.IGNORECASE | re.VERBOSE,
+)
+
+# Heuristic: an all-caps-ish line often indicates a major heading boundary.
+ALL_CAPS_HEADING_RE = re.compile(r"^\s*[A-Z0-9][A-Z0-9 .,&'()/:;+-]{6,}\s*$")
+
 # Typical TOC entry patterns: dotted leaders + page number, or a title with a trailing page number.
 TOC_LINE_RE = re.compile(
     r"""^
@@ -24,6 +51,9 @@ TOC_LINE_RE = re.compile(
 )
 
 PAGE_NUMBER_ONLY_RE = re.compile(r"^\s*(?:\d+|[ivxlcdm]+)\s*$", re.IGNORECASE)
+PAGE_WORD_NUMBER_RE = re.compile(r"^\s*(?:page|p\.?)\s*\d+\s*$", re.IGNORECASE)
+LINK_LINE_RE = re.compile(r"^\s*(?:https?://\S+|www\.\S+)\s*$", re.IGNORECASE)
+EMAIL_LINE_RE = re.compile(r"^\s*\S+@\S+\.\S+\s*$")
 
 
 @dataclass
@@ -31,6 +61,9 @@ class TrimResult:
     text: str
     removed_toc_lines: int
     removed_prefix_lines: int
+    removed_unwanted_section_lines: int
+    removed_page_number_lines: int
+    removed_link_lines: int
 
 
 def parse_args() -> argparse.Namespace:
@@ -88,25 +121,122 @@ def looks_like_toc_line(line: str) -> bool:
     return False
 
 
+def looks_like_page_number_line(line: str) -> bool:
+    stripped = line.strip()
+    if not stripped:
+        return False
+    return bool(PAGE_NUMBER_ONLY_RE.fullmatch(stripped) or PAGE_WORD_NUMBER_RE.fullmatch(stripped))
+
+
+def looks_like_link_or_email(line: str) -> bool:
+    stripped = line.strip()
+    if not stripped:
+        return False
+    if LINK_LINE_RE.fullmatch(stripped):
+        return True
+    if "http://" in stripped.lower() or "https://" in stripped.lower():
+        return True
+    if EMAIL_LINE_RE.fullmatch(stripped):
+        return True
+    return False
+
+
+def looks_like_abbreviation_entry(line: str) -> bool:
+    # Common patterns:
+    # - "ABC  ... explanation"
+    # - "ABC—explanation"
+    # - "ABC - explanation"
+    stripped = line.strip()
+    if not stripped:
+        return False
+    if len(stripped) > 200:
+        return False
+    if re.match(r"^[A-Z]{2,10}\s{1,6}\S", stripped):
+        return True
+    if re.match(r"^[A-Z]{2,10}\s*[-—:]\s+\S", stripped):
+        return True
+    return False
+
+
 def strip_front_matter_and_toc(text: str) -> TrimResult:
     lines = text.splitlines()
 
     removed_toc = 0
     removed_prefix = 0
+    removed_unwanted = 0
+    removed_page_numbers = 0
+    removed_links = 0
 
     out: list[str] = []
     in_toc = False
     toc_started = False
     toc_blank_run = 0
+    in_unwanted_section = False
+    unwanted_blank_run = 0
+    unwanted_section_name: str | None = None
 
     for line in lines:
         stripped = line.strip()
+
+        # Drop links/emails anywhere.
+        if looks_like_link_or_email(line):
+            removed_links += 1
+            continue
+
+        # Drop page-number-only lines anywhere.
+        if looks_like_page_number_line(line):
+            removed_page_numbers += 1
+            continue
 
         # Detect explicit TOC start.
         if TOC_START_RE.fullmatch(stripped):
             toc_started = True
             in_toc = True
             removed_prefix += 1
+            continue
+
+        # Detect other unwanted sections (typically in front matter).
+        if UNWANTED_SECTION_START_RE.fullmatch(stripped):
+            in_unwanted_section = True
+            unwanted_blank_run = 0
+            unwanted_section_name = stripped.lower()
+            removed_prefix += 1
+            continue
+
+        if in_unwanted_section:
+            if not stripped:
+                unwanted_blank_run += 1
+                removed_unwanted += 1
+                # Allow blank padding before deciding if section ended.
+                if unwanted_blank_run >= 4:
+                    in_unwanted_section = False
+                    unwanted_section_name = None
+                continue
+
+            unwanted_blank_run = 0
+
+            # For abbreviations sections, drop abbreviation-entry runs aggressively.
+            if unwanted_section_name and "abbrev" in unwanted_section_name:
+                if looks_like_abbreviation_entry(line):
+                    removed_unwanted += 1
+                    continue
+
+            # TOC-style lines are also unwanted inside most front matter sections.
+            if looks_like_toc_line(line):
+                removed_unwanted += 1
+                continue
+
+            # An all-caps heading often marks the end of a front matter section.
+            # Also end on lines that look like a normal paragraph.
+            if ALL_CAPS_HEADING_RE.fullmatch(stripped) and not UNWANTED_SECTION_START_RE.fullmatch(stripped):
+                in_unwanted_section = False
+                unwanted_section_name = None
+                # Keep this heading (it might be the first real section heading).
+                out.append(line.rstrip())
+                continue
+
+            # Otherwise, drop the section line.
+            removed_unwanted += 1
             continue
 
         if in_toc:
@@ -157,7 +287,14 @@ def strip_front_matter_and_toc(text: str) -> TrimResult:
     final = "\n".join(trimmed).strip()
     if final:
         final += "\n"
-    return TrimResult(final, removed_toc, removed_prefix)
+    return TrimResult(
+        final,
+        removed_toc,
+        removed_prefix,
+        removed_unwanted,
+        removed_page_numbers,
+        removed_links,
+    )
 
 
 def count_nonblank_lines(text: str) -> int:
@@ -213,6 +350,9 @@ def main() -> None:
                     f"source={source_path}",
                     f"removed_prefix_lines={trimmed.removed_prefix_lines}",
                     f"removed_toc_lines={trimmed.removed_toc_lines}",
+                    f"removed_unwanted_section_lines={trimmed.removed_unwanted_section_lines}",
+                    f"removed_page_number_lines={trimmed.removed_page_number_lines}",
+                    f"removed_link_lines={trimmed.removed_link_lines}",
                 ]
             )
             + "\n",
@@ -227,4 +367,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
