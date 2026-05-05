@@ -118,4 +118,16 @@ python scripts/export_spotcheck_texts.py \
 Each document gets:
 
 - `final_text.txt`
-- `final_text.metadata.txt` (how many lines were removed)
+- `final_text.metadata.txt` (removal counts)
+- `final_text.metadata.json` (removal counts + the stripped imprint block)
+
+### What Gets Removed
+
+This exporter is intentionally aggressive about removing front matter and publishing metadata so humans can spot-check the substantive body text:
+
+- Publication/imprint blocks (e.g., FRUS title pages: `FOREIGN RELATIONS OF THE UNITED STATES`, `VOLUME ...`, `DEPARTMENT OF STATE`, `United States Government Publishing Office`, editors, `Office of the Historian`, `Washington`, etc.). These lines are saved under `imprint_lines` in `final_text.metadata.json`.
+- Entire front-matter sections when the exporter sees headings like `Preface`, `About the series`, `About the electronic edition`, `Sources`, `Abbreviations and terms`, `Glossary`, etc.
+- Table-of-contents / index headings and TOC-like rows (dotted leaders + page numbers).
+- Page-number-only lines anywhere (including roman numerals and forms like `Page 12` or `p. 12`).
+- Link/email lines anywhere (URLs, `www.*`, `user@domain`).
+- Editorial/source-note footnotes (e.g., `Source: ...`, archival citations like `Library`, `Records`, `OA/ID`, `No classification marking`, etc.). These are saved under `source_note_blocks` in `final_text.metadata.json`.
