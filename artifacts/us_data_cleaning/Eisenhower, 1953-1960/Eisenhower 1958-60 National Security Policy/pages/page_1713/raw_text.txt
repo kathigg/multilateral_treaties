@@ -1,0 +1,42 @@
+1608  Foreign Relations, 1958–1960, Volume III, Supplement
+be 10 ev. Such a high temperature may remove solid material from the 
+cavity surface which would come off with appreciable momentum 
+and thus might give a recoil to the wall, which would increase the 
+seismic wave. Estimates indicate that this ablation of the wall is prob­
+ably not important. If it should turn out to be appreciable, it could be 
+minimized by providing thin foils inside the cavity to absorb some of 
+the heat.
+c. Plastic deformation. It is important that the wall suffer no appre­
+ciable plastic deformation. The elastic behavior of rock is not known to 
+us sufficiently to assess the limitation which this puts on the pressure 
+in the cavity. Experiments would be important.
+d. Cracks in rock. If the rock wall has cracks that are likely to open on 
+application of internal pressure, this would eliminate the hoop stresses 
+around the cavity and would permit very much larger expansion of the 
+cavity radius. This would increase the signal transmitted to a distance 
+in proportion to the expansion. We are entirely ignorant on the occur­
+rence of cracks in rock, and here again only experiment can determine 
+the limitations from this cause. We believe that it should be permissible 
+in any case to apply a pressure equal to the lithostatic ambient pressure 
+which is about 1 atmosphere per 5 meters depth. It is suggested that 
+salt may be particularly free of cracks, especially if it is leached out by 
+water.
+5. Maximum permissible pressure. We do not know the maximum 
+pressure in the cavity which is permissible to insure elastic behaviour 
+of the rock. It is important to know this pressure because the cavity 
+volume is inversely proportional to the pressure, and the cost of exca­
+vating the cavity will be approximately proportional to its volume. If 
+we assume that 50 atmospheres is a permissible pressure, the required 
+radius will be 33 meters for 1 kt which corresponds to a volume of 
+150,000 cubic meters.
+6. Deficiencies in the theory. The following deficiencies in the theory 
+are known to us which can probably be removed by further theoretical 
+work:
+a. The generation of surface waves, in particular of a long period, 
+has not been investigated. These waves may be important for detection.
+b. The ablation of the surface of the cavity due to high temperature 
+must be determined, in order to assess whether it is necessary to pro­
+vide foils.
+c. A calculation should be made of the effect of shocks in the gas in 
+the cavity. Also, the impulse carried by the expanding bomb material 
+should be considered.

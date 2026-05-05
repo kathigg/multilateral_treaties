@@ -1,0 +1,47 @@
+1286  Foreign Relations, 1958–1960, Volume III, Supplement
+noise levels of the order of 5 millimicrons, signals should be detectable 
+at all distances out to 6000 nautical miles. A minimum of four detect­
+ing stations is required to determine the location, time of occurrence and 
+depth of focus of each shock. Suitable station sites south of the equator 
+are rather limited in number, since the Southern Hemisphere is predom­
+inantly oceanic, and island locations are generally found to be extremely 
+noisy. With the addition of stations shown in Figure 12, it is believed that 
+signals could be received at four or more stations from large subsurface 
+shots in all parts of the world. The region of least detection capability 
+is an area of about 1000 miles radius centered near 10° S, 165° W in the 
+South Pacific Ocean. It is estimated that such a worldwide net would 
+have a capability of 90–100 per cent to detect subsurface bursts of 20 KT 
+or larger. Below 10 KT the detection capability deteriorates very rapidly, 
+e.g., at 5 KT there is virtually no possibility of three-­station detection.
+The identification of those natural earthquakes producing signals 
+of the same size as a 20 KT sub-­surface burst is discussed in paragraph 
+2b. It is estimated that 400 shallow earthquakes per year will be in this 
+class. Of these, about 300 can be identified as earthquakes with reason­
+able certainty, leaving 100 events per year requiring detailed investiga­
+tion by inspection teams.
+c. Electromagnetic Net. Electromagnetic detection of tests in the 
+Southern Hemisphere is favored by the fact that most of the propaga­
+tion paths will be over water, which will give somewhat less attenuation 
+than over land. However, an unfavorable characteristic of the Southern 
+Hemisphere with respect to detection is that South America, Africa and 
+the East Indies are areas of high thunderstorm activity. Furthermore, 
+the inter-­tropical front which encircles the globe approximately at the 
+equator with seasonal shifts from the north to south, constitutes a band 
+of additional thunderstorm activity.
+A network of 23 electromagnetic stations has been selected, with 
+the stations made parasitic on the acoustic or seismic locations shown 
+in Figure 12. The detection capability for the network as a whole is esti­
+mated to be 90–100 per cent for tests of 100 KT or greater throughout 
+these remote areas of the world.
+d. Air Sampling Net. In designing a network of air sampling flights 
+for nuclear detection in the remote ocean areas of the world, consider­
+ation has been given to the complexity of the wind patterns on a global 
+basis. It is estimated that daily aerial filtering along three meridians 
+with approximately pole-­to-­pole coverage at each of two altitudes, e.g., 
+20,000 and 40,000 feet, will provide a detection capability of 90 per cent 
+or greater for tests of about 5 KT detonated between the surface and 
+25,000 feet. Tests detonated at altitudes higher than 25,000 feet will 
+require special-­vectored high altitude sampling flights based on early 
+warning from other components of the detection system.
+As is shown in Figure 13, the pole-­to-­pole coverage is along merid­
+ians at approximately 140° E longitude, 50° W longitude and 20° E

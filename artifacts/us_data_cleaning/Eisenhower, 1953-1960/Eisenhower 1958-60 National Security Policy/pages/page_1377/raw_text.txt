@@ -1,0 +1,55 @@
+1272  Foreign Relations, 1958–1960, Volume III, Supplement
+altitudes above 20,000 feet will not be detected by nuclear techniques. 
+Figure 5 is a graphic portrayal of the situation that will occur in the case 
+of low yield tests in the environment under discussion.
+Debris collection seems to be at its greatest disadvantage in the 
+summer time. From fall through winter and spring collection activities 
+are at their best. It is, therefore, believed that the air sampling technique 
+will substantially add to the overall system capability but it is difficult 
+to make a quantitative assessment. The overall detection capability for 
+the system under the environment being discussed must, therefore, 
+rely to a certain extent on the judgment as to what size nuclear cloud 
+could escape routine sampling flights from 30° N to 85° N during short 
+periods when interruptions of flight schedules occur and to what extent 
+clouds from small shots would overpass routine flight lines.
+Taking everything into consideration, it is believed that for tests in the 
+USSR between the surface and 50,000 feet there will be a substantial con­
+tribution to the acoustic component by the nuclear detection component. 
+A combined acoustic and nuclear detection capability, which is believed 
+to be the determining factor in the low yield range, is shown in Table III.
+Table III
+Overall Detection and Identification Capability for Airbursts 
+between the Surface and 50,000 feet
+Detection 
+Coefficient
+Overall Acoustic 
+(KT)
+Acoustic plus 
+Nuclear (KT)
+Excellent (90–100%)
+≥15
+≥10
+Good (60–90%)
+10–14
+5–10
+Fair (30–60%)
+5–9
+3–5
+Poor (0–30%)
+<5
+<3
+The limited capability for seismic and electromagnetic techniques to 
+contribute in the low yield air burst range does not permit any quanti­
+tative evaluation of the small contributions which they may make. Both 
+techniques are limited, however, in any case to small tests conducted on 
+or near the surface as indicated above and to some large yield tests at 
+moderate heights of burst. There is the possibility mentioned in para­
+graph 1c of some assistance from the electromagnetic component on 
+surface or low air bursts.
+b. Subsurface Tests. It is assumed that a clandestine subsurface test 
+by the USSR will be conducted in such a way that no radioactive debris 
+will be cast into the atmosphere, that the shot will be sufficiently tamped 
+to prevent any energy appearing in acoustic waves and, of course, that 
+there will be no electromagnetic radiation. The seismic component of 
+the Long Range Detection System will then be the sole component 
+responsible for the detection of such a test.

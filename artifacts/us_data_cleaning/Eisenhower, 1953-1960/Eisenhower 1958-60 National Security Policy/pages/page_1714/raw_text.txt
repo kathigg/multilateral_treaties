@@ -1,0 +1,43 @@
+Arms Control and Disarmament  1609
+d. It is somewhat remarkable that the shock predicted by our the­
+ory is about 30 times less than earth shock observed from air explosions 
+of the same yield. This paradox should be cleared up.
+7. Construction of Cavity. A hole of one million cubic meters would 
+be required to contain an explosion of about 7 kilotons at 50 atmo­
+spheres pressure. One method of obtaining a hole of this size, which 
+has been looked into in a preliminary manner, is to wash it out in a 
+large salt dome. Salt is believed to have the required properties of high 
+strength and freedom from cracks. In addition, there is some experience 
+with excavating large holes in salt by dissolving out the solid material. 
+The principal problem is to locate a salt dome near an adequate supply 
+of water. (This can be sea water.)
+An estimate of the cost of excavating such a cavity on an urgent 
+time scale was made in another connection. It was estimated that it 
+would require 6 months to a year to do the excavation and would cost 
+between 4 and 7 million dollars so that the cost is about a million dol­
+lars per kiloton if the pressure has to be held to 50 atmospheres. It is 
+probably possible to reduce the cost by increasing the time required, 
+and a much more thorough investigation should be made to establish 
+more accurate costs.
+It may be possible to use ice instead of salt for the containing 
+media. This possibility should be investigated since it would increase 
+the availability of sites and may decrease the cost.
+8. Test Requirements. Because of the potential effect on the capa­
+bility of a detection system, the Panel recommends an immediate 
+experimental and theoretical program to evaluate quantitatively the 
+possible decoupling by means of a properly designed cavity. The pro­
+gram should include an extensive series of HE tests leading up to 
+full-­scale nuclear shots. The HE tests should be closely coordinated 
+with theoretical predictions to provide valuable information for the 
+design of a nuclear test. Final verification that all of the conditions for 
+decoupling are satisfied will undoubtedly require full-­scale nuclear 
+shots.
+9. Other Methods. The Panel has briefly considered a variety of 
+additional concealment methods. These included: the use of noise 
+cover from large earthquakes, from after shock sequences, from arti­
+ficial explosions, from volcanic explosion, and from local meteoro­
+logical conditions; the location of test sites to take advantage of such 
+noise cover and to minimize the effectiveness of the control net; the 
+introduction of confusing signals into the network by an explosion 
+pattern; the effect of geologic structures on wave propagation; the 
+possible effects of the surface reflection from flat and curved surfaces

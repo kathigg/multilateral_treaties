@@ -1,0 +1,56 @@
+Arms Control and Disarmament  1275
+Table IV
+Seismic Detection* Capability for Low Yield Subsurface Nuclear Tests
+Detection Coefficient
+YIELD (KT)
+Summer
+Winter
+Excellent
+90–100%
+4
+8
+Good
+60–90%
+3
+6
+Fair
+30–60%
+2
+4
+Poor
+0–30%
+1
+2
+* Detection but not identification as nuclear in nature. [Footnote is in the 
+­original.]
+c. High Altitude Tests. The Long Range Detection System has no 
+evidence to date that the Soviets have tested a nuclear weapon at 
+extremely high altitudes. U.S. tests conducted so far have been limited 
+to altitudes below 50,000 feet (HA, 37,000 ft). Theoretical investigations 
+of the effects of very high altitude tests (100,000 to 250,000 ft) have been 
+made by Professor Hans A. Bethe and others in recent months. These 
+studies indicate many very interesting and unusual phenomena which 
+will be discussed in detail by Professor Bethe in another paper.
+Of the four existing detection techniques, only the acoustic and elec­
+tromagnetic techniques appear to offer promise for the detection of very 
+high altitude tests and these are debatable in the light of present knowl­
+edge. It is believed that adequate detection of high altitude tests will 
+involve development of new or improved detection techniques follow­
+ing experimental high altitude tests at HARDTACK involving new influ­
+ence fields, i.e., optical, magnetic, etc., as well as possible modification 
+of existing acoustic, seismic and electromagnetic surveillance methods.
+d. Nuclear Tests Conducted in Remote Geographical Locations. The 
+AFOAT–1 Long Range Detection System is deployed around the USSR as 
+the primary target. It therefore has very great limitations for shot points 
+in such remote geographical locations as the Antarctic, South Pacific and 
+Indian Ocean areas. It is believed possible that shots of several hundred 
+kilotons and possibly even a megaton could be detonated in these areas 
+far from the present acoustic stations without fear of detection by acous­
+tic means. British tests in Australia at points only 20°–30° S produced no 
+nuclear, no seismic, no electromagnetic and, in six shots out of twelve 
+tests, no acoustic data although advance notification of time and place 
+of the test was provided by the U.K. Six tests did excite one and in two 
+cases two acoustic stations but detection even in these cases was cer­
+tainly greatly assisted by advance knowledge of U.K. intentions.
+The seismic capability suffers very seriously from core shadow 
+for shots detonated in these remote areas. Over 60% of the Southern

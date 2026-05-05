@@ -1,0 +1,45 @@
+Arms Control and Disarmament  1303
+arrival time measurements in the rock, analagous to the fireball meas­
+urements above ground. This was done on Rainier and appears to be 
+accurate to 10% even without a calibration. The radius of the radioac­
+tive debris or the amount of material melted might also be used if the 
+medium is calibrated by a shot of known yield. The prompt diagnostics 
+such as neutron and gamma ray measurements to give time interval or 
+propagation burning data, streak camera work, etc., can be done better 
+below than above ground since the shielding is free and one need only 
+drill holes as desired. Radiochemistry has not been demonstrated to be 
+satisfactory, since fractionation does occur. However, the use of hollow 
+pipes leading into reception chambers from the device may give a sub­
+stantial fraction of debris unfractionated, and may lead to satisfactory 
+radiochemical diagnostics.
+Preliminary estimates indicate that a test operation can be carried 
+out more cheaply underground than on towers and balloons. The diag­
+nostic stations could also be underground for clandestine tests (in fact 
+they probably will be even if the tests are not hidden). Keeping under­
+ground tests secret will increase the costs by preventing the use of a 
+single diagnostic bunker for many shots on the basis that more than one 
+in a given vicinity increases suspicion and the possibility of proving a 
+violation. It may mean that each shot must be in a completely different 
+area, but this conclusion may be modified to some extent, because also 
+natural earthquakes have aftershocks. In any event, such extra costs are 
+associated with clandestine tests generally rather than underground 
+tests specifically and are not likely to be more than a few million per 
+shot, which is not a large percentage increase.
+IV. Dependence of Seismic Signal on Yield and Medium
+On the basis of observations, it is believed that the amplitude 
+of the earth motion from an underground explosion increases as the 
+1.2-­power of the energy released. This scaling law is obtained on the 
+basis of explosions of conventional explosives underground (quarry 
+blasts). The law is somewhat surprising; theoretically one would expect 
+that the seismic amplitude would go as the square root of the energy 
+release. The empirical law has been used in Appendix A to predict the 
+frequency of earthquakes in the USSR which might be confused with 
+subsurface shots of various yields. The empirical law clearly gives more 
+larger results for the seismic signal to be expected from shots of larger 
+yield than Rainier than the “theoretical expectation” would give.
+The empirical law indicates that a larger fraction of the energy 
+release goes into seismic waves at higher yield. This effect certainly 
+must stop at some point; at about 100 kilotons the entire energy would 
+be converted into seismic energy if the 1.2-­power law held up to that 
+yield. Experiments are urgently needed to establish the actual relation 
+between yield and seismic signal. These should be carried out with

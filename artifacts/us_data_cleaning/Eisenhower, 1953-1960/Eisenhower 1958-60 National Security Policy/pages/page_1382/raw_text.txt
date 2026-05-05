@@ -1,0 +1,45 @@
+Arms Control and Disarmament  1277
+3. A SYSTEM FOR DETECTION AND IDENTIFICATION OF 
+CLANDESTINE NUCLEAR TESTS WITHIN THE USSR.
+This section will discuss a Long Range Detection System within 
+the USSR and China designed to meet the following requirements: (1) 
+The detection and identification of tests as small as 1 KT between the 
+surface and 50 kilofeet, and (2) Detection of underground explosions, 
+and possibly their identification, in a yield range of 1 KT and above.
+a. Seismic Net. In considering the deployment of seismic stations 
+within the USSR to give 90% capability of detecting tests of 1 KT or 
+larger, three problems of major magnitude appear:
+(1) The band of low signal level between 500 and 1100 miles from 
+the source.
+(2) The high microseismic noise level expected at stations in aver­
+age localities.
+(3) The frequency of earthquakes of yield equivalent to 1 to 5 KT 
+which because of small signal amplitudes are the most difficult to identify.
+As a result of the loss in signal level between 500 and 1100 miles, 
+it is expected that signals from a one kiloton explosion in this distance 
+range will be smaller than the prevailing microseismic noise. It is to 
+be expected that the noise level at a station removed from sources 
+of cultural noise would be as high as .005 microns. An inspection of 
+Figure 6 will show that such a station would be unlikely to detect an 
+explosion at a distance greater than 400 miles. This loss in detectability 
+makes it necessary to use more elaborate techniques than are currently 
+employed at AFOAT–1 stations in order to detect 1 KT without cov­
+ering the USSR and China with an inordinately large number of sta­
+tions. It is believed possible to obtain an improvement in detectability 
+of about a factor of four at individual seismic stations by employing 
+arrays of about 20 seismometers at each station. A spacing between 
+the seismometers can be chosen which should result in considerable 
+cancellation of microseismic noise without appreciable degradation of 
+signals of interest. The seismometers would be distributed approxi­
+mately uniformly over an area of about six square kilometers. With the 
+signal-­to-­noise improvement of about four to one, it may be seen from 
+Figure 6 that signals of the order of three millimicrons would be detect­
+able between 0 and 500 miles and again between 1100 and 2000 miles.
+In addition, it is believed that ultra-­long period seismometers (par. 
+2c(1)) under study may add considerably to the detection of long period 
+surface waves from small subsurface tests. To date, long period surface 
+waves were observed on Wigwam but not on Rainier. However, these 
+instruments would be included in addition to the improved arrays of the 
+present instruments to supplement detection at ranges possibly unfavor­
+able to the present equipment mentioned above if future tests confirm 
+the existence of long period surface waves from small subsurface tests.

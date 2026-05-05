@@ -1,0 +1,43 @@
+Arms Control and Disarmament  1605
+444.	 Memorandum From Berkner to Killian1
+March 24, 1959
+SUBJECT
+Concealment of Underground Explosions
+The Panel on Seismic Improvement, appointed by the Chairman 
+of the President’s Science Advisory Committee, considered the general 
+problem of the concealment of underground nuclear tests at its meeting 
+on 5 and 6 March 1959. The Panel reviewed various proposed methods 
+of concealing underground nuclear tests. The Panel concluded that, on 
+the basis of present knowledge, the most promising approach was the 
+method of reducing the distant seismic signal from an underground 
+explosion by suitable design of the shot chamber. The Panel, therefore, 
+examined this proposal in detail.
+The enclosed report by the Panel, “Certain Aspects of the Con­
+cealment of Underground Explosions,” summarizes the preliminary 
+theoretical analysis of this particular method as well as the possible 
+limitations and deficiencies of the theory. On the basis of this prelim­
+inary theoretical analysis, available experimental information, and 
+other practical considerations, the Panel arrived at the following gen­
+eral conclusion on concealment which was included as paragraph 4 (f) 
+in the summary report of the Panel’s findings, “Report of the Panel on 
+Seismic Improvement,” dated March 16, 1959:
+“In considering the problem of concealment, the PSI has exam­
+ined the possibilities of reducing the magnitude of the seismic sig­
+nal from a nuclear explosion by means of suitable design of the shot 
+chamber. The PSI concludes that it would be possible by this tech­
+nique to reduce the seismic signal by a factor of ten or more. The seis­
+mic signal from one Hardtack II shot (Evans) was ten times less than 
+that from another shot (Tamalpais) of approximately the same yield 
+although no attempt was made to reduce the signal. Moreover, pre­
+liminary theoretical studies have shown that it is possible in princi­
+ple by this technique to reduce the seismic signal from a given yield 
+by a much greater factor than this. In view of the many complexities 
+involved, it is necessary that this theory be tested with appropriately 
+designed experiments to determine how large a decoupling factor 
+can actually be realized in practice. While many of these tests can be 
+carried out with high explosives, complete evaluation of the theory 
+probably cannot be made without nuclear explosions. All possible 
+seismic instrumentation should be employed in connection with such 
+1 Source: Transmits report on concealment of underground explosions. Secret. 7 pp. 
+Eisenhower Library, White House Office Files, Additional Records of the Office of the 
+Special Assistant for Science and Technology, Disarmament-­Nuclear Policy.

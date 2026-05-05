@@ -1,0 +1,38 @@
+1274  Foreign Relations, 1958–1960, Volume III, Supplement
+underground tests. Large earthquakes produce disturbances which per­
+sist for many hours and are often accompanied by aftershocks on several 
+succeeding days which individually persist for many minutes. Natural 
+seismicity of the earth varies considerably from one point to another 
+within the USSR. (See Figure 9.) Natural seismicity is, in general, higher 
+to the south near the Himalayas and along the eastern coast.
+The transmission characteristics of the earth for seismic waves var­
+ies considerably with the distance between the source and the seismic 
+observatory. (See Figure 6.) It will be noted that a distinct loss of sensi­
+tivity occurs at distances between 500 and 1100 miles from the source. 
+A second band of loss in sensitivity occurs between 2000 and 2700 miles 
+from the source. Since all the stations of the existing network are beyond 
+1000 miles from known Soviet test sites, the seismic detection capabil­
+ity for the existing system is not affected by insensitivity in this range. 
+However, the region of loss in sensitivity at 2000–2700 miles does affect 
+the seismic capability for detecting low yield subsurface shots with the 
+existing network of stations. The reason for the loss in sensitivity in the 
+range of 2000 to 2700 miles is believed to result from a rapid change in 
+the physical characteristics of the mantle at approximately 1200 kilome­
+ters depth which results in a dispersion of seismic energy at the surface 
+for this particular range from the source.
+The effect of the transmission characteristics of seismic waves as 
+a function of distance on detection by existing stations is shown in a 
+map of the USSR in Figure 7. The areas of poor detection for surface 
+tests resulting from this effect are cross hatched. Subsurface bursts in 
+these areas will also be the most difficult to detect with the present net­
+work. A reasonable estimate of yield for subsurface shots which would 
+be detected in these areas is obtained by dividing the yield for surface 
+tests by a factor of 25 for summertime conditions and by 12-1/2 for 
+wintertime. Thus, general statements about seismic detection capabil­
+ity cannot be applied uniformly to the entire Soviet-­dominated area. 
+However, for tests within approximately 90–95% of the area some gen­
+eral estimate can be made. Taking all the above factors into consider­
+ation, it is believed that the present seismic detection capability is as 
+indicated in Table IV. The capability indicated in Table IV applies to the 
+clear areas in Figure 7. In the cross hatched areas, however, subsurface 
+tests of 10–15 KT might escape detection by the present network.
