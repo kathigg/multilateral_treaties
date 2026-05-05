@@ -1,0 +1,35 @@
+3 8 3 6/
+8 S/800 8
+January–June 1978
+377
+spectrum analyzers, and preamp power supply. First priority will be to
+determine bandwidth of system.
+7. Test procedures suggested in para 4 of reftel will be carried out
+to extent possible.
+8. Extensive photographic documentation is being maintained.
+9. Per para 7 of reftel, access at seven level and Soviet change room
+will be preserved.
+10. MUTS monitoring continues as before. No changes in time of
+activity or general spectral shape has been observed.
+11. Per para 10 of reftel:
+(A) General appearance of antenna indicates recent (past year or
+so) installation. General appearance of machinery and electronics at
+bottom of shaft indicates much older installation. Grill installed at top
+of chimney also appears to be of recent vintage. Please note that close
+visual inspection of antenna or grill would require disturbing antenna.
+(B) Antenna can be hoisted several feet above south wing roof
+level. Confirmation of this fact will require actual movement of
+antenna.
+(C) As very rough estimate:
+(1) front element is 4 foot long.
+(2) middle element is 5 foot long.
+(3) end element is 6 foot long.
+(4) element spacing is 18 inches and 24 inches reading front to
+back.
+12. When can we expect arrival of analysis group? Unless specifi-
+cally directed otherwise we will undertake no task that has the slightest
+chance of changing antenna position or orientation or damaging elec-
+tronics. All technicians concur that we have seized a device in current
+operational configuration and recommend against any measures that
+would alter this configuration.
+Matlock

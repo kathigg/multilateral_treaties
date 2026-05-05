@@ -1,0 +1,51 @@
+3 8 3 6/
+8 S/800 8
+January–June 1978
+361
+1. Penetration appears to be limited to an antenna located in the
+south wing chimney that can be lowered or raised by a pulley system at
+the bottom of the chimney shaft. Listening post reported in para 2 of
+reftel B appears now to be a two way communications link between the
+antenna operator and monitoring site. Detailed inspection of line box
+and connections will be needed to verify this hypothesis. Only the four
+cables reported in reftel C, para 2, are in American territory.
+2. Per para three of reftel D, voltage and audio checks were per-
+formed on the four cables which service the chimney.
+A. The Uher microphone was found to be passing audio. The cable
+was cut at this time. DC and AC voltages were found on the mike cable.
+B. The antenna cable was spliced without breaking the conductor
+paths to the antenna and a DC voltmeter was applied. At 0705 hours,
+plus 12 VDC and 25 VAC power was applied from the opposition end
+of the cable. At 0715, the voltage fell to zero, at 0733 12 VDC returned,
+0743 off again, and at 0855 on again until we cut the cable at 1304 hours.
+Several frequency scans were conducted from 20–1000 megacycles
+while voltage was applied and before the cable was severed.
+C. Cables three and four were also checked for voltage and impe-
+dence data. The smaller of the two cables registered 1000 ohms of im-
+pedence for the section leading back to the chimney and an open circuit
+for the oppositions cable end. The larger cable also read an open circuit
+for the oppositions segment of cable and one ohm for the chimney
+section.
+3. Significant events in chronological order which occurred Friday:
+0600–0700 — Cable voltage and impedance measurements
+conducted.
+0640
+— First char force personnel was refused permission
+to enter south wing char force change room.
+0710–0855 — B plus applied repeatedly by opposition to the an-
+tenna cable.
+0855–1205 — B plus remained steady.
+1015–1205 — Frequency spectrum scans of antenna cable
+conducted.
+1240
+— Pounding sounds emanating from opposition end
+of tunnel.
+1245
+— Light coming from opposite end of tunnel first
+observed.
+1255
+— Visual sighting occurred approximately halfway
+down tunnel between resident Seabee and
+opposition.
+1305
+— Antenna cable cut to pressure antenna electronics.

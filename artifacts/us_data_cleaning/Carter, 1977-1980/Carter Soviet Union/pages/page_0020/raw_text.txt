@@ -1,0 +1,53 @@
+339 3 0/
+8 S/800 8
+Abbreviations and Terms
+XIX
+SAG, Saudi Arabian Government
+SALT, Strategic Arms Limitation Talks
+SAR, South African Republic
+SAWG, Special Actions Working Group
+SC, Security Council (United Nations)
+SCC, Special Coordination Committee
+SEPTEL, separate telegram
+SFRC, Senate Foreign Relations Committee
+SHAPE, Supreme Headquarters Allied Powers, Europe
+SIGINT, signals intelligence
+SLCM, surfaced-launched cruise missile; submarine-launched cruise missile; and
+sea-launched cruise missile
+SMUN, Soviet Mission at the United Nations
+SNDV, strategic nuclear delivery vehicle
+SPECAT, special category message
+SRV, Socialist Republic of Vietnam
+SSCI, Senate Select Committee on Intelligence
+SSOD, Special Session on Disarmament
+SU, Soviet Union
+SW, Office of Scientific and Weapons Research, Central Intelligence Agency
+SWAPO, South West Africa People’s Organization
+SY, Office of Security Affairs, Department of State
+TASS, official Soviet news agency
+TNF, theater nuclear forces
+TSO, Technical Security Officer
+T.V., television
+UK, United Kingdom
+UN, United Nations
+UNK, unknown
+U.S., United States
+U.S.A., United States of America
+USAF, United States Air Force
+USDA, United States Department of Agriculture
+USDELMC, United States Delegation to the NATO Military Committee
+USEUCOM, United States European Command
+USG, United States Government
+USIB, United States Intelligence Board
+USLOSACLANT, United States Liaison Officer Supreme Allied Command, Atlantic
+USNATO, United States Mission at the North Atlantic Treaty Organization
+USNMR, United States National Military Representative
+USOC, United States Olympic Committee
+USSR, Union of Soviet Socialist Republics
+USUN, United States Mission at the United Nations
+VAC, volts of alternating current
+VDC, volts of direct current
+VOA, Voice of America
+WH, White House
+YAR, Yemen Arab Republic
+Z, Zulu Time Zone (Greenwich Mean Time)

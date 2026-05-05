@@ -1,0 +1,33 @@
+{
+  "source_pdf": "/usa/kathigg/multilateral_treaties/us_data/Bush, 1989-1992/Bush start.pdf",
+  "relative_path": "Bush, 1989-1992/Bush start.pdf",
+  "output_dir": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Bush, 1989-1992/Bush start",
+  "status": "completed",
+  "started_at": "2026-04-28T18:31:29+00:00",
+  "completed_at": "2026-04-28T18:34:20+00:00",
+  "duration_seconds": 171.47,
+  "page_count": 1223,
+  "processed_pages": 1223,
+  "failed_page_count": 0,
+  "page_method_counts": {
+    "embedded_text": 1218,
+    "ocr": 5
+  },
+  "mean_ocr_confidence": null,
+  "failed_pages": [],
+  "document_cleaning_summary": {
+    "line_counts": {
+      "keep": 48691,
+      "table": 2055,
+      "blank": 1320,
+      "noise": 51,
+      "page_header": 1
+    },
+    "kept_nonblank_lines": 48691
+  },
+  "output_files": {
+    "raw_text": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Bush, 1989-1992/Bush start/raw_text.txt",
+    "clean_text": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Bush, 1989-1992/Bush start/clean_text.txt",
+    "prose_text": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Bush, 1989-1992/Bush start/prose_text.txt"
+  }
+}

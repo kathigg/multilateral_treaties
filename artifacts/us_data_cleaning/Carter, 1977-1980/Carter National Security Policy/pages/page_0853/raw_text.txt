@@ -1,0 +1,39 @@
+828  Foreign Relations, 1977–1980, Volume IV
+spuriously began introducing random 2’s into the output message. The 
+result was a display of false missile warning data at the command cen-
+ters other than NORAD.
+—Although after the June 3rd incident an automatic interrupt was 
+installed in an attempt to prevent transmission of spurious data, it did 
+not prevent the June 6th recurrence; consequently, NORAD is now 
+using its back-­up computer system to avoid the use of the minicom-
+puter altogether. This is an appropriate temporary expedient, but we 
+need to take much more extensive actions than that.
+WHAT CORRECTIVE ACTIONS ARE BEING TAKEN?
+—A team including members of my staff and the OJCS spent June 
+5th at SAC and NORAD reviewing the incident. The source of the tech-
+nical problems was verified and the conduct of operations during the 
+incident was reviewed.
+—NORAD has been instructed to use a different computer, the 
+Mission Essential Backup Computer, as their primary computer. This 
+computer uses completely different hardware and software from the 
+system which caused the problem. All of the command centers will 
+receive the same information in this mode of operation. NORAD will 
+have the key displays necessary for its mission; however, some of the 
+displays that they use to assist them in detailed attack assessment will 
+not be available.
+—All command centers involved in missile attack warning now 
+have special voice circuits continuously operating, over which we 
+quickly identify false displays.
+—A special task force has been organized to review in detail the 
+computer and communications systems at NORAD. This team consists 
+of national experts in large scale computer systems. Their objective will 
+be to identify the problems with the present system and recommend 
+corrections and improvements. The task force will have its first meeting 
+next Wednesday and Thursday4 at NORAD.
+—The JCS is conducting a review of missile warning opera-
+tional procedures and the CINCNORAD is conducting an internal 
+investigation.
+—In parallel I will have my staff conduct a comprehensive review 
+of the entire surveillance and warning system to determine if any basic 
+changes are needed in order to fulfill its mission.
+4 June 11 and June 12.

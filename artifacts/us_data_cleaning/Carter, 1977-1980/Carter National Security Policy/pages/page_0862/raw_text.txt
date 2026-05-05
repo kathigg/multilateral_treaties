@@ -1,0 +1,37 @@
+1980  837
+• The incidents on June 3 and June 6 were caused by errors gen-
+erated in a NORAD communications device (minicomputer), which 
+resulted in false indications of a missile attack. The minicomputer is 
+used to transmit data from NORAD’s main computer to other com-
+mand centers. NORAD’s main computer receives warning data from 
+sensors such as satellites and radar, which actually monitor missile 
+launches and flights. The sensors themselves never registered a missile 
+attack, nor did the main computer indicate an attack. Consequently, the 
+false indication was recognized by the appropriate people in the mili-
+tary command centers within 2–3 minutes. (U)
+• Our response during both incidents was in accordance with 
+planned procedures. What occurred were the initial precautionary 
+measures to prevent our bombers and command aircraft from being 
+trapped on the ground—­measures which do not represent even the 
+beginning of a retaliatory attack. Within the first two minutes, SAC 
+alerted its aircraft crews as a precautionary measure and instructed 
+them to start their engines. This procedure is frequently practiced as 
+part of our training. Nothing irreversible was done in our response to 
+the false warning. (U)
+• Although we believe the immediate cause of these incidents has 
+been isolated to a particular device, the Department of Defense has 
+assembled a task force of highly respected computer systems and com-
+munications experts to conduct a thorough examination of our NORAD 
+attack warning system. (U)
+195.	 Memorandum From Secretary of Defense Brown to 
+President Carter1
+Washington, June 15, 1980
+SUBJECT
+Update on M–X (U)
+I have recently informed you of several changes we have made 
+in the detailed engineering design of the M–X basing arrangement,2 
+while remaining well within the scope of the basing decision you made 
+1 Source: Carter Library, National Security Affairs, Staff Material, Defense/Security, 
+Welch, Box 208, Chron: 6/17–30/80. Secret. Enclosures 1 and 2 were not found attached.
+2 In the margin to the right of this clause, Carter wrote a question mark and drew 
+an arrow inward.

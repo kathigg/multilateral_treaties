@@ -1,0 +1,32 @@
+{
+  "source_pdf": "/usa/kathigg/multilateral_treaties/us_data/Eisenhower, 1953-1960/Eisenhower 1952-54 Iran.pdf",
+  "relative_path": "Eisenhower, 1953-1960/Eisenhower 1952-54 Iran.pdf",
+  "output_dir": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Eisenhower, 1953-1960/Eisenhower 1952-54 Iran",
+  "status": "completed",
+  "started_at": "2026-05-05T17:35:46+00:00",
+  "completed_at": "2026-05-05T17:36:56+00:00",
+  "duration_seconds": 69.94,
+  "page_count": 1013,
+  "processed_pages": 1013,
+  "failed_page_count": 0,
+  "page_method_counts": {
+    "embedded_text": 1007,
+    "ocr": 6
+  },
+  "mean_ocr_confidence": null,
+  "failed_pages": [],
+  "document_cleaning_summary": {
+    "line_counts": {
+      "keep": 41045,
+      "table": 2185,
+      "blank": 1006,
+      "noise": 29
+    },
+    "kept_nonblank_lines": 41045
+  },
+  "output_files": {
+    "raw_text": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Eisenhower, 1953-1960/Eisenhower 1952-54 Iran/raw_text.txt",
+    "clean_text": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Eisenhower, 1953-1960/Eisenhower 1952-54 Iran/clean_text.txt",
+    "prose_text": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Eisenhower, 1953-1960/Eisenhower 1952-54 Iran/prose_text.txt"
+  }
+}

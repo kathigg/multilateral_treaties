@@ -1,0 +1,18 @@
+{
+  "page_number": 376,
+  "source_method": "ocr",
+  "lang": "eng",
+  "psm": 4,
+  "oem": 1,
+  "upscale": 2.0,
+  "render_dpi": 300,
+  "raw_char_count": 8,
+  "clean_char_count": 8,
+  "prose_char_count": 8,
+  "ocr_stats": {
+    "mean_confidence": 90.5,
+    "low_confidence_ratio": 0.0,
+    "word_count": 2,
+    "low_confidence_word_count": 0
+  }
+}

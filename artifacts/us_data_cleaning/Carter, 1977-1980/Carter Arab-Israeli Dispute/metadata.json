@@ -1,0 +1,33 @@
+{
+  "source_pdf": "/usa/kathigg/multilateral_treaties/us_data/Carter, 1977-1980/Carter Arab-Israeli Dispute.pdf",
+  "relative_path": "Carter, 1977-1980/Carter Arab-Israeli Dispute.pdf",
+  "output_dir": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Carter, 1977-1980/Carter Arab-Israeli Dispute",
+  "status": "completed",
+  "started_at": "2026-04-28T18:38:23+00:00",
+  "completed_at": "2026-04-28T18:43:52+00:00",
+  "duration_seconds": 328.52,
+  "page_count": 1451,
+  "processed_pages": 1451,
+  "failed_page_count": 0,
+  "page_method_counts": {
+    "embedded_text": 1448,
+    "ocr": 3
+  },
+  "mean_ocr_confidence": null,
+  "failed_pages": [],
+  "document_cleaning_summary": {
+    "line_counts": {
+      "keep": 60223,
+      "table": 3817,
+      "blank": 1447,
+      "noise": 69,
+      "page_header": 1
+    },
+    "kept_nonblank_lines": 60223
+  },
+  "output_files": {
+    "raw_text": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Carter, 1977-1980/Carter Arab-Israeli Dispute/raw_text.txt",
+    "clean_text": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Carter, 1977-1980/Carter Arab-Israeli Dispute/clean_text.txt",
+    "prose_text": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Carter, 1977-1980/Carter Arab-Israeli Dispute/prose_text.txt"
+  }
+}

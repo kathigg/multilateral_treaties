@@ -1,0 +1,44 @@
+1980  823
+telecommunications and information vulnerability surveys in the Fed-
+eral civil sector and had three more in progress. Each survey performed 
+by NTIA documents specific findings and offers NTIA’s recommenda-
+tions for corrective action. The eight survey projects involved a range of 
+Federal civil governmental activities including agencies specializing in 
+socioeconomic matters, transportation, scientific matters, law enforce-
+ment, a regulatory agency, and an organization involved with national 
+financial activities. Each was an in-­depth study of agency telecommuni-
+cations resources and included interviews with operations, telecommu-
+nications, and management personnel. Agencies who have participated 
+in this project have given NTIA “high marks” for their thoroughness, 
+professionalism and excellence of the survey findings and recommen-
+dations. (U)
+PROGRAM OVERVIEW
+DUCKPINS continues to be our most potent countermeasure with 
+a limited in-­place bulk encryption effort trailing behind. NSA’s bulk 
+protection technology development progresses slowly due to a variety 
+of national network problems which must be overcome. Lack of secure 
+voice terminals continues to hamper fulfilling our end-­to-­end voice 
+security and protection requirements. Overall progress toward imple-
+menting “fixes” to deny the Soviets information or access to informa-
+tion has been undeniably slow. This has been due in part to technology 
+problems and in part to an inability to identify information requiring 
+protection. (S)
+As previously reported the difficulty of defining or accurately 
+determining what unclassified information is, or may be useful to a for-
+eign adversary or whether it is, or is not national security related con-
+tinues to plague us and obscure executive agent responsibilities. This 
+situation is further compounded by the recognition that classes and 
+categories of information can be, and in many instances, are “moving 
+targets.” That is, information can rapidly gravitate from one category 
+to another for a host of reasons depending upon national or interna-
+tional conditions. One thing is clear, however, only the originator of the 
+information operating within departmental guidelines can legitimately 
+decide whether his or her information should be protected from inter-
+ception while in transmission. (U)
+The briefing programs by both Executive Agents are notewor-
+thy and continued without abatement. Similarly the information 
+vulnerability studies being done by the NTIA have been extremely 
+successful. All department and agencies should avail themselves of 
+this service. (U)
+After discussions with the Director, NSA and Administrator, NTIA, 
+an Implementation Decision Paper was issued in late 1979 in an attempt

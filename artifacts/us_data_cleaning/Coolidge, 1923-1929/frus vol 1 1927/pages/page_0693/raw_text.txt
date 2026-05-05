@@ -1,0 +1,30 @@
+§1. (1) So far as international communications between fixed
+stations are concerned, each contracting Government reserves
+entire freedom with relation to the organization of the service and
+the determination of the correspondence to be exchanged by the
+stations carrying on these communications.
+(2) When, however, these fixed stations carry on an international
+service of public correspondence, either from country to country
+or with stations in the mobile service, they must conform,
+respectively, for each of these two classes of communications, to
+the provisions of the present Convention and of the Regulations
+annexed thereto.
+§2. With regard to communications between stations participating
+in the mobile service, stations carrying on such communications
+must, within the limits of their normal operations, exchange
+radiotelegrams reciprocally without regard to the radio system
+adopted by them.
+§3. In order not to impede scientific progress, however, the
+provisions of the preceding paragraph shall not prevent the
+eventual use of a radio system incapable of communicating with
+other systems, provided that this incapacity be due to the specific
+nature of that system and it be not the result of devices adopted
+solely for the purpose of preventing intercommunication.
+ARTICLE 4—Limited service
+Notwithstanding the provisions of Article 3, a radio communication station
+may be assigned to a limited international service of public correspondence
+determined by the purpose of the correspondence or by other circumstances
+independent of the system employed.
+ARTICLE 5—Secrecy of correspondence. False or deceptive signals
+The contracting Governments agree to take or to propose to their respective
+legislatures the necessary measures to prevent:

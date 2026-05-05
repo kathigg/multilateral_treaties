@@ -1,0 +1,44 @@
+860  Foreign Relations, 1977–1980, Volume IV
+proceeding to improve the automatic error-­detection and correction 
+capabilities of the NORAD data communications system. Specifically, 
+NORAD will:
+—­put monitor devices on output lines set to alarm whenever a 
+warning message (whether valid or not) is being sent so as to speed 
+confidence checking
+—­improve the error-­detection routines throughout its computer 
+and data communications system
+—­make continuous and comprehensive records of system perfor-
+mance to be used to improve its troubleshooting capability
+—­analyze its computers and communications equipment to find 
+(and fix) other places where a single failure could produce a false mis-
+sile attack indication.
+Until these corrective actions are implemented (about 60 days) 
+NORAD will operate primarily on the [less than 1 line not declassified] 
+completely bypassing the equipment that caused the recent incidents. 
+The Joint Chiefs of Staff (JCS) have assessed that this temporary mode 
+of operations can be tolerated, although it does have certain operational 
+limitations, notably [1 line not declassified] The JCS-­directed procedural 
+changes to [3 lines not declassified] (S)
+Congressional Reaction (U)
+The Chairmen of the Armed Services and Appropriations Com-
+mittees of both Houses of Congress were notified of the false alerts less 
+than 24 hours after they occurred. Congressional interest has remained 
+high ever since. We have briefed the House Armed Services Commit-
+tee and several Senators individually, and we continue to respond to 
+many letters on the subject from members of Congress. Congress seems 
+to have been mostly reassured by our explanations, but continues to 
+express concern about [9 lines not declassified]
+Press Reaction (U)
+Our approach to the news media has followed that which I out-
+lined to you in my June 13 memorandum on false missile alerts. Most 
+of the newspaper stories which appeared immediately after a June 18 
+press briefing by my Assistant Secretary for Communications, Com-
+mand, Control, and Intelligence, Gerry Dinneen, correctly reflected the 
+points in that memorandum. However, television network follow-­up 
+stories appearing June 24–26 have attempted to sensationalize (mush-
+room cloud) the incidents or to link them to unrelated matters. We con-
+tinue to receive many press inquiries and requests for interviews on the 
+subject. We will have to continue to emphasize that there is no chance 
+that any irretrievable actions would be taken based on ambiguous com-
+puter information, nor do the precautionary survivability measures in 
+any way reduce the absolute human control over nuclear weapons.

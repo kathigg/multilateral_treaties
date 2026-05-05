@@ -1,0 +1,44 @@
+Non-Proliferation
+849
+Category B: Material requiring relatively simple chemical operation
+—HEU in UF6 form (i.e. the output of enrichment plants).
+—HEU oxide or metal in unirradiated fuel elements.
+—HEU and/or Pu in nitrate form (i.e. the output of reprocessing
+plants).
+Category C:4 Material requiring more complex chemical operation
+—unseparated U-Pu nitrates (e.g. from “coprocessed” LWR fuel).
+—mixed oxide (U-Pu) fuel for LWRs (Pu less than 20%).
+Category D: Material involving complex chemical operation, in presence
+of high radioactivity levels, or involving isotopic separation (decreasing order
+of difficulty)
+—low enriched or natural uranium.
+—all irradiated fuel.
+—partially coprocessed fuel (i.e. some fission products removed).
+II. Technologies/Facilities
+The major nuclear fuel cycles are presented in Table I, and identi-
+fied by their utilization or production of the various categories of mate-
+rial. The Table reveals much useful information concerning prolifera-
+tion. For example, it indicates that only one strictly non-sensitive fuel
+cycle now exists: the heavy water natural uranium cycle (HWR) with-
+out reprocessing. It should be noted however, that the HWR has signifi-
+cant non-proliferation problems. Its core uses many more, smaller indi-
+vidual (and therefore harder to keep track of) fuel rods than an LWR,
+and it is reloaded continuously, without shutting down the reactor. On
+the other hand, an LWR must be shut down to be reloaded, and this is
+only done twice a year, after which it is sealed. The HWR is also capable
+of producing high quality weapons grade plutonium without inter-
+fering with its power production. It was a research version of this re-
+actor which produced the material for the Indian explosion.
+The other attractive fuel cycle from the proliferation viewpoint is
+the LWR without recycle. A large majority of nuclear power programs
+are based on this reactor (though not on this fuel cycle). The principle
+drawback of the LWR cycle, is of course that it requires—somewhere—
+an enrichment capability. All known enrichment processes produce a
+Category B product, except laser isotope separation which produces
+Category A.
+The decisions which arise from these technical analyses relate to
+which technologies will be included in our international program, and
+4 There is some controversy over whether Categories B and C are really different.
+The answer is not yet known. You should note that they may turn out to be essentially
+one category. However the gap between C and D is very large. [Footnote is in the
+original.]

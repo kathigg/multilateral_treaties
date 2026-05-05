@@ -1,0 +1,40 @@
+1980  815
+You asked two questions yesterday.2 We have the answer to the 
+first: are the two computer systems connected? They are, but the con-
+nection apparently did not generate analogous behavior by both. That 
+leads to your second question, what triggered the information on the 
+warning display? They do not yet know. An answer may be available 
+in a few days, but the mysteries in this incident, plus recent previous 
+incidents,3 have sufficiently disturbed Defense so that Bill Perry will 
+lead a panel of experts on a major system review that goes far beyond 
+an answer for this case alone.4 (S)
+	
+Tab A
+	
+Paper Prepared in the Department of Defense5
+Washington, June 4, 1980
+FACT SUMMARY
+Early yesterday morning a technical problem in a computer at 
+North American Air Defense Command caused some erroneous data 
+to be transmitted. As a result some displays at the National Military 
+Command Center and Strategic Air Command Headquarters indicated 
+multiple missile launches against the United States; however, other 
+information available directly from the sensor system failed to confirm 
+that any missiles had been launched. As a precaution and in accordance 
+with standard procedures, certain Strategic Air Command aircraft and 
+Command and Control aircraft were brought to a higher state of readi-
+ness. These aircraft were manned and engines started. One Command 
+and Control aircraft in the Pacific took off. There was no change in 
+overall US defense posture and, after an evaluation, all systems were 
+returned to normal.
+The cause of the computer discrepancy is under investigation. In 
+the meantime arrangements have been made to insure that at all times a 
+special secure telephone connection is in effect to provide a parallel line 
+of communication from one center to the other, permitting even more 
+prompt override, if necessary, of any false computer driven indications 
+of an attack.
+2 No other record of Carter’s questions was found.
+3 See Documents 167 and 171.
+4 Brzezinski wrote below the last paragraph: “I have asked for a fuller report for 
+you.”
+5 Secret.

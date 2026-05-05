@@ -1,0 +1,45 @@
+1979  689
+(including tanker costs). Alternative MX concepts with adequate sur-
+vivability would be even more costly (Air Mobile MX and Trench MX 
+for example), except for the vertical shelter MPS system. That would 
+cost about $27 billion (FY80$) but would not be as satisfactory a solu-
+tion either from a verification or a survivability point of view.
+(C) The costs have been carefully prepared, but with any complex 
+system projected 10 years into the future, there is bound to be uncer-
+tainty. Historically, major DoD projects have averaged 15% higher 
+than their originally estimated costs. I have taken that as a challenge 
+to prepare careful and conservative estimates in the first place and to 
+maintain tight management control during the execution phase. The 
+most critical phase in terms of cost control is the first year or two, when 
+requirements tend to balloon (“gold-­plating”) and when the contract 
+structure is established. There is already pressure to “improve” the sys-
+tem in various ways (installing radar intrusion sensors at each shelter 
+instead of each complex, e.g.) which I intend to resist. There are some 
+features which probably will ultimately be added to the system (mass 
+simulators, e.g.), but which I intend to defer until their need is clear. 
+Finally, there is the possibility that the Soviets will increase their ICBM 
+threat more than we have estimated, especially in the absence of SALT 
+or termination of SALT. In that case we would expand the MX system 
+in response and that would, of course, increase the cost. Expanding to 
+300 missiles and 6900 shelters, for example, would cost an additional 
+$8 billion.
+(C) It may also be possible to reduce costs by actions we take in 
+the engineering development phase. The shelter spacing is set conser-
+vatively at 7,000 feet. We will explore the possibility of reducing this to 
+6,000 feet with concomitant reduction in road costs. We will also inves-
+tigate the development of automated mass production techniques to 
+reduce the cost of the shelters. Finally, there is another side to the threat 
+uncertainty. We may be able to negotiate significant reductions in the 
+Soviet ICBM threat in SALT III, which would allow us to deploy fewer 
+MX missiles than planned, with a corresponding cost reduction.
+(S) A key technical-­military issue with this system is whether it 
+poses a sufficiently difficult task to the formidable Soviet counterforce 
+capability projected for the 1990’s and beyond so that our ICBM forces 
+can then be considered survivable. The system will not achieve its full 
+operational capability for 10 years. During that period we must depend 
+primarily on our SLBM and bomber/cruise missile forces for high con-
+fidence deterrence because of the possibility of a crippling surprise 
+attack on our Minuteman force. While the bombers and cruise missile 
+carriers can also be attacked at their bases by Soviet SLBMs, I believe 
+that our at-­sea SLBM force will be invulnerable to attack during this 10-­
+year period. However, we cannot count on such SLBM invulnerability

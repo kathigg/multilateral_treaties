@@ -1,0 +1,8 @@
+level	page_num	block_num	par_num	line_num	word_num	left	top	width	height	conf	text
+1	1	0	0	0	0	0	0	772	184	-1	
+2	1	1	0	0	0	26	33	722	126	-1	
+3	1	1	1	0	0	26	33	722	126	-1	
+4	1	1	1	1	0	26	33	722	126	-1	
+5	1	1	1	1	1	26	35	93	78	95	66
+5	1	1	1	1	2	147	55	193	86	96	Not
+5	1	1	1	1	3	370	33	378	126	96	printed.

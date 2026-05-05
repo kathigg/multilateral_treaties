@@ -1,0 +1,33 @@
+{
+  "source_pdf": "/usa/kathigg/multilateral_treaties/us_data/Carter, 1977-1980/Carter Iran Hostage Crisis.pdf",
+  "relative_path": "Carter, 1977-1980/Carter Iran Hostage Crisis.pdf",
+  "output_dir": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Carter, 1977-1980/Carter Iran Hostage Crisis",
+  "status": "completed",
+  "started_at": "2026-04-28T18:49:39+00:00",
+  "completed_at": "2026-04-28T18:51:07+00:00",
+  "duration_seconds": 87.94,
+  "page_count": 990,
+  "processed_pages": 990,
+  "failed_page_count": 0,
+  "page_method_counts": {
+    "embedded_text": 982,
+    "ocr": 8
+  },
+  "mean_ocr_confidence": 89.6,
+  "failed_pages": [],
+  "document_cleaning_summary": {
+    "line_counts": {
+      "keep": 39529,
+      "table": 1781,
+      "blank": 987,
+      "noise": 59,
+      "page_header": 1
+    },
+    "kept_nonblank_lines": 39529
+  },
+  "output_files": {
+    "raw_text": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Carter, 1977-1980/Carter Iran Hostage Crisis/raw_text.txt",
+    "clean_text": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Carter, 1977-1980/Carter Iran Hostage Crisis/clean_text.txt",
+    "prose_text": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Carter, 1977-1980/Carter Iran Hostage Crisis/prose_text.txt"
+  }
+}

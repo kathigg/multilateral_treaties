@@ -1,0 +1,53 @@
+1978  435
+reliable C3, and endurance, and complete independence from tactical 
+warning.
+• Air-Launched Ballistic Missile (ALBM): With this system, large 
+aircraft would carry ballistic missiles of intercontinental range. (In a 
+feasibility test of such a system, we dropped and fired a modified Min-
+uteman from a cargo aircraft some years ago, but no guidance system 
+was operative, nor was capable of doing so).
+This concept, however, is much more closely related to the ALCM-­
+carrying bomber than to an ICBM. It suffers from the bomber’s depen-
+dence on tactical warning and lack of endurance. As an alternative to 
+the ALCM, it promises only better penetration (though we do not expect 
+penetration to be a severe problem for the ALCM) and quicker reaction. 
+On the other hand, its accuracy and the number of warheads carried 
+per aircraft would be much inferior to the ALCM’s. And, of course, 
+instead of hedging against a Soviet ABM breakout (as the ALCM does), 
+it would hedge against a breakthrough in Soviet air defenses.
+• Air-Mobile ICBM: With this system, ICBMs would be trans-
+ported from airbases to dispersed launching sites, where they would 
+be unloaded, erected, and fired. Through use of short take-­off and 
+landing aircraft, the potential number of launching sites is very large. 
+The dispersion process could begin on strategic warning, though some 
+continuing movement of ICBMs between sites would be necessary to 
+defeat Soviet reconnaissance and targeting.
+This system, though similar in many respects to ICBMs as we nor-
+mally think of them, would not be completely independent of warning, 
+and it could be difficult to provide communications as secure and reli-
+able as the ICBM’s. The proper aircraft does not now exist.
+• Land-Mobile ICBM: With this system, ICBMs would be carried 
+in land vehicles, either in more-­or-­less continuous motion to prevent 
+pre-­targeting, or in a “dash on warning” mode (in which vehicles nor-
+mally kept at central bases would disperse on tactical warning, possi-
+bly to shelters randomly chosen from among a large number prepared 
+in advance). There was much interest in the ’60s in mobile versions of 
+the Minuteman, but the concept was abandoned in light of the prob-
+lems of C3, security, and—­most of all—­the prospect of public reaction to 
+the idea of so many nuclear warheads continuously circulating on the 
+roads or rails of the country. However, the land required and the speed 
+of the vehicles is subject to tradeoffs with the hardness of the vehicle, or 
+of its MAP-­like shelter.
+In comparison with ICBMs in silos or MAP, this system would suf-
+fer in terms of reliance on tactical warning, or in terms of C3 for versions 
+relying purely on mobility rather than random shelters.
+• Coastal Submersibles: This concept postulates very small (350-­
+ton), inexpensive submarines, each armed with a pair of encapsulated 
+MX missiles, and manned by a crew of 12. They would operate on the 
+coastal shelf, with communications via a redundant grid of fiber-­optics 
+cables on the ocean floor. The submarine would be connected to plug-­in 
+terminals in the grid through an umbilical.
+If feasible, this system would probably be further off in the future 
+than any of the other novel basing schemes. Its potential advantage 
+would be lower cost; the likely disadvantage, even if feasible, is vul-
+nerability. Aside from its vulnerability to Soviet trawlers—­tearing up

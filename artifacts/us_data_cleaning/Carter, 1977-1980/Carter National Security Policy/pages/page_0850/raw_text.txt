@@ -1,0 +1,35 @@
+1980  825
+—Develop a program to facilitate procurement and distribution of 
+all appropriate department and agency secure voice equipment (STU 
+II) which may permit the government to take advantage of large order 
+procurements and resulting economies of scale. (C)
+—Initiate procurement actions for commercial cryptographic sys-
+tems to replace CY–104 systems where cost-­effective and technically 
+feasible. The National Bureau of Standards (NBS) Data Encryption 
+Standard (DES) will be used until a certification process is established 
+and other technologies made available. (C)
+—Expand the KY–70 to KY–3 interface from two to four ports to 
+improve intersystem communications by eliminating queing problems. 
+Both should be operational by July 1980. (C)
+190.	 Memorandum From Secretary of Defense Brown to 
+President Carter1
+Washington, June 7, 1980
+SUBJECT
+False Missile Alert (U)
+INTRODUCTION
+During the last two weeks we have had three false missile warn-
+ing incidents, each of which has been isolated to the same component, 
+a dual-­channel multiplexer within the NORAD computer system. 
+The first incident on May 28th lasted only 6 seconds and was imme-
+diately recognized as an anomaly. No actions were taken. The second 
+incident on June 3rd lasted for about 30 minutes. This is described in 
+detail below. After this incident, a modification to the computer pro-
+gram was installed in order to recognize a repeat of this error and to 
+alert the system. Unfortunately, when a similar error occurred on June 
+6th, the corrective modification did not immediately identify the error. 
+As a result, SAC did respond to the June 6th incident by alerting air 
+crews and starting engines. However, as in the June 3rd incident, no 
+1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File, 
+Box 42, Missile Warning Incidents: 11/79–8/80. Top Secret; Sensitive. Carter wrote in 
+the upper right corner of the memorandum: “Harold—Mount every effort to correct the 
+system. J.”

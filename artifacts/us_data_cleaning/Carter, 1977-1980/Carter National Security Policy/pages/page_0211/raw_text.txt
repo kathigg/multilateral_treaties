@@ -1,0 +1,45 @@
+186  Foreign Relations, 1977–1980, Volume IV
+—The government shall conduct a multi-­faceted R&D program 
+covering both system and user oriented protection approaches funded 
+at about $15 million per year.
+—Phase I and II of the DUCKPINS cable program shall be com-
+pleted as soon as possible and no later than in 1978. This program shall 
+be funded at a level of about $4 million per year.
+—Executive Secure Voice Network (ESVN) systems shall be 
+installed when appropriate high priority requirements can be validated.
+4. Management and policy review responsibilities for telecommu-
+nication protection shall be organized as follows:
+a. The NSC Special Coordination Committee (SCC) shall be respon-
+sible for providing policy guidance and for ensuring full implementa-
+tion of this directive, including effective protection techniques for the 
+government and maximum assistance to the private sector to enhance 
+its protection from interception. The SCC shall exercise this responsi-
+bility through a special Subcommittee on Telecommunications Protec-
+tion chaired by the Director, Office of Science and Technology Policy, 
+with administrative support provided by the Secretary of Commerce. 
+The Subcommittee shall include but not be limited to representatives of 
+the following departments and agencies: State, Treasury, Justice, Com-
+merce, Defense, Transportation, Energy, Central Intelligence Agency, 
+General Services Administration, the National Security Agency, and the 
+National Security Council Staff.
+b. The Subcommittee shall submit a report on its activities, rec-
+ommendations and findings at least annually to the National Security 
+Council through the Special Coordination Committee. Additionally, 
+that report shall specifically address how effectively the policy and 
+actions specified in this directive are being implemented.
+c. The Secretary of Defense shall act as the Executive Agent for 
+communications security (COMSEC) to protect government-­derived 
+classified information and government-­derived unclassified informa-
+tion which relates to national security. COMSEC is concerned with pro-
+tective measures designed for the security of classified information and 
+other information related to national security.
+d. The Secretary of Commerce shall act as the Executive Agent for 
+communications protection for government-­derived unclassified infor-
+mation (excluding that relating to national security) and for dealing 
+with the commercial and private sector to enhance their communica-
+tions protection and privacy.
+e. It is recognized that there will be some overlap between the 
+responsibilities of the Executive Agents in that Defense will continue 
+to provide some non-­cryptographic protection for government-­derived 
+unclassified information as it does now, and Commerce will have 
+responsibilities in commercial application of cryptographic technology.

@@ -1,0 +1,44 @@
+738  Foreign Relations, 1977–1980, Volume IV
+167.	 Memorandum From Secretary of Defense Brown to 
+President Carter1
+Washington, November 20, 1979
+SUBJECT
+NORAD False Alarm (C)
+(TS) On 9 November 1979, a spurious missile attack warning was 
+inadvertently introduced into the computer system at the NORAD 
+Combat Operations Center (NCOC) in Cheyenne Mountain. As hap-
+pened in this case, the system design properly and automatically 
+transmits such warnings to appropriate national and regional com-
+mand centers in the United States, Canada, and the United Kingdom. 
+Understandable concern over this event by those unfamiliar with the 
+technical and procedural safeguards in our strategic warning system 
+has raised questions both here and abroad concerning the potential for 
+precipitous action in a real or simulated crisis. The following report 
+summarizes the genesis of the false alarm, the actions taken as a result, 
+and my conclusions regarding the reliability of the warning system.
+(TS) The immediate cause of the incident was the inadvertent 
+introduction of a test attack scenario into the automated NCOC mis-
+sile warning system display. To the NCOC operations staff, the attack 
+indications were not immediately identifiable as spurious when the 
+display appeared, and they properly initiated alerting and verification 
+procedures appropriate to indications of a mass missile raid. Concur-
+rently, a Threat Assessment Conference (TAC) was called by the Dep-
+uty Director for Operations in the National Military Command Center 
+(NMCC) to evaluate the threat. The TAC is an emergency conference 
+one level below the Missile Attack Conference; the latter includes the 
+National Command Authorities. As a result of this conference and the 
+many quickly identifiable anomalies, the threat was clearly, correctly, 
+and conclusively evaluated as spurious in less than six minutes of the 
+first alarm. Because of this evaluation and the earlier recognition of the 
+many anomalies before the official assessment of the threat as spurious, 
+a Missile Attack Conference was deemed unnecessary.
+1 Source: Carter Library, National Security Affairs, Brzezinski Material, Subject File, 
+Box 42, Missile Warning Incidents: 11/79–8/80. Top Secret. Carter wrote in the upper 
+right corner of the memorandum: “Harold, This was a serious mistake and should have 
+been reported to me immediately. J.” Brzezinski sent the memorandum to Carter under 
+cover of a November 21 memorandum, which Carter initialed. (Ibid.) Odom sent both 
+Brown’s memorandum to Carter and the covering memorandum to Brzezinski for his 
+signature under cover of a November 21 memorandum. Aaron wrote on Odom’s memo-
+randum to Brzezinski: “ZB, This is an unbelievable fuzzy-­ball. It is not possible to figure 
+out what happened. I think Harold should be told to give us an explicit statement of what 
+happened.” (Ibid.)

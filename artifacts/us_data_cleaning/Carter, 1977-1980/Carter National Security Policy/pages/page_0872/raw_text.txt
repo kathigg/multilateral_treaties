@@ -1,0 +1,71 @@
+1980  847
+Examining the various basing options, some rough comparisons 
+can be made. From this general assessment, it appears that the desig-
+nated unprepared semi-­mobile mode presents the most cost-­effective 
+option. It should be stressed, however, that this is not based upon defin-
+itive analysis; it only represents a logical starting point for the iterative 
+development and evaluation processes outlined in the basic paper. The 
+table also does not exclude the possibilities of mixed systems, draw-
+ing upon several alternate basing modes to maximize redundancy and 
+dispersion.
+CHARACTERISTICS
+Survivability Endurability
+Operability
+Cost
+BASING MODES
+Submarines
+high
+good
+poor
+high
+Surface Vessel
+low-­
+moderate
+good
+poor-­
+moderate
+high
+[less than 1 line not 
+declassified]
+high
+poor
+moderate
+moderate-­
+high
+Land-­based Dedicated 
+Prepared Stationary
+low-­
+moderate
+good
+good
+moderate-­
+very high
+Dedicated Prepared 
+Semi-Mobile
+moderate-­
+high
+good
+moderate-­
+good
+low-­high
+Designated Unprepared 
+Stationary
+low
+good
+good
+very low
+Designated Unprepared 
+Semi-Mobile
+high
+moderate-­
+good
+moderate-­
+good
+low-­
+moderate
+Fully Mobile
+high
+poor
+poor
+high
+EVALUATION MATRIX

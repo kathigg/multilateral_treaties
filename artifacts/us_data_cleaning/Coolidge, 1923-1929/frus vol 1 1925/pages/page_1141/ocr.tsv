@@ -1,0 +1,8 @@
+level	page_num	block_num	par_num	line_num	word_num	left	top	width	height	conf	text
+1	1	0	0	0	0	0	0	3880	310	-1	
+2	1	1	0	0	0	28	236	631	74	-1	
+3	1	1	1	0	0	28	236	631	74	-1	
+4	1	1	1	1	0	28	236	631	74	-1	
+5	1	1	1	1	1	28	237	82	67	95	35
+5	1	1	1	1	2	140	256	158	54	0	Nant
+5	1	1	1	1	3	330	236	329	74	88	nrinted.

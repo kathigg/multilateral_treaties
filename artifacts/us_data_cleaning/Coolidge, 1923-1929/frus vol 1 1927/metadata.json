@@ -1,0 +1,32 @@
+{
+  "source_pdf": "/usa/kathigg/multilateral_treaties/us_data/Coolidge, 1923-1929/frus vol 1 1927.pdf",
+  "relative_path": "Coolidge, 1923-1929/frus vol 1 1927.pdf",
+  "output_dir": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Coolidge, 1923-1929/frus vol 1 1927",
+  "status": "completed",
+  "started_at": "2026-05-05T17:30:34+00:00",
+  "completed_at": "2026-05-05T17:31:41+00:00",
+  "duration_seconds": 66.81,
+  "page_count": 1257,
+  "processed_pages": 1257,
+  "failed_page_count": 0,
+  "page_method_counts": {
+    "ocr": 29,
+    "embedded_text": 1228
+  },
+  "mean_ocr_confidence": 77.54982439945675,
+  "failed_pages": [],
+  "document_cleaning_summary": {
+    "line_counts": {
+      "keep": 32229,
+      "blank": 1281,
+      "table": 3291,
+      "noise": 57
+    },
+    "kept_nonblank_lines": 32229
+  },
+  "output_files": {
+    "raw_text": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Coolidge, 1923-1929/frus vol 1 1927/raw_text.txt",
+    "clean_text": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Coolidge, 1923-1929/frus vol 1 1927/clean_text.txt",
+    "prose_text": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Coolidge, 1923-1929/frus vol 1 1927/prose_text.txt"
+  }
+}

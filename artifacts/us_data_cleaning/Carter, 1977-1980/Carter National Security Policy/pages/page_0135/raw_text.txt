@@ -1,0 +1,43 @@
+110  Foreign Relations, 1977–1980, Volume IV
+doing about this situation. The Vice President also asked Stan Turner 
+to continue working with the Senate Select Committee on Intelligence 
+to provide them with a better understanding of the actions presently 
+underway, the complex nature of counteractions, and pros and cons of 
+their ultimate effectiveness.
+The following conclusions were reached:
+1. Not enough is known of the threat of Soviet interception to 
+the “national interest-­government” and especially “national interest-­
+private” categories of unclassified information. There is also uncer-
+tainty about Soviet intentions and objectives. Stan Turner was, therefore, 
+asked to assume responsibility for preparation of a risk-­benefit estimate 
+that assesses more systematically the threat of Soviet telecommuni-
+cations intercept to all categories of classified and unclassified infor-
+mation, including that solely in the private sector, and the benefit of 
+similar U.S. telecommunications intercepts abroad. This estimate is to 
+be given highest priority, with a preliminary report due before the end 
+of August.
+2. The broad outlines of a National Telecommunications Protection 
+Policy were agreed upon as follows:
+—Government classified information relating to national defense 
+and foreign relations should, as presently required, be transmitted only 
+by secure means. NSA should continue to have responsibility for provi-
+sion of adequate cryptographic security.
+—Unclassified information transmitted by and between Govern-
+ment agencies and contractors that would be useful to an adversary 
+(so-­called “national interest: government”) should be protected. Identi-
+fication of such communications should be a priority task.
+—Non-­governmental information that would be useful to an 
+adversary (so-­called “national interest: private”) should be identified 
+and the private sector informed of the problem and encouraged to take 
+appropriate protective measures. Government R&D information and 
+protective technology should be made available to the common carri-
+ers. The additional provision, however, of government equipment and 
+funds to the private sector would probably require legislation and raises 
+some fundamental issues and concerns about government involvement.
+—More attention must be given to the threat to strictly private 
+communications of Americans, especially in view of public concern 
+about the need to safeguard civil rights and to protect against black-
+mail. Specifically:
+• The FCC should be requested to work with the common carriers 
+to determine system capabilities to protect the privacy of individual 
+private communications. If regulatory directives are needed to ensure

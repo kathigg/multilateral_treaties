@@ -1,0 +1,32 @@
+{
+  "source_pdf": "/usa/kathigg/multilateral_treaties/us_data/Carter, 1977-1980/Carter Eastern Europe.pdf",
+  "relative_path": "Carter, 1977-1980/Carter Eastern Europe.pdf",
+  "output_dir": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Carter, 1977-1980/Carter Eastern Europe",
+  "status": "completed",
+  "started_at": "2026-04-28T18:43:52+00:00",
+  "completed_at": "2026-04-28T18:46:57+00:00",
+  "duration_seconds": 185.12,
+  "page_count": 1068,
+  "processed_pages": 1068,
+  "failed_page_count": 0,
+  "page_method_counts": {
+    "embedded_text": 1062,
+    "ocr": 6
+  },
+  "mean_ocr_confidence": null,
+  "failed_pages": [],
+  "document_cleaning_summary": {
+    "line_counts": {
+      "keep": 44110,
+      "table": 2298,
+      "blank": 1061,
+      "noise": 54
+    },
+    "kept_nonblank_lines": 44110
+  },
+  "output_files": {
+    "raw_text": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Carter, 1977-1980/Carter Eastern Europe/raw_text.txt",
+    "clean_text": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Carter, 1977-1980/Carter Eastern Europe/clean_text.txt",
+    "prose_text": "/usa/kathigg/multilateral_treaties/artifacts/us_data_cleaning/Carter, 1977-1980/Carter Eastern Europe/prose_text.txt"
+  }
+}

@@ -1,0 +1,29 @@
+About the Electronic Edition
+The Office of the Historian at the U.S. Department of State has embarked
+on a program to release an ebook edition of the Foreign Relations of the
+United States (FRUS) series, which was established in 1861. Far lighter and
+more portable than printed editions of FRUS, the ebook edition offers the
+full content of each volume and makes use of the full-text search and other
+reading features of most ebook devices and applications, including
+bookmarking and note-taking. Unlike the web-based edition of FRUS, the
+ebook edition, once downloaded, can be accessed even without internet
+connectivity.
+In creating the FRUS ebook edition, we endeavored to maintain fidelity
+with the original printed edition. One challenge in this respect is
+representing original page numbers from printed editions in ebooks. For
+readers who need to cite material in this ebook, we recommend citing
+document numbers instead of page numbers, since document numbers are
+persistent, media-neutral identifiers. In older FRUS volumes (before the
+subseries covering the Johnson administration), where cross references use
+page numbers rather than document numbers, we append to each page
+number a bracketed list of the document numbers that correspond to it.
+The Office of the Historian has worked to ensure that this ebook is error-
+free and works on a broad range of devices. Please email
+history_ebooks@state.gov with any feedback.
+To learn about updates to this ebook, other ebooks, and the ebook initiative
+in general, visit our ebooks homepage , and follow us on Twitter at
+@HistoryAtState and Tumblr at HistoryAtState .
+Office of the Historian
+Bureau of Public Affairs
+U.S. Department of State
+May 2018

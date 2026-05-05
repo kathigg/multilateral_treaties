@@ -1,0 +1,43 @@
+834  Foreign Relations, 1977–1980, Volume IV
+As you are aware, the false indications that led to the precaution-
+ary measures taken at SAC on June 3 and 6 resulted from a computer 
+malfunction. These false indications were immediately identified by 
+duty officers, who exercised the planned safeguards designed for such 
+a contingency. The corrective actions taken thus far include procedures 
+to strengthen human safeguards as well as technical measures to repair 
+the immediate problem in the computer. The following are specific 
+actions which have been taken in these two categories:
+Operational and Procedural Actions
+Emergency action procedures have been modified so that any com-
+mand center can request a Missile Display Conference (MDC). This is 
+the lowest of three levels of conference: Missile Display; Threat Assess-
+ment; and Missile Attack. Any potentially threatening warning indica-
+tion will result in an MDC, and MDCs will be conducted on dedicated 
+secure voice circuits. If any delay occurs, non-­secure voice circuits will 
+be used.
+Amendments have been made in SAC missile warning procedures 
+on an interim basis pending a complete review of all relevant proce-
+dures. No posture change will be made in SAC forces unless confirmed 
+by a NORAD system confidence of “medium” or “high,” or the receipt 
+by SAC of sensor data indicating a potential missile attack directly 
+from either our infrared-­sensing satellites or our new SLBM warning 
+radar.
+The Chairman of the JCS has discussed with me, and then approved, 
+a revised Situation Action display. The revision adds missile count 
+information derived from directly-­connected sensor data. The display 
+already has NORAD summary data for each sensor system. Thus, both 
+the NORAD summary (which comes through the computer) and direct 
+(though less detailed) data from the sensors can be compared on one 
+display. Software program development and checkout testing will take 
+approximately three weeks at SAC. Installation at NMCC and ANMCC 
+will require an additional four days. Since NORAD does not have the 
+Situation Action display, installation at NORAD will take significantly 
+longer.
+The Chairman of the JCS visited SAC Headquarters and NORAD 
+Headquarters yesterday and today to discuss new procedures and fol-
+low-­on actions.
+Technical/Equipment Actions
+The technical problem that generated the false displays occurred 
+in a NOVA 840 minicomputer manufactured by Data General. The 
+specific minicomputer that introduced the problem is four years old 
+and is used in the Communications System Segment (CSS) at NORAD.

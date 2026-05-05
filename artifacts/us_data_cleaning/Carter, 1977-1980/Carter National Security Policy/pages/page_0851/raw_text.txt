@@ -1,0 +1,40 @@
+826  Foreign Relations, 1977–1980, Volume IV
+SAC aircraft were taxied or launched. We have now instituted further 
+corrective actions described below.
+These incidents differ from the false alert of November 9, 1979.2 
+They cannot be traced to improper test procedures but are the result 
+of a failure in the computer hardware or software. These incidents 
+therefore weaken further my confidence in the computer system and I 
+consider the situation to be very serious. I have instituted a number of 
+actions designed to reinforce immediately the human safeguards, which 
+have worked well, to review critically the computer system, and then 
+to repair the deficiencies.
+I remain confident that our system has sufficient safeguards to pre-
+vent irreversible actions being taken as a result of inconclusive data. 
+My highest priority is to insure that remains the case. But I am also 
+determined to assure that the experience of repeated false alarms does 
+not cause a real alarm to be ignored.
+WHAT HAPPENED?
+May 28
+—A false BMEWS output of 2020 missiles appeared on the warn-
+ing display at SAC for 6 seconds.
+—At nearly the same time the warning display at the ANMCC 
+showed 9000 missiles for a similarly brief duration.
+—Because of the brevity of the display, no alert actions were initi-
+ated, but NORAD began a technical investigation of the anomaly.
+June 3
+—A false indication of 2 threat SLBMs appeared on the warning 
+display at SAC. The count quickly jumped to 200 SLBMs. No other 
+command centers displayed any missile warning.
+—In less than 2 minutes SAC alerted its crews to move to their air-
+craft and start engines. (Note: SAC begins these actions, even when the 
+data is known to be ambiguous, as a precautionary measure to ensure 
+survivability.)
+—Six minutes after the first false display SAC began displaying 
+2020 ICBMs from BMEWS.
+—Twelve minutes after the appearance of the first false display at 
+SAC, the NMCC display began to show 200 SLBMs.
+—The senior duty officer at the NMCC initiated a missile display 
+conference, and shortly thereafter 220 ICBMs were displayed indicat-
+ing all had already impacted.
+2 See Document 167.

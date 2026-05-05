@@ -1,0 +1,43 @@
+1980  881
+unknown. There are 552 circuit boards in the 427M which are gener-
+ally similar in design and fabrication (commercial rather than military 
+quality) to the one that failed on June 3 and 6. These boards, used as 
+interfaces throughout the 427M system, remain the primary vulnera-
+bility of the 427M today. Since these boards cannot be quickly rede-
+signed and replaced, it is imperative that we take a very conservative 
+approach to error detection and correction in the system’s computer 
+programs. (S)
+Error Detection (U)
+When the spurious signals were transmitted to NORAD’s custom-
+ers on June 3 and 6, error checking throughout the missile warning sys-
+tem was totally inadequate. Relatively simple error checks in the data 
+stream which would detect random errors were removed and restored 
+by the computer system as data messages were routed through various 
+elements of the system. Although (as a result of changes made since 
+the incidents) such simple error checks are now carried consistently 
+through the 427M system and through the computers at the receiv-
+ing command centers, these checks are inadequate to prevent bursts 
+of errors from producing false data messages as occurred on June 3 
+and 6. That is, if the 427M were on-­line today and the same failure that 
+occurred on June 3 and 6 were to recur, it is highly likely that some 
+erroneous messages would again be transmitted and appear on the dis-
+plays of NORAD’s customer command centers. (S)
+The solution to this problem is the incorporation of a very power-
+ful error-­detection technique known as cyclic redundancy codes (CRC) 
+into the computer programs of the missile warning system. Installation 
+of CRC will delay the return to full operation of the more capable 427M 
+for another three months, but I believe it is essential that we do so in 
+order to provide acceptable assurance that bursts of errors caused by 
+circuit failures will not cause false data messages to be sent. (C)
+Quality Control (U)
+It is the responsibility of the people on duty in the NORAD Chey-
+enne Mountain Complex (NCMC) to provide valid, accurate warn-
+ing information to the other command centers as well as to provide a 
+NORAD assessment. Yet prior to June 6 the crew on duty in the NCMC 
+had no way of inspecting the data they were transmitting to their cus-
+tomers; they had to assume that the data they were seeing displayed 
+were the same as those which were being transmitted to the other 
+command centers. This, we are now well aware, was an erroneous 
+assumption, but the fact that the people most qualified to analyze the 
+data discrepancy on June 3 and 6—­the people in the NORAD Chey-
+enne Mountain Complex—­were isolated from observation of the false

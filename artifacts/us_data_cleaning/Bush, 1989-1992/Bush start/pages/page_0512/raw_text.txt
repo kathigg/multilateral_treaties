@@ -1,0 +1,45 @@
+Chapter 4, February–April 1990  485
+example, the Soviets had suggested using a special cassette with special 
+seals, one for the U.S. and one for the USSR, so that the accuracy of the 
+information could be verified by both sides. In this way the U.S. would 
+get all the information. This would guarantee against circumvention of 
+the limit on encryption.
+Other questions also needed technical elaboration, Karpov contin-
+ued, such as the broadcast of information, directed beams, low-­power 
+transmission to satellites, what kind of waves, the angles of transmis-
+sion, etc.
+The Secretary asked Ambassador Burt, who had just rejoined the 
+group, to give his comments.
+Burt said that he agreed the remaining issues were complicated, 
+but he thought there were really only two major issues. One was the 
+kind of exemptions that would be allowed for encapsulating informa-
+tion. The U.S. had allowed for the right to do this on one older missile, 
+the Minuteman II. The Soviets had agreed and this was welcome. The 
+exemption problem was different on the Soviet side since it referred 
+to test programs for new warheads. The U.S. was prepared to work 
+around this by allowing a limited number of encapsulations.
+The second remaining problem was more complex, Burt contin-
+ued. This concerned how much information we could exchange and 
+how much assistance we would give the other side in assessing the 
+data. The U.S. was prepared to provide the stream of data and even the 
+frequency modulation on which data had been transmitted. We also 
+were prepared to give the frame of the digital stream. The Soviet side, 
+however, wanted more: the algorithm with which to translate the data 
+stream into engineering values. This would require further discussion 
+that evening or in the morning. Nevertheless, if we could resolve these 
+two issues, all others could be put to bed. Burt would add that we had 
+in principle solved all the issues. The only outstanding questions were 
+technical ones. In our joint statement we could say that we had agreed 
+on the framework of an agreement regarding data denial.
+Karpov said he could agree with what Burt had said, but wanted to 
+note that the sides were using different principles of transmitting tele-
+metric information. The Soviets transmitted absolute measurements of 
+absolute factors. The United States, on the other hand, only transmitted 
+data concerning changes in baseline information that was not known to 
+anyone. Therefore to find a common denominator was not so simple. 
+Additional efforts were required.
+Shevardnadze said that if the basic issues had been resolved and 
+only technical questions remained, the experts should work that night 
+in the hopes of finding a solution. The Secretary agreed, urging the 
+experts to continue that night. Shevardnadze said the experts should 
+get no sleep until they resolve the issue. Burt said that he would agree
