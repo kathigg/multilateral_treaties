@@ -5,3 +5,4 @@ __pycache__/
 artifacts/us_data_cleaning_sample/
 artifacts/us_data_cleaning/
 logs/
+run_status/*.pid
