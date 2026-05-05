@@ -102,3 +102,20 @@ The run root also gets:
 - `run_manifest.json`: one summary entry per processed document
 
 If `--keep-page-artifacts` is enabled, each document also gets a `pages/` directory with per-page text and OCR debug files.
+
+## Spotcheck Exports (Remove TOC/Front Matter)
+
+For sharing/spot-checking, you can export a per-document `final_text.txt` that removes table-of-contents-like lines and light front matter from the document-level output.
+
+```bash
+source .venv/bin/activate
+python scripts/export_spotcheck_texts.py \
+  --input-root artifacts/us_data_cleaning \
+  --output-root artifacts/us_data_spotcheck \
+  --source clean_text
+```
+
+Each document gets:
+
+- `final_text.txt`
+- `final_text.metadata.txt` (how many lines were removed)
