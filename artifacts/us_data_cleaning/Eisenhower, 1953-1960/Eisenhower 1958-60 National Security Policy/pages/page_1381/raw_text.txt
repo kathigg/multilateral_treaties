@@ -1,0 +1,44 @@
+1276  Foreign Relations, 1958–1960, Volume III, Supplement
+Hemisphere would produce very poor capability for shots in the low 
+megaton range. Electromagnetic capability for detection of tests in the 
+Southern Hemisphere is unusually poor because of the high frequency 
+of thunderstorms in the inter-­tropical front along the Equator. The 
+ability to collect samples of debris in the Southern Hemisphere is very 
+limited.
+e. Summary of Existing Capabilities and Limitations.
+(1) Surface or Air Burst 50 kilofeet within the USSR.
+(a) The electromagnetic technique may possibly detect shots 
+within the USSR of 25 KT or greater but requires a determination of 
+time independently by some other geophysical technique to take care 
+of the sorting problem.
+(b) The seismic technique is capable of detecting surface or low air 
+bursts of 100 KT or larger.
+(c) The acoustic system is capable of detecting tests of 15 KT or 
+larger.
+(d) The nuclear technique is capable of detecting tests as small as 
+3 KT as long as the debris does not rise much above 20,000 feet.
+(e) The overall detection capability for the Atomic Energy Detec­
+tion System is excellent (90–100%) for surface or air burst tests of 10 KT 
+and greater between the surface and 50 kilofeet.
+(2) Subsurface Tests. The seismic system presently has an excellent 
+capability of detecting subsurface shots of about 10 KT or larger over 
+90–95% of the area of the USSR. Subsurface tests as large as 10 to 20 KT 
+in the remaining 5–10% of the USSR might escape detection by the pres­
+ent AEDS. It is estimated from Figure 8 that a total of about 140 earth­
+quakes per year of 10 KT or larger occur in the USSR. Identification of 
+about half this number is possible, leaving about 70 events which may 
+be either explosions or earthquakes.
+(3) High Altitude Tests. It is not possible to evaluate the present 
+capability of the AEDS to detect high altitude tests.
+(4) Nuclear Tests Conducted in Remote Geographical Locations. Tests in 
+remote areas in the Southern Hemisphere of from several hundred kilo­
+tons to a megaton or two might escape detection by the present Atomic 
+Energy Detection System.
+Summarizing, the present Long Range Detection System will detect 
+and identify surface or air bursts below 50 kilofeet in the USSR having 
+a yield of 10 KT or larger. It will detect about 140 subsurface events per 
+year (by seismic means) of 10 KT yield or larger of which only 70 will 
+be positively identified as earthquakes leaving 70 subsurface events of 
+unknown origin. The detection capability for very high altitude bursts 
+over the USSR is unknown and for tests in remote geographical loca­
+tions is limited to the high kiloton or low megaton range.

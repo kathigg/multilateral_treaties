@@ -1,0 +1,45 @@
+1304  Foreign Relations, 1958–1960, Volume III, Supplement
+nuclear explosions since conventional explosives may not give the 
+same effect due to the evolution of large amounts of gas.
+The seismic signal will depend strongly on the medium in which 
+the test is conducted. The volcanic tuff in which the Rainier test was con­
+ducted probably gives a relatively small seismic signal; it is only equiv­
+alent to an air shot of about 20 times greater yield. Hard rock would 
+almost certainly give a stronger seismic signal while on the other hand it 
+may contain the radioactive products in an even smaller volume. On the 
+other hand, unconsolidated material which is found in many places near 
+the surface of the earth may well reduce the seismic effects below those 
+observed in the tuff because the signal should decrease with decreasing 
+yield stress, and unconsolidated material may have a yield stress as low 
+as one-­tenth of that of tuff (which has about 10,000 psi).
+It may also be possible, by excavating a large chamber to begin 
+with, to reduce the energy found at large distances by a factor of 10. 
+One possibility which may reduce the seismic energy is the excava­
+tion of large cavities in salt domes. Such cavities may be tens or even 
+hundreds of millions of cubic feet in volume, and need not be spheri­
+cal. For example, a cavity 150 feet in diameter and 3000 feet long may 
+have nearly the same effect as a spherical one of the same volume. The 
+excavation of such a cavity would be fairly costly, and its use might 
+be limited to a single occasion because it might cave in. To find out to 
+what extent the seismic signal from an underground explosion could be 
+reduced by suitable choice of medium, many tests would be required 
+but most of these could be carried out at low yield.
+It is likely that reduction of seismic signal is easier for low-­yield 
+shots than for high-­yield ones. Unconsolidated material is found only in 
+the top layers of the earth and the required burial depth increases with 
+yield, so that it may be difficult to find such material deep enough to 
+successfully contain a 50-­kiloton test. The digging of underground caves 
+large enough to give a substantial reduction of the seismic signal from a 
+50-­kiloton explosion will be very costly and may in fact be impossible, 
+especially since for mechanical stability a cave must be smaller at great 
+depth than near the surface. Thus it may well be possible to reduce the 
+signal from a 5-­kiloton explosion so that it “looks like” 1/2 kiloton, but 
+more difficult to make 50-­kiloton explosion appear like 5 kilotons.
+V. Identification
+It is shown in Appendix A that the seismic wave from a 1-­kiloton sub­
+surface explosion in surroundings similar to those of the Rainier shot 
+will be detected by the net of seismic stations proposed for the USSR in 
+that appendix. However, there are about 2500 earthquakes per year in 
+the USSR which give signals of similar strength. The most promising 
+feature of seismic signals from underground explosions distinguishing 
+them from earthquakes is that the first pulse from explosions always

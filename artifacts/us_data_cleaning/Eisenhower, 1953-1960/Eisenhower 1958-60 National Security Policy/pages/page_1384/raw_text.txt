@@ -1,0 +1,46 @@
+Arms Control and Disarmament  1279
+would give good assurance of obtaining electromagnetic data on shots 
+as [text not declassified]. Data on U.S. high air bursts is, of necessity, 
+very limited. It does indicate that the electromagnetic signal strengths 
+from high altitude tests are considerably smaller than from surface 
+tests. However, the electromagnetic signals [text not declassified] were 
+obtained at ranges of 1350 miles and 2400 miles, respectively.
+It is, therefore, recommended that an installation of about 30 electro­
+magnetic stations co-­located either with seismic or acoustic stations (see 
+Figures 10 and 11) would permit taking maximum advantage of the elec­
+tromagnetic technique. Since the technique does not provide indepen­
+dent detection at the present time, its purpose would be to strengthen 
+acoustic and seismic evidence of a clandestine test. In about one year 
+improved sorting techniques may permit independent detection by the 
+electromagnetic component and correspondingly increase its value.
+It should be noted that relatively simple gamma ray shields of lead 
+or water surrounding the bomb will prevent detection at useful ranges 
+by the electromagnetic system. For example, there was a calculated 
+and measured attenuation of the electromagnetic signal by a factor of 
+[text not declassified] for the U.S. test which was shielded by water. [text 
+not declassified] The signal strength, at long range detection distances, 
+would thus be reduced well below the detectable limit.
+d. Nuclear Sampling. The nuclear sampling network required to 
+detect radioactive clouds from tests of 1 kiloton or larger in the USSR and 
+China introduces a requirement to intercept air masses emanating from 
+tests in this area at all altitudes from the surface to 50,000 ft. The difficulty 
+of this problem arises principally from the fact that clouds from tests in 
+the very low kiloton range have been observed to be no more than a few 
+thousand feet thick. Setting up a picket line to insure interception of all 
+such clouds by sampling aircraft is obviously impractical. It is estimated 
+that a daily air filtering effort along a meridian at 135°E, at altitudes 
+of 10,000, 20,000, 30,000 and 40,000 feet would provide ample coverage 
+of air masses emanating from tests in both the USSR and China. Tests 
+conducted near the east coast of these countries would produce clouds 
+which would still be relatively small in extent as they pass the flight 
+lines and would have the greatest chance of escaping detection. Clouds 
+from tests further inland in Asia would be stretched out to considerably 
+greater lengths and permit a greater chance of detection.
+Several months after a moratorium on testing nuclear devices has 
+been in effect the analysis of nuclear debris samples would become 
+considerably more sensitive than they now are for the detection of 
+fresh nuclear debris, since background levels from old debris would 
+be considerably reduced. As a result, smaller samples would still pro­
+vide significant radiochemical analyses. The number of disintegra­
+tions per minute of 2.7-day Mo99 at various times after detonation is 
+given in the following table for a sample size of 107 fissions, a rough

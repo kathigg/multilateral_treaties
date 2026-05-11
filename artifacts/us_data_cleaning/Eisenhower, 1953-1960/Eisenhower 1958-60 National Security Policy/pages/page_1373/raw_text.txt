@@ -1,0 +1,43 @@
+1268  Foreign Relations, 1958–1960, Volume III, Supplement
+Laboratory, University of California Radiation Laboratory at Liver­
+more and the Naval Radiological Defense Laboratory perform special 
+analyses.
+These laboratories make quantitative mass spectrometric studies, 
+alpha pulse analyses, activation studies and chemical identifications of 
+induced activities and isotopes of the transuranium elements and fis­
+sion products over a period of one to three months after the collection of 
+the debris. All of these data are forwarded by letter report to AFOAT–1 
+where the final evaluation is carried out. Data received from all of these 
+laboratories are also transmitted to the Foreign Weapons Evaluation 
+Committee and are reviewed at periodic meetings. AFOAT–1 and the 
+Bethe Committee review and discuss conclusions concerning the type 
+of nuclear reactions, materials and geometry utilized by the Soviets in 
+each specific test.
+2. EXISTING CAPABILITIES AND LIMITATIONS:
+The Long Range Detection System of AFOAT–1 was primarily 
+designed to detect and identify surface bursts or air bursts and sub-­
+surface bursts detonated within the boundaries of the USSR. In con­
+sidering its capabilities and limitations as a system for monitoring an 
+international agreement on nuclear test limitations, the following four 
+environments for possible test detonations within the USSR have been 
+considered: surface or air bursts below 50,000 feet; sub-­surface tests; 
+high altitude tests; and surface or air bursts in remote geographical 
+locations.
+a. Surface or Air Bursts below 50 Kilofeet within the USSR. To date 44 
+nuclear tests have been identified within the USSR which are believed 
+to have been between the surface and 50 kft and two which may have 
+been higher than 50 kft. The remaining two Soviet tests were known 
+to be sub-­surface, probably underwater. Table I shows the part played 
+by each component of the Long Range Detection System in identifying 
+the 48 Soviet tests. It is noteworthy that five of these tests were picked 
+up by nuclear techniques only. No geophysical response was obtained. 
+Of interest to the study of detection capability, four of the tests did not 
+produce nuclear debris which was detectable. All four of the compo­
+nents of the system seemed to be relatively successful in tests of 500 KT 
+or higher. The absence of electromagnetic detection of some of the tests 
+does not indicate necessarily a low capability but rather that it con­
+sisted of only one station overseas and three stations in the U.S. prior 
+to 1957 and no stations prior to 1954. Finally, the table shows a variety 
+of combinations of the techniques which produced successful detection 
+on different Soviet tests, thus demonstrating the value of including all 
+four components in the system.

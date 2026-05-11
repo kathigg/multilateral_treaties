@@ -1,0 +1,46 @@
+Arms Control and Disarmament  1283
+The present Atomic Energy Act of 1954 classifies data in both of 
+these categories for both U.S. and U.K. weapons as well as the samples of 
+debris themselves as Restricted Data because they may reveal “import­
+ant information on the design and fabrication of nuclear weapons.”
+Two problems arise, therefore, in the operation of a monitoring sys­
+tem. First, the data in the above categories would have to be cleared for 
+distribution to foreign nationals, and second, some procedure would 
+have to be developed to limit analysis of debris to those measurements 
+necessary to establish the freshness of the debris but to exclude more 
+esoteric measurements which may reveal important information on 
+nuclear devices exploded by either the U.S. or the U.K.
+h. Installation Costs of a Long Range Detection System for Clandestine 
+Tests in the USSR. The Long Range Detection System within the USSR 
+discussed above involves 30 acoustic stations of the present type, 43 seis­
+mic stations utilizing improved instrumentation at each station, 30 elec­
+tromagnetic stations utilizing present equipment plus complete aerial 
+filtering coverage of air masses emanating from the USSR and China. 
+The seismic and acoustic stations, because of their mutually incompat­
+ible technical site requirements, cannot generally be co-­located. The 
+electromagnetic stations, however, are usually found, from a technical 
+standpoint, to be compatible with either seismic or acoustic locations 
+and they therefore may be co-­located with one or the other. Therefore, 
+a total of 70 detection stations within the USSR and China would be 
+required.
+The time required to install such a system will depend on a num­
+ber of factors. First, negotiation with the Russians for station locations 
+could turn out to be quite protracted. Technical surveys of possible site 
+locations will have to be made for each of the acoustic, seismic and elec­
+tromagnetic components installed. Low, flat land remote from electrical 
+disturbances both man-­made and natural, as well as from large metal 
+buildings, fences, etc., are the principal requirements for a good electro­
+magnetic station. Level or slightly rolling terrain in areas of relatively 
+low wind velocity provide good acoustic locations. Residential areas of 
+cities are practical since man-­made noise does not affect the ultra low fre­
+quency acoustic detectors. The geology of the region is critical to satisfac­
+tory seismic locations. Of importance also to a good seismic site are areas 
+of low storm activity and areas remote from man-­made or natural noise.
+The above general statements concerning the requirements for 
+adequate site locations are greatly simplified and presented only to 
+indicate that the survey for the location of all the proposed stations 
+will be a relatively involved and time-­consuming operation. Usually 
+it is desirable for the survey team to remain in the area taking back­
+ground measurements for a period of approximately 1 to 3 months, 
+depending on the technique which is to be used at the site. If several 
+survey teams could operate simultaneously, the time could be reduced.
