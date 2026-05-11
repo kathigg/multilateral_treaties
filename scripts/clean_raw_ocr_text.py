@@ -40,13 +40,24 @@ def looks_like_table_line(line: str) -> bool:
         return True
     if "Increase." in stripped and "nution" in stripped:
         return True
+    if re.search(r"\.{2,}\s*(?:\[?Pg\.?\]?|\d+)", stripped, re.IGNORECASE):
+        return True
 
     groups = numeric_groups(stripped)
     alpha = sum(char.isalpha() for char in stripped)
+    punctuation = sum(char in "._-—=:;[](){}~/\\|" for char in stripped)
 
-    if len(groups) >= 3:
+    if len(groups) >= 4 and len(stripped) <= 180:
+        return True
+    if len(groups) >= 3 and re.search(
+        r"\b(?:amount|total|increase|decrease|value|tonnage|exports?|imports?)\b",
+        stripped,
+        re.IGNORECASE,
+    ):
         return True
     if len(groups) >= 2 and alpha <= 3:
+        return True
+    if alpha < 12 and punctuation >= 4 and groups:
         return True
     return False
 
