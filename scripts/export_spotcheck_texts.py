@@ -1049,7 +1049,7 @@ def apply_frus_structural_cleaning(
         back_matter_blocks,
     ) = trim_trailing_back_matter(kept_blocks)
 
-    final = "\n\n".join("\n".join(block).rstrip() for block in kept_blocks).strip()
+    final = "\n\n".join("\n\n".join(block).rstrip() for block in kept_blocks).strip()
     if final:
         final += "\n"
 
