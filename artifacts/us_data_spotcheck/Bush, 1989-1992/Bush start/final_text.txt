@@ -1340,12 +1340,12 @@ an adequate tagging system can be devised, recognizing that such a
 system has not yet been demonstrated. (S)
 4. Limitations on Air-Breathing Systems. The existing U.S. posi-
 tion regarding bomber and air-­launched cruise missile limits including:
-—	The U.S. objective of achieving a START regime that does not
+— The U.S. objective of achieving a START regime that does not
 constrain long-­range, non-­nuclear armed, air-­launched cruise missiles;
-—	How to count ALCMs on heavy bombers;
-—	How to distinguish ALCMs from long-­range conventionally-­
+— How to count ALCMs on heavy bombers;
+— How to distinguish ALCMs from long-­range conventionally-­
 armed cruise missiles; and,
-—	The range threshold for treaty-­accountability as an ALCM. (S)
+— The range threshold for treaty-­accountability as an ALCM. (S)
 On April 26, 1989, drawing on the defense strategy review of (a) the
 relative benefits to the Soviet Union and the United States of nuclear-­
 armed, land-­attack, sea-­launched cruise missiles and (b) U.S. plans for
@@ -1388,9 +1388,9 @@ arate forum.
 — Telemetry Encryption. Whether to seek a separate agreement in
 advance of START on telemetry encryption. Whether to ban encryption
 of cruise missile telemetry as well as ballistic missile telemetry.
-—	Backfire: Whether to continue to treat the Backfire bomber as a
+— Backfire: Whether to continue to treat the Backfire bomber as a
 heavy bomber for START purposes.
-—	Former Heavy Bomber Accountability: Whether former heavy
+— Former Heavy Bomber Accountability: Whether former heavy
 bombers equipped only for non-­nuclear weapons should count in
 either the 6000 or 1600 limits.
 — Conversion of SSBNs: Whether to permit conversion of SSBNs to
@@ -1416,21 +1416,21 @@ ationally feasible, and, if so, what will be the nature of the tags, how
 they will be applied, how they will be read, whether to read tags before
 flight tests and, if not, what if any implication this has for our position
 on non-­deployed missiles. (S)
-—	Type Issues: What constitutes a “type” in order to distinguish
+— Type Issues: What constitutes a “type” in order to distinguish
 among different bombers and ballistic missiles. (S)
-—	New Types Definitions: The allowable changes to a missile,
+— New Types Definitions: The allowable changes to a missile,
 bomber, or ALCM type that, when exceeded, would categorize the
 altered item as a new type under the Treaty’s provisions. (S)
-—	Heavy Bomber Distinguishability: How to distinguish between
+— Heavy Bomber Distinguishability: How to distinguish between
 heavy bomber types with National Technical Means, and whether to
 require functionally related differences. (S)
-—	Weapon/Warhead/RV   Definition: The definition of “weapon”,
+— Weapon/Warhead/RV   Definition: The definition of “weapon”,
 “warhead”, and “RV” for accountability purposes. (S)
-—	Closeout Inspections: The scope and purpose of closeout inspec-
-—	Treaty Duration: The length of the Treaty’s duration (e.g., unlim-
+— Closeout Inspections: The scope and purpose of closeout inspec-
+— Treaty Duration: The length of the Treaty’s duration (e.g., unlim-
 ited, fixed number of years, until another event, etc.) and the conditions
 for expiration. (S)
-—	Restrictions on Future Systems: What, if any, restrictions to
+— Restrictions on Future Systems: What, if any, restrictions to
 place on air-­to-­surface ballistic missiles and intercontinental cruise
 missiles. (S)
 
@@ -7111,20 +7111,20 @@ ICBMs to depart the rail garrison for training, maintenance, and testing
 
 purposes, and for exercise and operational dispersals with notifica-
 tions, but without geographic limitations.
-—	 Option 2—Alter the existing position to adopt a large
+— Option 2—Alter the existing position to adopt a large
 Deployment Area with unrestricted movement within that Deployment
 Area. No dispersals permitted outside the Deployment Area.
-—	 Option 2A—Provide for Deployment Areas using the civilian
+— Option 2A—Provide for Deployment Areas using the civilian
 rail network limited only by geographic boundaries.
-—	 Option 3: Alter the existing position to adopt a larger
+— Option 3: Alter the existing position to adopt a larger
 Deployment Area in addition to the small Garrisons. Movement within
 the Deployment Area is unrestricted, but changes in the net number of
 missiles/launchers in each Garrison must be pre-­notified. The concept
 of exercise dispersals is eliminated.
-—	 Option 3A—Continue to allow operational dispersals without
+— Option 3A—Continue to allow operational dispersals without
 geographic limit, with post-­notification and a stated national secu-
 rity rationale.
-—	 Option 3B—Do not allow any dispersals beyond the Deployment
+— Option 3B—Do not allow any dispersals beyond the Deployment
 Area.
 Perimeter Portal Monitoring (PPM) and Suspect Site Inspections (SSI).
 The U.S. proposes to monitor additions to the mobiles inventory through
@@ -7283,11 +7283,11 @@ prevent covert production, since it is likely that the Soviets would reject
 requests to inspect plants at which they were cheating.
 
 Options—SSI at Facilities Subject to PPM. Three options exist:
-—	 Option 1—Do not permit SSI at facilities subject to PPM.
-—	 Option 2—Permit the side who decides not to establish a PPM
+— Option 1—Do not permit SSI at facilities subject to PPM.
+— Option 2—Permit the side who decides not to establish a PPM
 system at a facility of the other side to place that facility on the manda-
 tory SSI list.
-—	 Option 3—Permit right-­of-­refusal SSI at facilities subject to
+— Option 3—Permit right-­of-­refusal SSI at facilities subject to
 PPM, but where the monitoring side decides not to establish a PPM
 system.
 Annex A
@@ -7295,26 +7295,26 @@ Paper
 Washington, undated
 US startup costs in the US include the following:
 Perimeter costs
-—	 for the low case: construction and installation costs for a perim-
+— for the low case: construction and installation costs for a perim-
 eter fence and road and a warehouse for the Soviets, preparation of the
 site for Soviet portal equipment (cables, digging, concrete and poles)
 and moving sensitive facilities at the site; based on Hercules, Magna,
 UT example.
-—	 for the high case: alternate estimate for some activities pro-
+— for the high case: alternate estimate for some activities pro-
 vided by United Technologies, Coyote, CA.
 Plant manufacturing delays:
-—	 none assumed for the low case
-—	 costs estimated by United Technologies, Coyote, CA, assumed
+— none assumed for the low case
+— costs estimated by United Technologies, Coyote, CA, assumed
 for the high case.
 US recurring costs in the US include the following
 Contractor costs for maintenance of portal support facilities.
-—	 for the low case: costs estimated by Aerojet, Sacramento.
-—	 for the high case: costs estimated by United Technologies,
+— for the low case: costs estimated by Aerojet, Sacramento.
+— for the high case: costs estimated by United Technologies,
 Coyote, CA.
 OSIA escort costs: the cost of maintaining an OSIA Detachment at
 each site.
 Lodging costs
-—	 for the low case: rental costs at Magna.
+— for the low case: rental costs at Magna.
 
 — for the high case: rental costs estimated by United Technologoes,
 Coyote, CA.
@@ -8752,8 +8752,8 @@ II.
 START and Defense & Space Objectives
 
 Issues Overview����������������������������������������������������������Brent Scowcroft
-III.	 Discussion���������������������������������������������������������������������All Participants
-IV.	 Summary����������������������������������������������������������������������Brent Scowcroft
+III. Discussion���������������������������������������������������������������������All Participants
+IV. Summary����������������������������������������������������������������������Brent Scowcroft
 
 Tab D
 Paper Prepared in the National Security Council Staff
@@ -10458,8 +10458,12 @@ C or E WG
 Foley – Kryuchkov
 MOU WG
 Daniel – Artem’ Yev
-Throw-Weight Protocol WG	 Davison – Koltunov
-Mobile ICBM Verification WG	 IFFT – Beketov.
+Throw-Weight Protocol WG
+
+Davison – Koltunov
+Mobile ICBM Verification WG
+
+IFFT – Beketov.
 7. In addition, there will be the usual conforming group when
 needed to conform English and Russian texts. The Soviets have not yet
 agreed to establish a new working group on our verification/stabil-
@@ -22323,7 +22327,7 @@ Akhromeyev agreed.
 After the break, the discussions continued in a side meeting from
 [Omitted here is a discussion not related to START.]
 
-100.	 Memorandum of Conversation
+100. Memorandum of Conversation
 SUBJECT
 START
 PARTICIPANTS
@@ -22616,7 +22620,7 @@ should take it to Moscow and report to the top leadership. I will report
 to our government and seek instructions. We will then have to under-
 take certain moves.
 
-101.	 Memorandum of Conversation
+101. Memorandum of Conversation
 SUBJECT
 START: ALCMs and SLCMs
 PARTICIPANTS
@@ -22907,7 +22911,7 @@ afternoon. Did this summarize the discussion?
 Shevardnadze confirmed that it did. He said that after the meeting
 with the President the Ministers would listen to experts on testing, CFE
 and CW. The meeting ended at 8: p.m.
-102.	 Memorandum of Conversation
+102. Memorandum of Conversation
 SUBJECT
 START
 PARTICIPANTS
@@ -23511,7 +23515,7 @@ to clarify something myself, and say once again these talks tonight are
 completely informal in character. We will present our conclusions as
 informal conclusions. It is up to the ministers to decide whether to pun-
 ish us or execute us or give mercy.
-103.	 Memorandum of Conversation
+103. Memorandum of Conversation
 PARTICIPANTS
 that if you don’t accept what I am about to lay out, then we can just
 assume that what I’m presenting never existed. We see, for our part, a
@@ -23802,7 +23806,7 @@ politically-­binding declaration, you know that had the effect of a bomb
 exploding within the Soviet Union. We’ve done some good work on
 this. We should continue on it.
 Baker: Why don’t we go up stairs then. This is the time to break.
-104.	 Draft Memorandum of Conversation
+104. Draft Memorandum of Conversation
 PARTICIPANTS
 Koltunov: It would never exceed 250 square kilometers or ten mis-
 siles. The minimum would be 125 square kilometers for 10 missiles.
@@ -23880,7 +23884,7 @@ and establishing effective verification. That is why there are various
 options.
 Burt: We will return in Geneva to this subject.
 
-105.	 Memorandum of Conversation
+105. Memorandum of Conversation
 SUBJECT
 ALCMs
 PARTICIPANTS
@@ -24256,11 +24260,11 @@ the Soviet Air Force serving on the General Staff, working on arms con-
 trol and air force issues. During a lunch break, he said his background
 was as a pilot, and that he had switched to the General Staff with regret.
 
-106.	 Memorandum of Conversation
+106. Memorandum of Conversation
 SUBJECT
 START
 PARTICIPANTS
-107.	 Memorandum of Conversation
+107. Memorandum of Conversation
 PARTICIPANTS
 US/Soviet Memos of Conversation—1989/1990. Secret.
 Secretary Baker
@@ -24520,7 +24524,7 @@ a week’s time and we’ll send you our suggestions. We won’t do it in
 any formal way.
 End Conversation
 
-108.	 Memorandum of Conversation
+108. Memorandum of Conversation
 SUBJECTS
 Announcing Ministerial Dates, Arms Control Working Group Reports: START, CFE,
 CW, Proliferation, Nuclear Testing, Open Skies,
@@ -24623,7 +24627,7 @@ able to accomplish in the next seven weeks. Despite our differences in
 one area, he too was optimistic that we could make progress. This would
 enable our heads of government to have a successful summit.
 The meeting adjourned at 4: p.m.
-109.	 Memorandum From the President’s Assistant for National
+109. Memorandum From the President’s Assistant for National
 Security Affairs (Scowcroft) to Secretary of State Baker,
 Secretary of Defense Cheney, and the Chairman of the Joint
 Chiefs of Staff (Powell) 1
@@ -24688,38 +24692,38 @@ Lead
 Instructions to
 Geneva by:
 Washington Action
-1.	 Phasing of Reductions
+1. Phasing of Reductions
 Del
 April 16
-2.	 Rail Garrison Issues
+2. Rail Garrison Issues
 Del
 April 16
-3.	 Heavy Bomber Definition
+3. Heavy Bomber Definition
 JCS
 April 25
-4.	 Initial Accountability
+4. Initial Accountability
 Backstopping
 April 25
-5.	 Cooperative Measures to
+5. Cooperative Measures to
 Assist NTM
 April 25
-6.	 Strategic R&D Boosters
+6. Strategic R&D Boosters
 DCI/JCS
 April 25
-7.	 Space Launch Vehicles
+7. Space Launch Vehicles
 TBD
 May 2
-8.	 Throw-­weight
+8. Throw-­weight
 OSD
 May 2
-9.	 Pre-­inspection Movement
+9. Pre-­inspection Movement
 Restrictions
 State
 May 2
-10.	 Inspecting Missiles in Canisters
+10. Inspecting Missiles in Canisters
 Backstopping
 May 2
-11.	 Conversion or Elimination of
+11. Conversion or Elimination of
 Non-­deployed Missiles
 State
 May 2
@@ -24727,29 +24731,29 @@ Attachment
 Paper Prepared in the National Security Council
 Washington, April 9, 1990
 START Issues for Geneva
-1.	 Basing Terminology
-2.	 Rapid Reload Details
-3.	 Restrictions on Test and Training Launchers
+1. Basing Terminology
+2. Rapid Reload Details
+3. Restrictions on Test and Training Launchers
 
-4.	 Telemetry Issues
-—	 data exchange
-—	 exemptions from encapsulation ban
-—	 signal strength
-5.	 Mobile ICBMs
-—	 basing areas
-—	 movements
-—	 verification
-6.	 Launchers on Submarines
-—	 undergoing overhaul and conversion
-—	 prior to sea trials
-7.	 Use of Terms “Produce” and “Develop”
-8.	 Duration
-9.	 Support Equipment
-10.	 Unique Identifiers
-11.	 Definition of Inspection Site
-12.	 Precision of Coordinates in the MOU
-13.	 Restructuring the Inspection Protocol
-110.	 Memorandum of Conversation
+4. Telemetry Issues
+— data exchange
+— exemptions from encapsulation ban
+— signal strength
+5. Mobile ICBMs
+— basing areas
+— movements
+— verification
+6. Launchers on Submarines
+— undergoing overhaul and conversion
+— prior to sea trials
+7. Use of Terms “Produce” and “Develop”
+8. Duration
+9. Support Equipment
+10. Unique Identifiers
+11. Definition of Inspection Site
+12. Precision of Coordinates in the MOU
+13. Restructuring the Inspection Protocol
+110. Memorandum of Conversation
 SUBJECT
 START
 PARTICIPANTS:
@@ -24830,7 +24834,7 @@ your proposals are being presented.
 Bartholomew: What are your travel plans? Karpov: I will be in
 I must begin moving toward the plane.
 
-111.	 Memorandum of Conversation
+111. Memorandum of Conversation
 SUBJECT
 START
 PARTICIPANTS
@@ -25108,7 +25112,7 @@ us with a very serious problem.
 Zolotov: I will attempt to convey this to him.
 
 Chapter 5, May–June 1990
-112.	 Memorandum of Conversation
+112. Memorandum of Conversation
 PARTICIPANTS
 US/Soviet Memos of Conversation—1989/1990. Secret. The meeting took place in the
 Hotel Maritim Koenigswinter. The complete memorandum of conversation is scheduled
@@ -25304,7 +25308,7 @@ Baker: You know, if you and I agree on it, I think that will make a
 big statement and that will have an effect on others. We really need to
 be leaders and not followers on this subject.
 [Omitted here are discussions not related to START.]
-113.	 Telegram From the Mission in Geneva to the Department
+113. Telegram From the Mission in Geneva to the Department
 of State
 4955. Subject: START: Run-up to the Summit
 1. Secret—Entire Text.
@@ -25455,7 +25459,7 @@ positions. He apparently did not say what would be done about third-­
 country forces under such deep reductions.
 Burt
 
-114.	 Memorandum From Jeffrey Starr of the Delegation to the
+114. Memorandum From Jeffrey Starr of the Delegation to the
 Nuclear and Space Talks in Geneva to the Arms Control and
 Disarmament Agency (Lehman)
 Geneva, May 9, 1990
@@ -25599,7 +25603,7 @@ after ratification of START]. The United States and the Union of Soviet
 Socialist Republics will give these subsequent talks the highest priority
 so that greater stability can be realized as soon as possible.
 
-116.	 Telegram From the Delegation to the Nuclear and Space Talks
+116. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 05140. Subject: DST—Where are the Soviets after five years?
 We have passed the fifth anniversary of the Defense and Space
@@ -25675,7 +25679,7 @@ strategic balance. They seem to know this and do not expect SDI to go
 away.
 Smith
 
-117.	 Memorandum From the President’s Assistant for National
+117. Memorandum From the President’s Assistant for National
 Security Affairs (Scowcroft) to President Bush
 Washington, May 14, 1990
 SUBJECT
@@ -25691,7 +25695,7 @@ prepared to take at the Moscow ministerial in an effort to reach closure
 with the Soviets on the basic START agreement by the Summit.
 RECOMMENDATION
 That you sign the proposed NSD at Tab A.
-118.	 Memorandum From Arnold Kanter of the National Security
+118. Memorandum From Arnold Kanter of the National Security
 Council Staff to the President’s Assistant for National Security
 Affairs (Scowcroft)
 Washington, May 14, 1990
@@ -25786,7 +25790,7 @@ of RVs on each submarine, either by downloading or ballasting launch
 tubes? I would prefer (b).
 — What, if anything, we say about nuclear SLCMs in the statement?
 [Omitted here is a discussion of the Chemical Weapons Convention]
-119.	 National Security Directive 401
+119. National Security Directive 401
 Washington, May 14, 1990
 MEMORANDUM FOR THE VICE PRESIDENT
 THE SECRETARY OF STATE
@@ -25924,7 +25928,7 @@ Additionally, the U.S. should seek a Soviet commitment to include
 all Backfires based in the ATTU region in CFE limits on aircraft. (S)
 George Bush
 
-120.	 Notes of a Meeting
+120. Notes of a Meeting
 Moscow, May 16, 1990
 Arms Control.
 JB—­response to Sov counterproposal
@@ -26231,7 +26235,7 @@ End Text.
 4. Amb Burt did not have an opportunity to clear this draft before
 departing Moscow.
 Joyce
-122.	 Notes of a Meeting
+122. Notes of a Meeting
 RB—­tactical ALCMs dont count insp of heavy bombers
 Sovs—ALCM heavy bomber limit
 SLCM disting rule
@@ -26347,7 +26351,7 @@ taken to bring Washington around on this issue. (At this point, Burt and
 Nazarkin departed for START subgroup discussions).
 End Text.
 Matlock
-124.	 Telegram From the Embassy in Moscow to the Department
+124. Telegram From the Embassy in Moscow to the Department
 of State
 19591. Subject: Official—Informal
 1. Secret—Entire Text.
@@ -26581,7 +26585,7 @@ End Text.
 4. Ambassador Burt did not have an opportunity to clear this cable
 before departing post.
 Matlock
-126.	 Editorial Note
+126. Editorial Note
 Arms Reduction Talks Subgroup of the Arms Control Working Group
 Kremlin among Secretary of State James Baker, Soviet President Mikhail
 Gorbachev, and Soviet Foreign Minister Eduard Shevardnadze, during
@@ -26624,7 +26628,7 @@ military impose certain technical conditions after the agreement had
 already been reached. While I think we may still come to closure, we
 got another reminder of the military’s role in the process and what it’s
 like to do business now.” (Ibid.)
-127.	 Notes of a Meeting
+127. Notes of a Meeting
 G—Summarize on arms control.
 JB—Human rights
 Arms Control
@@ -26725,7 +26729,7 @@ ways to verify SLCMs. Then argue for Sup. Sov. If can’t record progress.
 at least restate old pos—­or retrogressive—Barth.—­hidden agenda Find
 way to combine Ak + B views. If add to polit. declar old lang—­helps us
 get treaty. Think about this.
-128.	 Letter From Secretary of State Baker to Soviet Foreign
+128. Letter From Secretary of State Baker to Soviet Foreign
 Minister Eduard Shevardnadze
 Washington, May 19, 1990
 Dear Eduard,
@@ -26776,7 +26780,7 @@ ALCM range, we would finally put the ALCM issue behind us. Let’s
 do so now.
 Sincerely,
 James A. Baker, III
-129.	 Memorandum of Conversation
+129. Memorandum of Conversation
 PARTICIPANTS
 Files, US/Soviet Memos of Conversation—1989/1990. Secret; Nodis. The meeting took
 place in the Osobnyak Guest House of the Ministry of Foreign Affairs. Baker returned to
@@ -27037,7 +27041,7 @@ words on what bilateral agreements we’re in for.
 Baker: Yes.
 End of conversation.
 
-130.	 Telegram From the Department of State to the Embassy in the
+130. Telegram From the Department of State to the Embassy in the
 Soviet Union
 164262. Subject: Soviet Arms Control Experts Group
 1. (S) Entire Text.
@@ -27065,7 +27069,7 @@ agreements on these issues to recommend to ministers.
 7. You should confirm that Moscow has the same understanding of
 the objectives of the experts session as Washington.
 Baker
-131.	 Telegram From the Embassy in the Soviet Union to the
+131. Telegram From the Embassy in the Soviet Union to the
 Department of State
 
 16962. Subject: Soviet Arms Control Experts Group. REF: a) State
@@ -27112,7 +27116,7 @@ Grinevskiy, if CFE were also to be covered.
 7. Action: please provide response to the proposal by Karpov in
 para 3.
 Matlock
-132.	 Telegram From the Head of the Delegation to the Nuclear and
+132. Telegram From the Head of the Delegation to the Nuclear and
 Space Talks in Geneva (Burt) to Arnold Kanter of the National
 Security Council Staff
 SUBJECT: ALCMs—Dracula revisited?
@@ -27187,7 +27191,7 @@ will keep coming back to life.
 (U) 7. Lets talk about this while I’m in Washington after the sum-
 mit. Cheers,
 Rick
-133.	 Letter From Senator Helms, Grassley, McClure, Thurmond,
+133. Letter From Senator Helms, Grassley, McClure, Thurmond,
 Lott, Symms, Hatch, Pressler, and Wallop to President Bush
 Washington, May 23, 1990
 Dear Mr. President:
@@ -27249,7 +27253,7 @@ Orrin G. Hatch
 Larry Pressler
 Malcolm Wallop
 
-134.	 Memorandum From Arnold Kanter of the National Security
+134. Memorandum From Arnold Kanter of the National Security
 Council Staff to the President’s Assistant for National Security
 Affairs (Scowcroft)
 Washington, May 23, 1990
@@ -27348,7 +27352,7 @@ We also will need decisions to resolve disagreements about the
 substance of this document and regarding whether the two presidents
 should sign it.
 Robert Blackwill, Rich Davis, and John Gordon concur.
-135.	 Memorandum From Arnold Kanter of the National Security
+135. Memorandum From Arnold Kanter of the National Security
 Council Staff to the President’s Assistant for National Security
 Affairs (Scowcroft)
 Washington, May 24, 1990
@@ -27396,7 +27400,7 @@ by some as an implicit relinking of START and the ABM Treaty. If others
 see the same pitfall, then this may be something we will need to fix.
 More on all this tomorrow.
 Arnie
-136.	 Memorandum of Conversation
+136. Memorandum of Conversation
 SUBJECT
 START, CFE
 PARTICIPANTS
@@ -27867,7 +27871,7 @@ Amb. Burt and Nazarkin can handle this.
 Bartholomew: Let us continue tomorrow with START and Open
 Skies.
 
-137.	 Memorandum of Conversation
+137. Memorandum of Conversation
 SUBJECT
 START, CFE, Open Skies
 PARTICIPANTS
@@ -27942,7 +27946,7 @@ ment on future negotiations, review progress on the joint statement on
 START, take stock of CFE, review CW, and review where we are on
 Open Skies.
 
-138.	 Memorandum of Conversation
+138. Memorandum of Conversation
 SUBJECT
 START, CFE
 PARTICIPANTS
@@ -28308,7 +28312,7 @@ laration language on Backfire, what the points of agreement and dis-
 agreement might be. We will discuss this tomorrow. I will also wish to
 hear further from you on heavy ICBMs.
 Karpov: I have said what I can say.
-139.	 Memorandum of Conversation
+139. Memorandum of Conversation
 SUBJECT
 START, CFE
 PARTICIPANTS
@@ -28443,7 +28447,7 @@ you a considered effort to find a solution. You have not responded on
 the fatal flaw—­that any aircraft can be omitted by calling it naval. This
 issue has to be resolved.
 
-140.	 Letter From the President’s Assistant for National Security
+140. Letter From the President’s Assistant for National Security
 Affairs (Scowcroft) to Senator Helms
 Washington, May 30, 1990
 Dear Senator Helms:2
@@ -28501,7 +28505,7 @@ support this solid agreement that is in our national interest.
 Sincerely,
 Brent Scowcroft
 
-141.	 Memorandum of Conversation
+141. Memorandum of Conversation
 SUBJECT
 START, CFE
 PARTICIPANTS
@@ -29344,7 +29348,7 @@ was not directly discussed between Secretary Baker and President
 Grobachev. It came up only in a general way, in the second stage of
 negotiations, in the context of all strategic arms.
 
-142.	 Memorandum of Conversation
+142. Memorandum of Conversation
 SUBJECT
 START, CFE
 PARTICIPANTS
@@ -29420,7 +29424,7 @@ nical people in the program will leave.
 Bartholomew: Go tell these people that this can be dealt with. We
 have experience with stopping programs.
 
-143.	 Memorandum of Conversation
+143. Memorandum of Conversation
 SUBJECT
 Meeting with President Mikhail Gorbachev of the Soviet Union (U)
 PARTICIPANTS
@@ -29662,7 +29666,7 @@ The President: I accept the suggestion that the Ministers should do
 this. Anything to add? (S)
 Ambassador Bartholemew: No, Mr. President. (U)
 [Omitted here are discussions not related to START.]
-144.	 Memorandum of Conversation
+144. Memorandum of Conversation
 SUBJECT
 START
 PARTICIPANTS
@@ -29954,7 +29958,7 @@ guage in the first section on “stabilizing reductions” if you can accept
 the word “incentives.”
 Baker: Let’s get over to the White House.
 
-145.	 Telegram From the Department of State to All Diplomatic
+145. Telegram From the Department of State to All Diplomatic
 Posts
 177921. Subject: U.S.–Soviet Summit Joint Statements on START and
 START Follow-­on Negotiations
@@ -30217,7 +30221,7 @@ as possible. End text
 Baker
 
 Chapter 6, June–December
-146.	 Memorandum From the President’s Assistant for National
+146. Memorandum From the President’s Assistant for National
 Security Affairs (Scowcroft) to President Bush
 Washington, June 25, 1990
 SUBJECT
@@ -30272,7 +30276,7 @@ known facts about the missile. Contrary to what some critics are claim-
 ing, it does not accept any limits on Tacit Rainbow nor assume any new
 obligations.
 
-147.	 Telegram From the Delegation to the Nuclear and Space Talks
+147. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 6955. Subject: START: New Kinds and Old Arguments
 1. Secret—Entire text.
@@ -30448,7 +30452,7 @@ profound and difficult questions here. Some of these systems should
 be dealt with now and others we may have to finesse in a treaty which
 only has to cover 15 years. Any volunteers for the JCIC?
 Burt
-148.	 Telegram From the Delegation to the Nuclear and Space Talks
+148. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 7810. Subject: START: Looking at The New Joint Draft Text
 1. Secret—Entire Text.
@@ -30546,7 +30550,7 @@ had no plans to expand the size of their independent deterrent, which, even afte
 would be a smaller fraction of Soviet strategic forces than in 1963.” (Department of State,
 Central Foreign Policy File, Electronic Telegrams, D900671–0426)
 
-149.	 Memorandum From Arnold Kanter of the National Security
+149. Memorandum From Arnold Kanter of the National Security
 Council Staff to the President’s Assistant for National Security
 Affairs (Scowcroft)
 Washington, July 24, 1990
@@ -30814,7 +30818,7 @@ the Washington summit. (The uncounted RV capability on the SS–N–23
 to 4 warheads and on the Peacekeeper up to 2 warheads.) More intru-
 sive inspections (for example,5
 
-150.	 Memorandum of Conversation
+150. Memorandum of Conversation
 PARTICIPANTS
 US:
 The Secretary
@@ -31137,7 +31141,7 @@ have to discuss mobile missiles. And I’d like you to look at our new
 proposals, because I think we have some interesting ideas.
 We’ll hold our discussion on CFE for when you’d want to discuss it.
 [Omitted here are discussions not related to START.]
-151.	 Memorandum From Richard Davis of the National Security
+151. Memorandum From Richard Davis of the National Security
 Council Staff to the President’s Assistant for National Security
 Affairs (Scowcroft)
 Washington, August 3, 1990
@@ -31760,7 +31764,7 @@ tegic offensive arms.
 multiple warheads in order to be consistent with the ALCM provisions.
 5. Agreement on data exchange and tours of solid rocket motor
 plants prior to treaty signature.
-152.	 Memorandum From the Head of the Delegation to the Nuclear
+152. Memorandum From the Head of the Delegation to the Nuclear
 and Space Talks in Geneva (Burt) to Arnold Kanter of the
 National Security Council Staff
 Geneva, August 28, 1990
@@ -31996,7 +32000,7 @@ whether we can accept such a loose definition for heavy ICBMs. If we
 cannot, we might have to resolve the definition of heavy ICBM mod-
 ernization before settling the heavy ICBM issue.
 
-153.	 Telegram From the Delegation to the Nuclear and Space Talks
+153. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 9640. Subject: START: Readjusting Our Sights
 1. Secret—Entire Text.
@@ -32113,7 +32117,7 @@ agreed in principle.
 treaty and deserves careful attention in Washington.
 Kangas
 
-154.	 Memorandum From Arnold Kanter and Condoleezza Rice of
+154. Memorandum From Arnold Kanter and Condoleezza Rice of
 the National Security Council Staff to the President’s Assistant
 for National Security Affairs (Scowcroft)
 Washington, September 14, 1990
@@ -32223,7 +32227,7 @@ a formal stamp on the process and to signal clearly—­including to the
 Soviets—­that we are fully ready for the end game.
 RECOMMENDATION
 That you send the memo at Tab I to the President.
-155.	 Memorandum From the President’s Assistant for National
+155. Memorandum From the President’s Assistant for National
 Security Affairs (Scowcroft) to President Bush
 Washington, September 15, 1990
 SUBJECT
@@ -32269,7 +32273,7 @@ to close the deal if and when the Soviets get ready to engage us seri-
 ously. I will be asking you to address these during the coming week.
 RECOMMENDATION
 That you send the letter to President Gorbachev at Tab A.
-156.	 Telegram From the Department of State to the Embassy in the
+156. Telegram From the Department of State to the Embassy in the
 Soviet Union
 
 317002. Subject: Presidential Correspondence (S/S 9020209)
@@ -32322,7 +32326,7 @@ His Excellency Mikhail Gorbachev
 President of the Union of Soviet Socialist Republics
 Moscow
 Baker
-157.	 Memorandum From Arnold Kanter of the National Security
+157. Memorandum From Arnold Kanter of the National Security
 Council Staff to the President’s Assistant for National Security
 Affairs (Scowcroft)
 Washington, September 18, 1990
@@ -32791,7 +32795,7 @@ versus seeming to acquiesce to the Soviet position on banning space
 strike arms, which has been directed at prohibiting SDI. The appear-
 ance of such acquiescence would be used by some to argue against
 START ratification.
-158.	 Note From Arnold Kanter of the National Security Council
+158. Note From Arnold Kanter of the National Security Council
 Staff to the President’s Assistant for National Security Affairs
 (Scowcroft)
 Washington, September 23, 1990
@@ -32832,7 +32836,7 @@ Heavy ICBMs The familiar dialogue of the deaf ensued on this
 issue, but the Soviets did agree, almost in passing, to a ban on increasing
 the launch weight and throw-­weight of SS–18s.
 —Arnie
-159.	 Memorandum From Richard Davis of the National Security
+159. Memorandum From Richard Davis of the National Security
 Council Staff to the President’s Assistant for National Security
 Affairs (Scowcroft)
 Washington, September 28, 1990
@@ -32960,7 +32964,7 @@ The term “reentry vehicle” means an object carried on an ICBM
 or SLBM that is capable of surviving reentry through the Earth’s
 atmosphere and is also capable of containing a weapon.
 Condi Rice and Philip Zelikow concur.
-160.	 Memorandum From the Head of the Delegation to the Nuclear
+160. Memorandum From the Head of the Delegation to the Nuclear
 and Space Talks (Burt) to Secretary of State Baker
 Washington, October 1, 1990
 SUBJECT
@@ -33024,7 +33028,7 @@ language—­that we can test weapons in orbit, it would be tantamount to
 “reverse linkage”: Making their acceptance of the broad interpretation
 of the ABM Treaty a precondition to our agreeing to START.
 
-161.	 Memorandum From the Under Secretary of State for Security
+161. Memorandum From the Under Secretary of State for Security
 Assistance, Science, and Technology (Bartholomew) to
 Secretary of State Baker
 Washington, October 2, 1990
@@ -33117,7 +33121,9 @@ US position:
 The treaty article, agreed statement, and unilat-
 eral statements worked out in Geneva solve the
 problem.
-Sov position:	 The “existing pattern of cooperation” with the UK
+Sov position:
+
+The “existing pattern of cooperation” with the UK
 should permit cooperation on SLBMs only. If agree-
 ment cannot be reached on this, Sovs would make
 a unilateral statement that they can withdraw from
@@ -33445,7 +33451,7 @@ respect to the undertaking in those documents to continue active nego-
 tiations on strategic offensive arms.
 8. The START Treaty will not include any Agreed Statements refer-
 ring to the ABM Treaty.
-162.	 Letter From Secretary of State Baker to Soviet Foreign
+162. Letter From Secretary of State Baker to Soviet Foreign
 Minister Eduard Shevardnadze
 October 3, 1990
 Dear Eduard,
@@ -33502,7 +33508,7 @@ side took recently in Moscow on ALCMs, we should be able to resolve
 all remaining ALCM issues. Let’s do so now.
 Sincerely,
 James A. Baker, III
-163.	 Memorandum From the Under Secretary of State for Security
+163. Memorandum From the Under Secretary of State for Security
 Assistance, Science, and Technology (Bartholomew) to
 Secretary of State Baker
 Washington, October 4, 1990
@@ -33600,7 +33606,7 @@ tiations on strategic offensive arms.
 8. The START Treaty will not include any Agreed statements refer-
 ring to the ABM Treaty.
 
-164.	 Memorandum From the President’s Assistant for National
+164. Memorandum From the President’s Assistant for National
 Security Affairs (Scowcroft) to President Bush
 Washington, October 12, 1990
 SUBJECT
@@ -33618,7 +33624,7 @@ national security interests while making every effort to complete both
 treaties this year.
 RECOMMENDATION
 That you sign the proposed National Security Directive at Tab A.
-165.	 National Security Directive 501
+165. National Security Directive 501
 Washington, October 12, 1990
 MEMORANDUM FOR
 The Vice President
@@ -33666,11 +33672,21 @@ States will seek the ultimate elimination of heavy ICBMs in follow-­on
 negotiations, and that the Backfire and non-­circumvention issues are
 satisfactorily resolved, the U.S. may accept a package of constraints on
 heavy ICBMs consisting of the following:
-a.	 A maximum of 1540 RVs on 154 heavy ICBMs. (S)
-b.	A ban on new types of heavy ICBMs. (S)
-c.	 A ban on mobile heavy ICBMs. (S)
-d.	A ban on downloading of existing types of heavy ICBMs.
-e.	 Additional constraints on existing types of heavy ICBMs—­
+a.
+
+A maximum of 1540 RVs on 154 heavy ICBMs. (S)
+b.
+
+A ban on new types of heavy ICBMs. (S)
+c.
+
+A ban on mobile heavy ICBMs. (S)
+d.
+
+A ban on downloading of existing types of heavy ICBMs.
+e.
+
+Additional constraints on existing types of heavy ICBMs—­
 including a ban on increases in their launch weight and throw-­weight—­
 that would have the effect of constraining further improvements in
 their capabilities. (S)
@@ -33726,7 +33742,7 @@ has been completed. Accordingly, my attendance at such a summit is
 contingent on the CFE agreement having been completed. (S)
 Except as modified by the foregoing, NSD–402 remains in
 George Bush
-166.	 Telegram From the Department of State to the Embassy in the
+166. Telegram From the Department of State to the Embassy in the
 Soviet Union
 Washington, November 6, 1990
 376592. Subject: PPCM Letter
@@ -33828,7 +33844,7 @@ ing issues in our next ministerial. That would put us on track for a January sum
 (Gorbachev is eager to nail down the summit date, but joked that a mid-January summit
 might be especially interesting given what we might be doing in the Gulf at that time.)”
 (Department of State, Central Foreign Policy File, Electronic Telegrams, N900008–0257)
-167.	 Telegram From the Delegation to the Nuclear and Space Talks
+167. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 13125. Subject: Official–Informal
 1. Dave, the following is a two-­on-­two report from November 20
@@ -34023,7 +34039,7 @@ side to a START agreement. However, the Soviet side proceeded on the
 understanding that related issues had an impact on strategic stability
 and, therefore, solutions to those issues should be worked out.
 Courtney
-168.	 Telegram From the Department of State to the Embassy in the
+168. Telegram From the Department of State to the Embassy in the
 Soviet Union
 403214. Subject: Shevardnadze-Baker Letter on PPCM
 1. (S—Entire Text)
@@ -34118,7 +34134,7 @@ Sincerely,
 E. Shevardnadze
 End text
 Eagleburger
-169.	 Telegram From the Delegation to the Nuclear and Space Talks
+169. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 12906. Subject: START: The Year Without a Christmas?
 1. Secret—Entire Text.
@@ -34254,7 +34270,7 @@ could cite the extraordinary circumstances involved and probably still
 have a happy ending.
 Burt
 
-170.	 Memorandum From the Head of the Delegation to the Nuclear
+170. Memorandum From the Head of the Delegation to the Nuclear
 and Space Talks (Burt) to Secretary of State Baker
 Undated
 SUBJECT
@@ -34337,7 +34353,7 @@ colleagues about setting such a process in motion. Without it, we won’t
 sign START—­in January or ever.
 (S) 10. Best regards, Rick
 
-171.	 Memorandum From Richard Davis of the National Security
+171. Memorandum From Richard Davis of the National Security
 Council Staff to the President’s Assistant for National Security
 Affairs (Scowcroft)
 Washington, December 4, 1990
@@ -34683,7 +34699,7 @@ sile tests. The U.S. determined that unencrypted cruise missile teleme-
 try was not in the U.S. interest, and successfully resisted this ban.
 [1 paragraph (5 lines) not declassified]
 
-173.	 Letter From Soviet Foreign Minister Shevardnadze and Soviet
+173. Letter From Soviet Foreign Minister Shevardnadze and Soviet
 Defense Minister Yazov to Secretary of State Baker and
 Secretary of Defense Cheney
 Moscow, December 6, 1990
@@ -34793,7 +34809,7 @@ RECOMMENDATION
 That you sign the attached memorandum to your counterparts
 which records the consensus of your December 6 meeting and tasks
 additional work to flesh out the U.S. bottom line on data denial.
-176.	 Memorandum From the President’s Assistant for National
+176. Memorandum From the President’s Assistant for National
 Security Affairs (Scowcroft) to Secretary of State Baker,
 Secretary of Energy Watkins, Deputy Secretary of Defense
 Atwood, Vice Chairman of the Joint Chiefs of Staff Jeremiah,
@@ -34882,7 +34898,7 @@ US could agree that either side would be free to use the other side’s
 practices (i.e., power levels, frequencies, bandwidth, type of modula-
 tion) to transmit telemetry for existing types.
 
-177.	 Paper Prepared in the Department of State
+177. Paper Prepared in the Department of State
 December 8, 1990
 START
  Need to resolve some big issues soon if we are to be in a position
@@ -34957,24 +34973,24 @@ ALCM issues.
 issues once and for all.
  During the long history of our discussions, the US has agreed to
 an extensive set of measures to control long-­range nuclear ALCMs:
-—	Despite the formidable Soviet air defense network in which bil-
+— Despite the formidable Soviet air defense network in which bil-
 lions of rubles have been invested, the US agreed to a range threshold
 of 600 km.
-—	We agreed to ban ALCMs with multiple nuclear warheads.
-—	We agreed to make non-­nuclear ALCMs distinguishable from
+— We agreed to ban ALCMs with multiple nuclear warheads.
+— We agreed to make non-­nuclear ALCMs distinguishable from
 long-­range nuclear ALCMs. If they are not, they will be considered
 nuclear.
-—	We agreed to exchange data on long-­range nuclear ALCMs,
+— We agreed to exchange data on long-­range nuclear ALCMs,
 and on the distinguishing characteristics of long-­range non-­nuclear
 ALCMs, and on heavy bombers.
-—	While non-­nuclear ALCMs are not constrained by the treaty, we
+— While non-­nuclear ALCMs are not constrained by the treaty, we
 agreed to exhibit any long-­range non-­nuclear ALCM we deploy, to con-
 firm the distinguishing features.
-—	[1 paragraph (4 lines) not declassified]
-—	We agreed to on-­site inspection of heavy bombers of types
+— [1 paragraph (4 lines) not declassified]
+— We agreed to on-­site inspection of heavy bombers of types
 tested with long-­range nuclear ALCMs to verify their distinguishing
 features, and confirm they are equipped within treaty limitations.
-—	We agreed that US heavy bombers will be equipped for no more
+— We agreed that US heavy bombers will be equipped for no more
 than 20 long-­range nuclear ALCMs.
 
  The US has come a long way to meet your needs and concerns.
@@ -35149,7 +35165,7 @@ as you say in your letter, non-­military reasons due to internal polit-
 ical processes.
  Can we agree on this as a way to deal with these unlikely contin-
 gencies in a way that does not cause us a problem?
-178.	 Telegram From the Department of State to Secretary of State
+178. Telegram From the Department of State to Secretary of State
 Baker
 
 424164/TOSEC 290026. Subject: START Package
@@ -35318,7 +35334,7 @@ Baker
 Unquote
 Eagleburger
 
-179.	 Telegram From the Embassy in the Soviet Union to the
+179. Telegram From the Embassy in the Soviet Union to the
 Department of State
 1. Secret—Entire Text.
 2. On December 17, DCM passed Reftel letter and paper on START
@@ -35337,7 +35353,7 @@ that the paper on the START package was additional evidence that the
 two sides were gradually approaching a final agreement on a START
 Treaty.
 Matlock
-180.	 Telegram From the Department of State to the Delegation to
+180. Telegram From the Department of State to the Delegation to
 the Nuclear and Space Talks in Geneva
 426809. Subject: NST/START XIV Guidance 124: Post Ministerial
 Instructions
@@ -35578,7 +35594,7 @@ munications equipment by the inspecting party, if the inspected party
 prefers.
 Baker
 
-181.	 Telegram From the Delegation to the Nuclear and Space Talks
+181. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 13894. Subject: Soviet Views on Houston START Package: Burt/
 Nazarkin Meeting, December 24, 1990
@@ -35661,7 +35677,7 @@ him. Nazarkin concluded by saying that no one had a solution to the
 Soviet Union’s problems, including Yeltsin.
 Burt
 
-182.	 Telegram From the Delegation to the Nuclear and Space Talks
+182. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 13920. Subject: START: Possible Problems with the Houston
 Package. Ref: NST Geneva 13894.
@@ -35718,7 +35734,7 @@ by what he sees as Moscow’s indecisiveness on the Houston package.
 later today and promised to contact me—­if it came in—­prior to my
 departure tomorrow for a four-­day vacation.
 Burt
-183.	 Letter From Soviet Foreign Minister Shevardnadze to
+183. Letter From Soviet Foreign Minister Shevardnadze to
 Secretary of State Baker
 Moscow, December 30, 1990
 Dear James,
@@ -35850,7 +35866,7 @@ Sincerely,
 E. A. Shevardnadze
 Chapter 7,
 January–May 1991
-184.	 Telegram From the Delegation to the Nuclear and Space Talks
+184. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 00023. Subject: START: Formal Soviet Response to the Houston
 Package
@@ -36015,7 +36031,7 @@ forth in Houston. I need to know what our position is.
 —Approval of the ad ref agreement on rapid reload (my RFG
 Burt
 
-185.	 Telegram From the Department of State to the Embassy in the
+185. Telegram From the Department of State to the Embassy in the
 Soviet Union
 3800. Subject: START Letter to Shevardnadze
 1. Secret, Entire Text.
@@ -36132,7 +36148,7 @@ Sincerely,
 James A. Baker, III
 Baker
 
-186.	 Telegram From the Embassy in the Soviet Union to the
+186. Telegram From the Embassy in the Soviet Union to the
 Department of State
 
 1. Secret—Entire Text.
@@ -36157,7 +36173,7 @@ not necessarily rule out a meeting at a lower level. It was just that a
 Shevardnadze agreed, and directed Obukhov to try and work out suit-
 able dates for a “deputies” meeting through diplomatic channels.
 Matlock
-187.	 Telegram From the Department of State to the Embassy in the
+187. Telegram From the Department of State to the Embassy in the
 Soviet Union
 1.  Secret—Entire Text.
 2.  Undersecretary for International Security Affairs Reginald
@@ -36251,7 +36267,7 @@ but said that the 10th and 11th was too early in any case.
 Bessmertnykh said that he understood and would convey the mes-
 sage to Moscow.
 Eagleburger
-188.	 Telegram From the Delegation to the Nuclear and Space Talks
+188. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 00241. Subject: START: Soviet Response to Baker Letter
 1. This is Blackbird—031. Secret—Entire Text.
@@ -36365,7 +36381,7 @@ Sincerely,
 E. Schevardnadze
 Bartholomew
 
-191.	 Telegram From the Delegation to the Nuclear and Space Talks
+191. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 531. Subject: START: Foiled Again?
 1. Secret—Entire Text.
@@ -36498,7 +36514,7 @@ probably be secretly welcomed by the delegations). A longer delay,
 however, could have unpredictable consequences.
 Burt
 
-192.	 Memorandum From Arnold Kanter of the National Security
+192. Memorandum From Arnold Kanter of the National Security
 Council Staff to Florence Gantt of the National Security
 Council Staff
 SUBJECT
@@ -36653,7 +36669,7 @@ loading of mobiles would be permitted. Although there would be no
 explicit aggregate limit, the Soviets could download about 900–1300 RVs,
 and the U.S. theoretically could download about 1900 RVs.
 
-194.	 Memorandum of Conversation
+194. Memorandum of Conversation
 PARTICIPANTS
 Secretary Baker
 Alexander Bessmertnykh
@@ -36790,7 +36806,7 @@ Bessmertnykh: I hope there will be no leaks on this before I come.
 Baker: We will keep the circle very limited here and I will try to talk
 with you later today.
 End of Conversation
-195.	 Memorandum From Arnold Kanter of the National Security
+195. Memorandum From Arnold Kanter of the National Security
 Council Staff to Florence Gantt of the National Security
 Council Staff
 SUBJECT
@@ -36871,13 +36887,15 @@ These sessions persuade me that I am paid either far too much or
 far too little for this job. You can guess which I think it is.
 Cheers.
 —Arnie
-196.	 Memorandum of Conversation
+196. Memorandum of Conversation
 PARTICIPANTS
 US:
 The Secretary
 
 Dennis B. Ross (Notetaker)
-USSR:	 Soviet Foreign Minister Bessmertnykh
+USSR:
+
+Soviet Foreign Minister Bessmertnykh
 
 P. Palazhenko (Notetaker)
 [Omitted here are discussions not related to START.]
@@ -37022,7 +37040,7 @@ have a treaty. And I don’t know what the procedure is going to be for
 handling this, but I know it’s going to have to be handled.
 [Omitted here is discussion not related to START.]
 
-197.	 Memorandum From the Under Secretary of State for Security
+197. Memorandum From the Under Secretary of State for Security
 Assistance, Science and Technology (Bartholomew) to
 Secretary of State Baker
 Washington, January 29, 1991
@@ -37065,7 +37083,9 @@ Houston:
 A heavy bomber of a type which has not been flight
 tested with long-­range nuclear ALCMs will not be sub-
 ject to exhibition or inspection.
-Obukhov:	 B–2 will not be subject to inspection or exhibition, but
+Obukhov:
+
+B–2 will not be subject to inspection or exhibition, but
 this is an exception to a general rule that all bombers
 are subject to inspection.
 Politically binding statement:
@@ -37121,7 +37141,9 @@ bulkhead and for loading long-­range nuclear ALCM
 pylons on a B–1 will not be located at airbases for B–1
 heavy bombers not equipped for long-­range nuclear
 ALCMs.
-Obukhov:	 Wants confidence that there will not be rapid and mas-
+Obukhov:
+
+Wants confidence that there will not be rapid and mas-
 sive conversion of B–1s to ALCM carriers. Wants the
 necessary work to be time-­consuming and done at a
 factory or repair facility.
@@ -37157,7 +37179,9 @@ Peacekeeper as a mobile ICBM) Promontory, Utah.
 For reciprocity, we accept a second site in the US, but
 the location was not discussed in Houston. (Our pro-
 posal is to continue the INF site in Magna, Utah.)
-Obukhov:	 In Geneva, the Soviets assert the second US site should
+Obukhov:
+
+In Geneva, the Soviets assert the second US site should
 cover the Small ICBM from the beginning of the treaty,
 based the position in Shevardnadze’s pre-Houston
 letter.
@@ -37206,7 +37230,9 @@ of the agreed Houston package.
 (Obukhov also says our new, tougher position on
 downloading and the SS–N–18 has had a bad effect
 on his people.)
-US position:	 Ban downloading, with exceptions only for the
+US position:
+
+Ban downloading, with exceptions only for the
 SS–N–18 for the Soviets and the Minuteman III for
 the US. (This was worked out in Brent’s office last
 week.)
@@ -37231,7 +37257,9 @@ throw weight criterion.
 
 US proposed a 10% length criterion and no throw
 weight criterion.
-Obukhov:	 10% on both length and throw weight.
+Obukhov:
+
+10% on both length and throw weight.
 Points to make:
  We oppose any throw weight criterion.
  The Soviet approach would make it too easy to introduce new
@@ -37246,13 +37274,15 @@ SALT II.
 missile you plan, you should tell us about that and we can discuss it.
 [Omitted here is discussion not related to START.]
 
-198.	 Memorandum of Conversation
+198. Memorandum of Conversation
 PARTICIPANTS
 US:
 The Secretary
 
 Dennis B. Ross (Notetaker)
-USSR:	 Soviet Foreign Minister Bessmertnykh
+USSR:
+
+Soviet Foreign Minister Bessmertnykh
 
 P. Palazhenko (Notetaker)
 [Omitted here is discussion not related to START.]
@@ -37483,7 +37513,7 @@ I don’t think there is anything you need to do now, other than stand
 by for a complaining phone call from Baker and perhaps a willingness
 to support his efforts to get this trip unstuck.
 —Arnie
-200.	 Memorandum From Arnold Kanter of the National Security
+200. Memorandum From Arnold Kanter of the National Security
 Council Staff to the President’s Assistant for National Security
 Affairs (Scowcroft)
 Washington, February 5, 1991
@@ -37721,7 +37751,7 @@ US—1464–1864 RVs
 
 Soviet—1320 RVs
 
-201.	 Memorandum From the President’s Assistant for National
+201. Memorandum From the President’s Assistant for National
 Security Affairs (Scowcroft) to President Bush
 Washington, February 18, 1991
 SUBJECT
@@ -37820,7 +37850,7 @@ We can refine this approach between now and the end of the
 month, taking account of any developments that occur over the next
 two weeks.
 
-202.	 Memorandum From Arnold Kanter of the National Security
+202. Memorandum From Arnold Kanter of the National Security
 Council Staff to Florence Gantt of the National Security
 Council Staff
 Washington, February 22, 1991
@@ -37885,7 +37915,7 @@ We are drafting a memo from you to the President bringing him
 up to date on the big three issues. You can use it to review the broader
 political issues with him, and/or with Baker.
 —Arnie
-203.	 Telegram From the Delegation to the Nuclear and Space Talks
+203. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 2219. Subject: START: Another Deadline Missed
 1. Secret—Entire Text.
@@ -38019,7 +38049,7 @@ Conclusion
 of work, or we could let it slip away from us. The next few days could
 be crucial—­keep your fingers crossed.
 Burt
-204.	 Memorandum From Richard Davis of the National Security
+204. Memorandum From Richard Davis of the National Security
 Council Staff to the President’s Assistant for National Security
 Affairs (Scowcroft)
 Washington, March 5, 1991
@@ -38099,7 +38129,7 @@ would be to remove a deployed missile from its canister for measure-
 ment, but the Soviets have rejected that out of hand because, they say,
 the missile would be damaged and have to be discarded.
 Philip Zelikow, John Gordon and Art Kuehn concur.
-205.	 Memorandum From the Head of the Delegation to the Nuclear
+205. Memorandum From the Head of the Delegation to the Nuclear
 and Space Talks (Burt) to Secretary of State Baker
 Washington, March 5, 1991
 SUBJECT
@@ -38132,7 +38162,7 @@ this is a mistake, but I recognize the reality of the situation.
 In view of Brent’s attitude, I do not think a meeting tomorrow
 would be worth the time. Brent did say he would be prepared to dis-
 cuss the subject with you at breakfast tomorrow.
-206.	 Editorial Note
+206. Editorial Note
 On March 14, 1991, Secretary of State James Baker arrived in
 Moscow after spending March 8–14 traveling throughout the Middle
 East to garner support for an international conference to revive the
@@ -38203,7 +38233,7 @@ rent problems now will set the stage for future progress.” (Department
 of State, Office of the Under Secretary for Arms Control, International
 Security Affairs, Lot 05D259, Records of James Timbie, US-Russia BW,
 CTB Ratification, CFE Bartholomew May 1991)
-207.	 Memorandum for the Record
+207. Memorandum for the Record
 SUBJECT
 1. This memorandum documents two meetings held in Moscow
 at the Osobnyak, concerning the structure of U.S. and Soviet forces
@@ -38399,7 +38429,7 @@ the U.S. side’s concerns and Soviet intentions. Now, the U.S. side was
 looking for solutions with “one eye closed.” Brooks said that he had
 hoped that the Soviet side would be more forthcoming in the future
 and would work hard to alleviate U.S. concerns and reduce fears.
-208.	 Telegram From the Delegation to the Nuclear and Space Talks
+208. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 1. This is NST/START Memcon-XV-M-005. Secret—Entire Text.
 –Place: Mere Royaume Restaurant, Geneva
@@ -38572,7 +38602,7 @@ coordination within the Soviet delegation. End comment.
 22. Documents exchanged: none.
 and Obukhov at the Soviet Mission. (Department of State, Central Foreign Policy File,
 Electronic Telegrams, D910395–0556)
-209.	 Telegram From the Delegation to the Nuclear and Space Talks
+209. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 1. This is NST/START Memcon-XV-M-021. Secret—Entire Text.
 –Place: Rflais de Chambfsy Restaurant, Geneva
@@ -38675,7 +38705,7 @@ It was not clear from the context whether these were new instructions
 or a consolidated set; in either case they were extensive. End comment.
 14. Documents exchanged: none.
 
-210.	 Telegram From the Delegation to the Nuclear and Space Talks
+210. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 5200. Subject: START: Waiting for CFE
 1. Secret—Entire Text.
@@ -38810,7 +38840,7 @@ ters and other related undertakings outside the treaty which is going
 on here. Is Washington sure this will not create a ratification/constitu-
 tional problem?
 Brooks
-211.	 Telegram From the Delegation to the Nuclear and Space Talks
+211. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 1. This is NST/START Memcon-XV-M-063. Secret—Entire Text.
 –Place: Lion d’or Restaurant, Geneva
@@ -38985,7 +39015,7 @@ Brooks said he would bear this in mind.
 17. Documents exchanged: Soviet list of issues (English only).
 Kangas
 
-212.	 Telegram From the Delegation to the Nuclear and Space Talks
+212. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 1. This is NST/START MEMCON-XV-M-094. Secret—Entire Text.
 –Place: Obukhov’s Apartment, Soviet Mission, Geneva
@@ -39180,7 +39210,7 @@ making a report to Moscow and was anxious to have the latest informa-
 tion. Brooks promised to contact Obukhov if he received instructions.
 Brooks
 
-213.	 Telegram From the Delegation to the Nuclear and Space Talks
+213. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 1. This is NST/START Memcon-XV-M-099. Secret—Entire Text.
 –Place: Relais de Chambesy Restaurant, Geneva
@@ -39240,7 +39270,7 @@ the selection of Mr. Timothy R. Sample as his new deputy. Nazarkin
 asked Brooks to convey the congratulations of the Soviet side to
 Mr. Sample.
 Brooks
-214.	 Telegram From the Delegation to the Nuclear and Space Talks
+214. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 1. This is NST/START Memcon-XV-­M-109. Secret—Entire Text.
 –Place: Relais de Chambesy Restaurant, Geneva
@@ -39311,7 +39341,7 @@ this point but that Scott would continue to be involved in START issues
 with her new responsibilities in Washington.
 12. Documents Exchanged: None.
 Brooks
-215.	 Telegram From the Delegation to the Nuclear and Space Talks
+215. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 1. This is NST/START MEMCON-XV-M-120. Secret—Entire Text.
 –Place: Relais de Chambesy Restaurant, Geneva
@@ -39388,7 +39418,7 @@ that Soviet problems with hard currency were behind the pressure for a
 break. Brooks stressed that the best thing would be to finish the treaty
 and get it signed.
 Brooks
-216.	 Memorandum of Telephone Conversation
+216. Memorandum of Telephone Conversation
 SUBJECT
 Telcon with President Gorbachev of the USSR on May 27, 1991
 PARTICIPANTS:
@@ -39496,7 +39526,7 @@ esting call, full of substantive content.)
 
 Chapter 8,
 June–August 1991
-217.	 Memorandum From the Under Secretary of State for
+217. Memorandum From the Under Secretary of State for
 ­International Security Affairs (Bartholomew) to Secretary
 of State Baker
 Washington, June 3, 1991
@@ -39618,7 +39648,7 @@ Lesser issues
  There are a number of lesser issues, including treatment of
 expended launch canisters, launcher type rule, inspection quotas, pro-
 cedures for on-site inspection of RVs, and several throw weight issues.
-218.	 Letter From President Bush to Soviet President Gorbachev
+218. Letter From President Bush to Soviet President Gorbachev
 Washington, June 5, 1991
 Dear Mikhail:
 I am gratified that, working together, you and I have been able to
@@ -39765,7 +39795,7 @@ cooperation in all areas.
 the Embassy reported that Baker handed the letter to Bessmertnykh in Geneva on June 7.
 (Department of State, Central Foreign Policy File, Electronic Telegrams, N910004–0438)
 
-219.	 Memorandum From the President’s Assistant for National
+219. Memorandum From the President’s Assistant for National
 Security Affairs (Scowcroft) to President Bush
 Washington, June 6, 1991
 NATIONAL SECURITY COUNCIL MEETING
@@ -39875,7 +39905,7 @@ age him to overcome the resistance of his hardliners.
 to Gorbachev outlining those areas in which we may have some flexi-
 bility and those where we have very little.
 — Brent, will you lay out the approach for us?
-220.	 Paper Prepared in the National Security Council
+220. Paper Prepared in the National Security Council
 Washington, undated
 POINTS TO BE MADE FOR NSC MEETING ON START
 — As the President indicated, we want to follow the same basic
@@ -39994,7 +40024,7 @@ matters. They may accept, but more likely the President’s letter will
 result in a counteroffer.
 — This will at least give us an early indication of whether or not
 we can sign a solid treaty within the next several weeks.
-221.	 Telegram From the Delegation to the Nuclear and Space Talks
+221. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 6345. Subject: START: And Now for the Big One
 1. Secret—Entire Text.
@@ -40064,7 +40094,7 @@ needed to conduct a test would be added. This would be in addition
 to the change in current practices the Soviets have already offered for
 SS–18s at Pavlograd.
 Brooks
-222.	 Memorandum From Arnold Kanter of the National Security
+222. Memorandum From Arnold Kanter of the National Security
 Council Staff to the President’s Assistant for National Security
 Affairs (Scowcroft)
 Washington, June 12, 1991
@@ -40128,7 +40158,7 @@ higher level, with a view to expediting solution of issues related to the
 START treaty. It closes with a reference to signing the START treaty at
 the Moscow summit.
 Baker
-224.	 Letter From Soviet President Gorbachev to President Bush
+224. Letter From Soviet President Gorbachev to President Bush
 Moscow, June 15, 1991
 OFFICIAL STATE DEPARTMENT LANGUAGE
 SERVICES (OPR/LS) TRANSLATION
@@ -40347,7 +40377,7 @@ ing meeting in Moscow, and the signing of the START Treaty there, will
 turn a new page in Soviet-American interaction.
 Sincerely yours,
 M. Gorbachev
-225.	 Telegram From the Department of State to the Embassy in
+225. Telegram From the Department of State to the Embassy in
 Korea
 203170. Subject: Official-informal
 1. Secret—Entire Text
@@ -40414,7 +40444,7 @@ to the Hill on your return, for example, to Biden who came to yester-
 day’s hearing and made a strong statement on Chinese proliferation
 activities.
 Eagleburger
-226.	 Telegram From the Department of State to the Embassy in the
+226. Telegram From the Department of State to the Embassy in the
 Soviet Union
 212040. Subject: START: Bessmertnykh Message to the Secretary
 1. (Confidential—Entire Text.)
@@ -40439,7 +40469,7 @@ Presidents Gorbachev and Bush—the work on the treaty as early as
 possible and sign it during the Moscow summit in the last week of July.
 End Text.
 Baker
-227.	 Telegram From the Delegation to the Nuclear and Space Talks
+227. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 1. This is NST/START Memcon-XV-M-323. Secret—Entire Text
 –Place: Relais de Chambesy Restaurant, Geneva
@@ -40541,7 +40571,7 @@ tion of the agreements already reached.
 heavy bomber contingency operations (English Only)
 Brooks
 
-228.	 Paper Prepared in the Department of State
+228. Paper Prepared in the Department of State
 Washington, July 6, 1991
 START
 Downloading
@@ -40876,7 +40906,7 @@ START costs in convertible currency.
 — You would agree to Khabarovsk as the eastern point of entry for
 inspections.
  Can we resolve these issues on this basis?
-229.	 Telegram From the Delegation to the Nuclear and Space Talks
+229. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 1. This is NST/START Memcon-XV-M-344. Secret—Entire Text.
 Place: Trois Mousquetaires Restaurant, Geneva
@@ -40928,7 +40958,7 @@ would pass on the comments.
 10. Documents exchanged: None.
 Kangas
 
-230.	 Telegram From the Department of State to the Embassy in
+230. Telegram From the Department of State to the Embassy in
 France
 223429. Subject: Official-Informal
 1. Secret—Entire Text
@@ -41199,7 +41229,7 @@ ICBMs and SLBMs for space launch from airplanes.
 up then.
 Baker
 
-231.	 Editorial Note
+231. Editorial Note
 Bessmertnykh, Secretary of State James Baker, and their respective
 delegations met in Washington. According to talking points prepared
 for Baker’s first private meeting with Bessmertnykh, “Sasha, the pur-
@@ -41251,7 +41281,7 @@ is coming really to the end, and I would like to thank the Secretary
 and his fine team that worked with us days and nights and who are a
 little bit exhausted. But everybody’s happy about the amount of the job
 we have accomplished, so thank you very much.” (Department of State
-232.	 Memorandum From the Head of the Delegation to the Nuclear
+232. Memorandum From the Head of the Delegation to the Nuclear
 and Space Talks in Geneva (Brooks) to the Delegation to the
 Nuclear and Space Talks in Geneva
 July 15, 1991
@@ -41327,7 +41357,7 @@ that everything is a package.
 The delegation should plan on remaining in Geneva for about
 10  days after signature to finish MEMCONS. In return, we will not
 worry about timely MEMCONs until after signature.
-233.	 Telegram From the Delegation to the Nuclear and Space Talks
+233. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 1. This is NST/START Memcon-XV-M-374. Secret—Entire Text.
 –Place: Relais de Chambesy Restaurant, Geneva
@@ -41468,7 +41498,7 @@ refraining from acts which would defeat the object and purpose of the
 treaty.
 Brooks
 
-234.	 Telegram From the Delegation to the Nuclear and Space Talks
+234. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 1. Secret–Entire Text.
 2. As I discussed during the ungroup meeting on July 15, I will,
@@ -41547,7 +41577,7 @@ of finishing in 13 days. Soviets saying the right things, but not clear
 they can move paper fast enough. More when we know more.
 Brooks
 
-235.	 Telegram From the Delegation to the Nuclear and Space Talks
+235. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 1. This is NST/START Memcon-XV-M-381. Secret—Entire Text.
 Place: Chateau de Genthod, Geneva
@@ -41737,7 +41767,7 @@ helped get the job done.
 17. Documents exchanged: Draft U.S. statement on SS–N–23 SLBM.
 Brooks
 
-237.	 Telegram From the Delegation to the Nuclear and Space Talks
+237. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 7939. Subject: START: The Mother of All Endgames
 1. Secret—Entire Text.
@@ -41905,7 +41935,7 @@ the door left ajar, which it is not under the current legal regime. The
 way in which all of this might or might not be linked to future nego-
 tiations to strategic offensive arms is left as an exercise for the reader.
 Brooks
-238.	 Telegram From the Delegation to the Nuclear and Space Talks
+238. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 1. This is NST/START Memcon-XV-M-441. Secret—Entire Text.
 2. Meeting Date:
@@ -42036,7 +42066,7 @@ points to present text on force majeure issue; Soviet side: IP Annex III,
 paragraph 13.
 Brooks
 
-239.	 Telegram From the Department of State to Secretary of State
+239. Telegram From the Department of State to Secretary of State
 Baker’s Delegation
 240167/TOSEC 140536. Subject: Bessmertnykh-Baker Message on
 START Problem
@@ -42099,7 +42129,7 @@ Sincerely,
 James A. Baker III
 Eagleburger
 
-240.	 Telegram From the Delegation to the Nuclear and Space Talks
+240. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 1. Secret—Entire Text.
 3. Distinguishability appears settled, subject to getting the text
@@ -42283,7 +42313,7 @@ November, 1990 drafts. Brooks agreed.
 16.  Documents exchanged: None.
 Brooks
 
-242.	 Telegram From the Delegation to the Nuclear and Space Talks
+242. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 9019. Subject: START: Final Plenary, U.S.-USSR START Negotiations,
 July 29, 1991
@@ -42991,7 +43021,7 @@ the B–2 Heavy Bomber
 — U.S. Statement on Underground Structures
 Brooks
 
-243.	 Telegram From the Delegation to the Nuclear and Space Talks
+243. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 8572. Subject: START: Soviet Unilateral Statement on Submarine
 Tunnels
@@ -43026,7 +43056,7 @@ of America does not have and will not construct similar underground
 structures as long as the treaty remains in force.
 End Text.
 Brooks
-244.	 Telegram From the Delegation to the Nuclear and Space Talks
+244. Telegram From the Delegation to the Nuclear and Space Talks
 in Geneva to the Department of State
 8824. Subject: START: Conversations in Moscow
 1. This is NST/START Memcon-XV-M-544. Secret—Entire Text.
@@ -43040,7 +43070,9 @@ Amb. L.F. Brooks
 Amb. Yu. K. Nazarkin
 Mr. T.R. Sample
 Gen-Maj. A.S. Peresypkin
-ACDA Gen Coun T. Graham	 Mr. B.R. Ivanov
+ACDA Gen Coun T. Graham
+
+Mr. B.R. Ivanov
 Asst Legal Adv R. Dalton
 Mr. I.I. Yakovlev
 Mr. M.L. Brown
@@ -43282,7 +43314,7 @@ By Brown and Zharkov in Geneva: corrected English “alternat” of
 the geographic coordinates agreement.
 Brooks
 
-245.	 Editorial Note
+245. Editorial Note
 On July 29, 1991, President George H.W. Bush and First Lady
 Barbara Bush traveled from Washington to Moscow via Air Force One,
 which departed Andrews Air Force Base at around 6 a.m. and landed
@@ -43429,7 +43461,7 @@ Republic. Following a tour of the St. Sophia Cathedral Museum, the
 President and First Lady participated in a ceremony and laid wreath at
 the Babi Yar Holocaust Memorial. At 7: p.m., they flew by Air Force
 One from Boryspol to Andrews Air Force Base.
-246.	 Treaty Between the United States of America and the Union of
+246. Treaty Between the United States of America and the Union of
 Soviet Socialist Republics on the Reduction and Limitation of
 Strategic Offensive Arms
 Moscow, July 31, 1991
@@ -44917,7 +44949,7 @@ For The Union of Soviet Socialist Republics:
 M. Gorbachev
 President of the Union of Soviet Socialist Republics
 
-247.	 Letter From Secretary of State Baker to President Bush
+247. Letter From Secretary of State Baker to President Bush
 Washington, November 20, 1991
 The President:
 I have the honor to submit to you the Treaty Between the United

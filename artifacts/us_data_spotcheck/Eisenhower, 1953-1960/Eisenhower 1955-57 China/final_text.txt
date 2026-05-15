@@ -5383,7 +5383,7 @@ our approval. I hope you all will have some good ideas for me.
 Sincerely,
 U. Alexis Johnson
 American Ambassador
-133.	 Memorandum from Dulles to Phleger
+133. Memorandum from Dulles to Phleger
 Washington, August 25, 1955
 I have looked at Johnson’s 607 of August 24. I do not like the idea
 of making our authorization of the Government of India dependent
@@ -5882,7 +5882,7 @@ by that time our thinking on future tactics. In absence anything from
 Department will of course adhere same line and do maximum obtain
 any indication shift in Wang’s position.
 Gowen
-144.	 Memorandum of Conversation, Koo and Sebald
+144. Memorandum of Conversation, Koo and Sebald
 Washington, August 26, 1955
 SUBJECT
 Geneva Ambassadorial Talks with Chinese Communists
@@ -6728,7 +6728,7 @@ With kindest regards from all.
 Sincerely,
 U. Alexis Johnson
 American Ambassador
-156.	 Letter from Clough to McConaughy
+156. Letter from Clough to McConaughy
 Geneva, September 1, 1955
 Dear Walter:
 I am enclosing copies of our draft agreed announcement and the
@@ -7644,7 +7644,7 @@ finish before opening Dept will place telephone call to McConaughy
 home for immediately following meeting in addition to Niact telegram.
 Gowen
 
-176.	 Telegram Unnumbered to Hagerty in Denver
+176. Telegram Unnumbered to Hagerty in Denver
 Text and substance of background press material on prospective
 Geneva announcement has been changed. I will brief US press in this
 sense, not Robertson. Other arrangements stand. New guidance text
@@ -8015,7 +8015,7 @@ Latest material here obtained Hong Kong Despatch 141 and
 Gowen
 Priority.
 
-182.	 Circular Telegram 1631
+182. Circular Telegram 1631
 Washington, September 12, 1955
 163. Sent to: All American Diplomatic and Consular Posts.
 For personal attention Chief of Mission from the Secretary.
@@ -9509,7 +9509,7 @@ all Chinese to other parts of world. End FYI.
 Hoover
 by Nagoski; cleared in draft by McConaughy.
 
-215.	 Memorandum of Conversation, George and Robertson
+215. Memorandum of Conversation, George and Robertson
 Vienna, Georgia, September 21, 1955
 SUBJECT
 U.S.-Red China Geneva Talks
@@ -9786,7 +9786,7 @@ Hoover
 Drafted by McConaughy; cleared by Robertson. Repeated Priority to Geneva for Johnson
 as telegram 773. The time of transmission is illegible.
 
-222.	 Memorandum of Conversation, Richards and Robertson
+222. Memorandum of Conversation, Richards and Robertson
 Washington, September 22, 1955
 SUBJECT
 U.S.-Red China Geneva Talks
@@ -10380,7 +10380,7 @@ all items filed on Talks.
 Streibert
 by Meiklejohn; cleared in USIA by Hutchinson, Zorthian, and Stephens and by Lindbeck,
 and McConaughy.
-232.	 Memorandum from Robertson to Dulles
+232. Memorandum from Robertson to Dulles
 Washington, September 23, 1955
 SUBJECT
 Conversations with Senator George and Congressman Richards
@@ -11382,7 +11382,7 @@ to support its inclusion as subject for discussion.
 mation CHICOMS may give O’Neill on releases or other aspects
 implementation.
 Gowen
-253.	 Letter from Clough to McConaughy
+253. Letter from Clough to McConaughy
 Letter No. 10
 Geneva, September 29, 1955
 Dear Walter:
@@ -14323,7 +14323,7 @@ Informal. Johnson signed the original “Alex.”
 they take initiative in moving our meetings to another area in same building
 so that we are entirely out of Fonmin area where we are now meeting.
 UAJ
-300.	 Letter from Robertson to Erskine
+300. Letter from Robertson to Erskine
 Washington, October 19, 1955
 Dear General Erskine:
 I refer to our previous correspondence regarding unaccounted-for
@@ -16661,7 +16661,7 @@ Sincerely,
 U. Alexis Johnson
 American Ambassador
 
-342.	 Letter from Sebald to Johnson
+342. Letter from Sebald to Johnson
 Washington, November 4, 1955
 Dear Alex:
 I have been wanting to write to you for some considerable time, but
@@ -17177,7 +17177,7 @@ has today presented to Ambassador Wang Ping-nan following draft
 declaration on renunciation of use of force and proposed that it be
 accepted.
 Hoover
-359.	 Letter from Clough to Forman
+359. Letter from Clough to Forman
 Washington, November 9, 1955
 Dear Doug:
 I would have written sooner after I returned, but I have been con­
@@ -17782,7 +17782,7 @@ F. It is my hope that Communist China will no longer delay in
 demonstrating its willingness fully to carry out its freely assumed
 commitments.
 Gowen
-370.	 Letter from Johnson to Sebald
+370. Letter from Johnson to Sebald
 Geneva, November 11, 1955
 Dear Bill:
 Thank you very much for your thoughtful and generous letter of
@@ -18971,7 +18971,7 @@ Drafted by Clough; cleared in substance by Norred (NA) and by McConaughy.
 1 and 2 above provide opening resume negotiation with Wang if Com­
 munists give no satisfaction in MAC within reasonable time.
 Dulles
-390.	 Circular Airgram 41991
+390. Circular Airgram 41991
 CA–4199
 Washington, November 30, 1955
 SUBJECT
@@ -19057,7 +19057,7 @@ Medan, Melbourne, Milan, Montreal, Munich, Naples, Nagoya, Naha,
 Palermo, Penang, Sao Paulo, Singapore, Stuttgart, Surabaya, Sydney,
 Toronto, Tunis, Vancouver, Yokohama, Zagreb
 Dulles
-391.	 Circular Airgram 42001
+391. Circular Airgram 42001
 CA–4200
 Washington, November 30, 1955
 SUBJECT
@@ -19141,7 +19141,7 @@ cussion has been strictly limited to subjects mentioned in the preceding
 paragraphs.
 A similar instruction is being sent to all diplomatic posts.
 Dulles
-392.	 Memorandum from Robertson to Dulles
+392. Memorandum from Robertson to Dulles
 Washington, November 30, 1955
 SUBJECT
 Draft Declarations on Renunciation of Force
@@ -20377,7 +20377,7 @@ Thus, Communist charge that entry permit procedure not in con­
 formity with Agreed Announcement is groundless. It required only for
 those who desire to prolong stay in US, not those who desire depart.
 Dulles
-412.	 Memorandum from Robertson to Dulles
+412. Memorandum from Robertson to Dulles
 Washington, December 12, 1955
 SUBJECT
 Guidance for Geneva Talks with Chinese Communists
@@ -24801,7 +24801,7 @@ meeting February 4 instead February 3, without saying at whose ini­
 tiative. On instruction Ambassador Johnson, I agreed both requests.
 Gowen
 ­Priority. Repeated to Prague as telegram 24.
-470.	 Circular Telegram 5001
+470. Circular Telegram 5001
 500. Joint State–USIA.
 Department and Agency request telegraphic report reaction to
 Chinese Communist foreign office statement January 18 concerning
@@ -26659,7 +26659,7 @@ Feb 16.
 gested following Monday, February 12. On my hesitating and consult­
 ing calender, Wang suggested alternate of next Saturday, Feb 18.
 Gowen
-486.	 Memorandum from McConaughy to Robertson
+486. Memorandum from McConaughy to Robertson
 Washington, February 9, 1956
 SUBJECT
 Recent Reactions to Continuance of the Johnson-­Wang Talks in Geneva
@@ -26952,7 +26952,7 @@ You are juggling two pretty tricky balls with phenomenal success.
 Regards and good wishes,
 Sincerely,
 Walter P. McConaughy
-489.	 Letter from Johnson to McConaughy
+489. Letter from Johnson to McConaughy
 Prague, February 16, 1956
 Dear Walter:
 I am writing this from Prague as it looks as if my plane is going to
@@ -27095,7 +27095,7 @@ I will be standing by for your first report of the meeting on Saturday
 afternoon and earnestly hoping that all goes well.
 Regards and good wishes,
 Walter P. McConaughy
-491.	 Letter from Lindbeck to Osborn
+491. Letter from Lindbeck to Osborn
 Washington, February 17, 1956
 Dear Dave:
 I enclose copies of a number of memoranda dealing with the paper
@@ -31518,7 +31518,9 @@ outrages have taken place.
 meeting Thursday March 29. He agreed.
 Gowen
 
-550A.	 Letter 35 to Johnson
+550A.
+
+Letter 35 to Johnson
 Washington, March 23, 1956
 shown in face of Wang’s provocative and belligerent conduct is admi­
 rable. It is desirable that these talks continue and extremely important
@@ -32174,7 +32176,7 @@ Dulles
 Distribution. Drafted by Clough and Phleger; cleared in substance by Dulles and by
 McConaughy and Sebald.
 
-562.	 Memorandum of Conversation, Robertson and Koo
+562. Memorandum of Conversation, Robertson and Koo
 Washington, April 6, 1956
 SUBJECT
 Geneva Talks
@@ -32859,7 +32861,7 @@ cal and feasible means for the realization of this common desire.
 UNQUOTE
 Dulles
 
-578.	 Memorandum of Conversation, Hill, Robertson, and Members
+578. Memorandum of Conversation, Hill, Robertson, and Members
 of Congress
 Washington, April 16, 1956
 SUBJECT
@@ -34695,7 +34697,7 @@ Enclosures:
 1. Copy of Memorandum dated May 9.
 2. Copy of Memo of Conversation with Indian Minister
 
-605.	 Memorandum from Clough to Robertson
+605. Memorandum from Clough to Robertson
 Washington, May 14, 1956
 SUBJECT
 Developments in Geneva Talks Since April 21
@@ -34723,7 +34725,7 @@ imprisoned in the US.
 Attachment: (Tab A)
 by Clough.
 
-606.	 Letter from Osborn to Clough
+606. Letter from Osborn to Clough
 Geneva, May 14, 1956
 Dear Ralph:
 Reading Walter’s latest letter, which came this morning, I feel bad
@@ -36061,7 +36063,7 @@ the US.”
 4. “Peking Daily” proclamation re registration of families of stu­
 dents in US.
 6. Article by Marguerite Higgins.
-621.	 Letter from Osborn to Clough
+621. Letter from Osborn to Clough
 Geneva, May 26, 1956
 Dear Ralph:
 [text not declassified]
@@ -36128,7 +36130,7 @@ ent angle. I’ll send it along in a later letter.
 Best to all in CA—
 Sincerely,
 David L Osborn
-622.	 Letter from Osborn to Clough
+622. Letter from Osborn to Clough
 Geneva, May 28, 1956
 Dear Ralph:
 If we are not inclined to talk on the basis of Wang’s May 11 draft,
@@ -36232,7 +36234,7 @@ and arrange for such other practical and feasible means, including the
 holding of negotiations at a higher level, as may be ascertained to be
 appropriate and necessary.]
 
-623.	 Letter from Johnson to McConaughy
+623. Letter from Johnson to McConaughy
 Geneva, May 28, 1956
 Dear Walter:
 Bob Ekvall has received a letter from Ted Liu who was princi­
@@ -36842,7 +36844,7 @@ Hoover
 McConaughy; cleared in SOA. Also sent to London as telegram 7256 and New Delhi as
 telegram 2925.
 
-633.	 Letter from Johnson to McConaughy
+633. Letter from Johnson to McConaughy
 Geneva, May 31, 1956
 Dear Walter:
 Thought you would be interested in knowing that the Indian
@@ -36875,7 +36877,7 @@ U. Alexis Johnson
 American Ambassador
 Informal. Johnson signed the original “Alex.”
 
-634.	 Letter from Osborn to Clough
+634. Letter from Osborn to Clough
 Geneva, June 1, 1956
 Dear Ralph:
 After talking the last meeting over with Bob Ekvall, I had worked
@@ -38030,7 +38032,7 @@ ber 315.
 Gowen
 Repeated to the Department of State as telegram 2041.
 
-659.	 Letter from Osborn to Clough
+659. Letter from Osborn to Clough
 Geneva, June 14, 1956
 Dear Ralph:
 The failure of the Chicom statement to hit implementation may be
@@ -39790,7 +39792,7 @@ Regards to all.
 Sincerely,
 U. Alexis Johnson
 American Ambassador
-680.	 Memorandum from Colm to McConaughy
+680. Memorandum from Colm to McConaughy
 Washington, July 18, 1956
 SUBJECT
 Comments on Peking Radio regarding the Geneva talks
@@ -40564,7 +40566,7 @@ as appropriate. Position with respect implementation will of course be
 somewhat dependent on results O’Neill’s efforts see Americans and
 developments with respect Chinese prisoners in US.
 Gowen
-689.	 Memorandum from Robertson to Dulles
+689. Memorandum from Robertson to Dulles
 Washington, July 31, 1956
 SUBJECT
 Letter of Commendation from President to Ambassador Johnson
@@ -40613,7 +40615,7 @@ You are entitled to take satisfaction in the able performance of an
 exacting task.
 Sincerely yours,
 
-690.	 Memorandum of Conversation, Bunker and Robertson
+690. Memorandum of Conversation, Bunker and Robertson
 Washington, August 1, 1956
 SUBJECT
 Visits to Chinese Criminals in American Prisons
@@ -42593,7 +42595,7 @@ Regards to all.
 Sincerely,
 U. Alexis Johnson
 American Ambassador
-711.	 Letter from Johnson to McConaughy
+711. Letter from Johnson to McConaughy
 Prague, September 12, 1956
 Dear Walter:
 I have just received a telegram from Geneva saying that Senator
@@ -43266,7 +43268,7 @@ Regards to all,
 Sincerely,
 U. Alexis Johnson
 American Ambassador
-723.	 Memorandum from McConaughy to Robertson
+723. Memorandum from McConaughy to Robertson
 Washington, October 1, 1956
 SUBJECT
 Adverse Effects of Geneva Talks
@@ -44704,7 +44706,7 @@ publishing in three or four pages Current Foreign Relations.
 Dulles
 Drafted by McConaughy; cleared in substance by Phleger and Dulles and by Sebald.
 
-739.	 Letter from Osborn to McConaughy
+739. Letter from Osborn to McConaughy
 Geneva, October 25, 1956
 Dear Walter:
 From your note on the slip transmitting Fr. McCarthy’s latest let­
@@ -47033,7 +47035,7 @@ ductive than 1955 and 1956.
 Sincerely yours,
 U. Alexis Johnson
 American Ambassador
-768.	 Letter from Clough to Osborn
+768. Letter from Clough to Osborn
 Washington, December 19, 1956
 Dear Dave:
 The last batch of data on unaccounted for military personnel was
@@ -47061,7 +47063,7 @@ Sincerely,
 Ralph N. Clough
 Enclosure:
 Memo from Defense dated December 6
-769.	 Letter from Osborn to Clough
+769. Letter from Osborn to Clough
 Geneva, December 26, 1956
 Dear Ralph:
 I am returning the extra copies of the missing-­personnel dossiers
@@ -47168,7 +47170,7 @@ sion of other major substantive matters.
 Regards and good wishes to you and Pat for all of ‘57.
 Sincerely,
 Walter P. McConaughy
-771.	 Letter from Johnson to McConaughy
+771. Letter from Johnson to McConaughy
 Prague, January 7, 1957
 Dear Walter:
 I have just received your unclassified letter of January 4 and hasten
@@ -47470,7 +47472,7 @@ Minutes 64th meeting being pouched leaving Geneva January 20.
 Gowen
 Distribution.
 
-778.	 Telegram unnumbered from Geneva
+778. Telegram unnumbered from Geneva
 Geneva, January 19, 1957
 Unnumbered. From Johnson.
 1. Wang opened 64th with prepared statement: As talks between
@@ -47967,7 +47969,7 @@ Communist China by any Americans including correspondents and
 will refuse to acquiesce in requests for approval such travel either with
 or without passport.
 Dulles
-781.	 Letter from Johnson to McConaughy
+781. Letter from Johnson to McConaughy
 Prague, January 28, 1957
 Dear Walter:
 I received a copy of Taipei’s despatch No. 240 of December 10 com­
@@ -47985,7 +47987,7 @@ meeting whether anything developed between Chou and Nehru on the
 subject of the remaining prisoners.
 Sincerely,
 U. Alexis Johnson
-782.	 Letter from Osborn to Clough
+782. Letter from Osborn to Clough
 Geneva, January 30, 1957
 Dear Ralph:
 I talked with Ed Martin by phone yesterday and he told me
@@ -48144,7 +48146,7 @@ Walter P. McConaughy
 Enclosures:
 1. Press release No. 43
 3. Defense motions on Powell Case
-784.	 Letter from Johnson to McConaughy
+784. Letter from Johnson to McConaughy
 Prague, February 6, 1957
 Dear Walter:
 I have just received the Radio Bulletin containing your January 30
@@ -49129,7 +49131,7 @@ He accepted my proposal next meeting Thursday April 11.
 Full record by pouch leaving tonight.
 Returning Prague tomorrow morning.
 Owens
-797.	 Telegram unnumbered from Geneva
+797. Telegram unnumbered from Geneva
 Geneva, March 14, 1957
 Unnumbered. From Johnson.
 1. Wang opened 66th with prepared statement. As result my side
@@ -49637,7 +49639,7 @@ Sincerely yours,
 Walter P. McConaughy
 Enclosure:
 ies of letter, and statement proposed by the UN Command.
-803.	 Letter from Johnson to McConaughy
+803. Letter from Johnson to McConaughy
 Prague, April 24, 1957
 Dear Walter:
 I have received your letter of April 17 with regard to the next steps
@@ -49987,7 +49989,7 @@ sistently used terminology “Geneva agreement” in referring agreed
 announcement and to “Geneva talks”.
 Next meeting July 11.
 Popper
-808.	 Telegram unnumbered from Geneva
+808. Telegram unnumbered from Geneva
 Geneva, May 15, 1957
 Unnumbered. From Johnson.
 since he and I first entered agreement here to resolve first question with
@@ -50235,7 +50237,7 @@ gested next meeting July 11. Wanted him know I planned return this
 evening to Washington for consultation and short rest with my family.
 22. Wang agreed.
 Popper
-809.	 Letter from Clough to Johnson
+809. Letter from Clough to Johnson
 Washington, July 5, 1957
 Dear Alex:
 I haven’t a great deal to add to our conversation last Tuesday.
@@ -50436,7 +50438,7 @@ ness continue talks even if all Americans released.
 Next meeting August 8. Detailed record by pouch arriving Dept
 Monday.
 Gowen
-813.	 Telegram unnumbered from Geneva
+813. Telegram unnumbered from Geneva
 Geneva, July 11, 1957
 Unnumbered. From Johnson.
 1. Wang opened 68th with prepared statement. As he had repeat­
@@ -50966,7 +50968,7 @@ be carried out substantially in accordance with the conditions stated
 above, or is otherwise found by the Department to have direct or indi­
 rect consequences adverse to the foreign policy of the United States,
 then the experiment will be discontinued.
-817.	 Letter from Johnson to Clough
+817. Letter from Johnson to Clough
 Prague, July 26, 1957
 Dear Ralph:
 The couriers have just brought in your letter of July 18 and I am
@@ -51155,7 +51157,7 @@ August 10.
 Gowen
 Limit Distribution.
 
-821.	 Despatch unnumbered from Geneva
+821. Despatch unnumbered from Geneva
 Geneva, August 8, 1957
 SUBJECT
 China Talks—69th Meeting
@@ -51590,7 +51592,7 @@ Sincerely yours,
 U. Alexis Johnson
 Enclosure:
 1 copy of letter No. 57
-823.	 Letter from Johnson to Clough
+823. Letter from Johnson to Clough
 Prague, August 29, 1957
 Dear Ralph:
 Thanks very much for so promptly getting to me the text of the
@@ -52324,7 +52326,7 @@ hypothetical basis.
 Dulles
 Distribution. Drafted by Osborn and Clough; cleared by Robertson and Jones and in S/S.
 
-833.	 Letter from Clough to Johnson
+833. Letter from Clough to Johnson
 Washington, October 8, 1957
 Dear Alex:
 I looked into the matter of a possible amendment for Bob Ekvall’s
@@ -52372,7 +52374,7 @@ November 14 and I accepted. Full report by pouch.
 Gowen
 Limit Distribution.
 
-835.	 Despatch unnumbered from Geneva
+835. Despatch unnumbered from Geneva
 Geneva, October 9, 1957
 SUBJECT
 China Talks—71st Meeting
@@ -52907,7 +52909,7 @@ Next meeting December 12.
 Gowen
 Limit Distribution.
 
-840.	 Despatch unnumbered from Geneva
+840. Despatch unnumbered from Geneva
 Geneva, November 14, 1957
 SUBJECT
 China Talks—72nd Meeting
@@ -53162,7 +53164,7 @@ Sincerely yours,
 U. Alexis Johnson
 American Ambassador
 
-842.	 Letter from Martin to Clough
+842. Letter from Martin to Clough
 London, November 19, 1957
 Dear Ralph:
 I am writing in response to the Department’s telegram 3375
@@ -53426,7 +53428,7 @@ giving no information to press on expectation my transfer from here
 or our proposal for Martin’s designation. However, in this event must
 anticipate considerable press speculation.
 Johnson
-848.	 Letter from Martin to Clough
+848. Letter from Martin to Clough
 London, December 6, 1957
 Dear Ralph:
 It was with mild surprise that I received Deptel 4085 yesterday.
@@ -53653,7 +53655,7 @@ Full text draft agreed announcement on judicial assistance by
 ­separate telegram.
 Full report of meeting being pouched Friday.
 Gowen
-854.	 Despatch unnumbered from Geneva
+854. Despatch unnumbered from Geneva
 Geneva, December 12, 1957
 SUBJECT
 China Talks—73rd Meeting
@@ -54090,7 +54092,7 @@ Army and will thus no longer be available for this duty.
 Sincerely yours,
 U. Alexis Johnson
 American Ambassador
-857.	 Letter from Martin to Clough
+857. Letter from Martin to Clough
 London, December 16, 1957
 Dear Ralph:
 An idea has occurred to me which I am sure has undoubtedly
@@ -54115,7 +54117,7 @@ Edwin W. Martin
 First Secretary of Embassy
 Official–Informal.
 
-858.	 Letter from Martin to Clough
+858. Letter from Martin to Clough
 London, December 17, 1957
 Dear Ralph:
 We should probably wait to see what response comes from Peiping

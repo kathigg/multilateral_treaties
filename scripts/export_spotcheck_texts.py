@@ -917,6 +917,27 @@ def strip_inline_footnote_markers(line: str) -> tuple[str, int]:
     return line, total
 
 
+def expand_tab_paragraph_breaks(line: str) -> list[str]:
+    if "\t" not in line:
+        return [line]
+
+    # Tabs often encode visual spacing from PDF extraction. Promote non-label
+    # tab breaks to paragraph breaks while keeping numbered/bulleted labels inline.
+    parts = [part.strip() for part in re.split(r"\t+", line) if part.strip()]
+    if len(parts) <= 1:
+        return [line.replace("\t", " ").rstrip()]
+
+    label = parts[0]
+    if re.fullmatch(r"(?:[-—•*]|\d{1,4}[.)]|[IVXLCM]{1,8}\.)", label):
+        return [" ".join(parts)]
+
+    expanded: list[str] = [parts[0]]
+    for part in parts[1:]:
+        expanded.append("")
+        expanded.append(part)
+    return expanded
+
+
 def trim_to_first_document(lines: list[str]) -> tuple[list[str], bool, int]:
     for index, line in enumerate(lines):
         if DOCUMENT_MARKER_RE.fullmatch(line.strip()) or is_modern_document_marker_at(lines, index):
@@ -1018,7 +1039,7 @@ def apply_frus_structural_cleaning(
                     continue
                 cleaned_line, marker_count = strip_inline_footnote_markers(line)
                 removed_inline_footnote_markers += marker_count
-                marker_cleaned_block.append(cleaned_line)
+                marker_cleaned_block.extend(expand_tab_paragraph_breaks(cleaned_line))
             kept_blocks.append(marker_cleaned_block)
 
     (
