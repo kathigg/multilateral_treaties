@@ -1,5 +1,7 @@
 # Multilateral Treaties OCR Pipeline
 
+## May 15th, 10:20am:
+- A quick note to self that I think we should feed in abbreviations into the model. That is something we cannot risk the model having to infer. They are contained in the preface to most of the documents. Example: ICBMs. 
 Note to self: To ssh, use ```ssh kathigg@128.4.20.143```.
 
 This repository now includes a batch pipeline for cleaning every PDF under `us_data`.
