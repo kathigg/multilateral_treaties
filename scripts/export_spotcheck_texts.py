@@ -6,6 +6,7 @@ import json
 import re
 from dataclasses import dataclass
 from pathlib import Path
+from statistics import median
 
 
 TOC_START_RE = re.compile(
@@ -938,6 +939,51 @@ def expand_tab_paragraph_breaks(line: str) -> list[str]:
     return expanded
 
 
+def looks_like_paragraph_break(line: str, next_line: str, wrap_width: int) -> bool:
+    stripped = line.rstrip()
+    next_stripped = next_line.strip()
+    if not stripped or not next_stripped:
+        return False
+    if stripped.endswith(("-", "\xad")):
+        return False
+    if not re.search(r'[.!?]["\')\]]?$', stripped):
+        return False
+    if not re.match(r'^[A-Z("“\'\[]', next_stripped):
+        return False
+    return len(stripped) <= max(40, wrap_width - 12)
+
+
+def render_block_with_paragraph_spacing(block: list[str]) -> str:
+    lines = [line.rstrip() for line in block]
+    nonempty_lines = [line for line in lines if line.strip()]
+    if not nonempty_lines:
+        return ""
+
+    wrap_width = int(median(len(line) for line in nonempty_lines))
+    rendered: list[str] = []
+
+    for index, line in enumerate(lines):
+        if not line.strip():
+            if rendered and rendered[-1] != "":
+                rendered.append("")
+            continue
+
+        rendered.append(line)
+        if index == len(lines) - 1:
+            continue
+
+        next_line = lines[index + 1]
+        if not next_line.strip():
+            if rendered[-1] != "":
+                rendered.append("")
+            continue
+
+        if looks_like_paragraph_break(line, next_line, wrap_width):
+            rendered.append("")
+
+    return "\n".join(rendered).strip()
+
+
 def trim_to_first_document(lines: list[str]) -> tuple[list[str], bool, int]:
     for index, line in enumerate(lines):
         if DOCUMENT_MARKER_RE.fullmatch(line.strip()) or is_modern_document_marker_at(lines, index):
@@ -1049,7 +1095,11 @@ def apply_frus_structural_cleaning(
         back_matter_blocks,
     ) = trim_trailing_back_matter(kept_blocks)
 
-    final = "\n\n".join("\n\n".join(block).rstrip() for block in kept_blocks).strip()
+    final = "\n\n".join(
+        rendered
+        for rendered in (render_block_with_paragraph_spacing(block) for block in kept_blocks)
+        if rendered
+    ).strip()
     if final:
         final += "\n"
 
