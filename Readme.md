@@ -12,25 +12,25 @@ MATRS semester and long term study design.
 
    a. What emotions do we want to give to the AI model?
 
-      i. My opinion: The entire emotion wheel. Let the model figure it out
-      and do what it does best.
+      i. *My opinion: The entire emotion wheel. Let the model figure it out
+      and do what it does best.*
 
    b. How do we want to feed the data to the AI model? Paragraph level,
       correspondence level, or article level?
 
-      i. My opinion: I am strongly against trying multiple of these levels. I
+      i. *My opinion: I am strongly against trying multiple of these levels. I
       believe we should pick one level and run with it. The problem isn’t
       that the computer can’t do it, but that it will become so complicated
       that we won’t know what to do with it. I’d strongly recommend the
-      correspondence level as the correct level of granularity.
+      correspondence level as the correct level of granularity.*
 
    c. Who do we want to look at sentiment towards? Country to country?
       Country to self? Sentiment in the correspondence, generally?
 
-      i. I’d recommend doing general correspondence sentiment and country
+      i. *I’d recommend doing general correspondence sentiment and country
       to country sentiment analysis. The key is the general
       sentiment—having this, we can answer a question, like, “Does a
-      hegemon become more aggressive in sentiment as it declines?”
+      hegemon become more aggressive in sentiment as it declines?”*
 
 2. Build the AI model. To be honest, I’m a lot less concerned about this part. What
    we’re doing here isn’t novel.
