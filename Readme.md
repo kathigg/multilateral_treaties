@@ -3,9 +3,6 @@
 Hello! It’s me, Kathleen. Here’s a quick wrap-up for where we ended up being for the
 MATRS semester and long term study design.
 
-You can find this identical (near-identical, at the least) writeup also on our Github
-Readme: https://github.com/kathigg/multilateral_treaties
-
 ## The Path Forward
 
 1. Make decisions on what we want the AI model to do. This is the most crucial
